@@ -10,7 +10,7 @@ Once you have selected a topic and an information search question and have done 
 This workflow works best for finding academic sources, but you could also apply the steps when looking for popular or grey literature.
 ```
 
-![Search literature](2-Search.png)
+![Search literature](2-search.png)
 
 Common activities during this phase of the your information journey include:
 
