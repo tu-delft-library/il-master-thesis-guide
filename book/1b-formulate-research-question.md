@@ -1,8 +1,8 @@
-# 1b. Formulate a Literature Search Question
+# 1b. Formulate an Information Search Question
 
 ## Introduction
 
-Once you have your topic, it is time to formulate a literature search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project?
+Once you have your topic, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project?
 
 ::::{grid}
 :gutter: 2
@@ -33,12 +33,12 @@ When you have done an initial exploration of your sources, take your mind map or
 
 ### Example Research scenario
 
-In this scenario, we have made a concept map from the information we have brainstormed around our subject. We can then use the concept map to formulate various research questions. You formulate research questions by looking at the relations and dependencies of different branches of the concept map.
+In this scenario, we have made a concept map from the information we have brainstormed around our subject. We can then use the concept map to formulate various information search questions. You formulate research questions by looking at the relations and dependencies of different branches of the concept map.
 
 ![mindmap](1b-mindmap.jpg)
 "Mindmap" by TU Delft Library Education Support is licensed CC-BY-SA
 
-Possible research questions that can be derived from the mind map are:
+Possible questions that can be derived from the mind map are:
 
 - How can the automotive industry contribute to the improvement of air quality by adapting existing fuels?
 - How can the automotive industry improve the environmental impact through material recycling in car design?
