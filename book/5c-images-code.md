@@ -6,6 +6,11 @@ Your thesis is your work. If others want to reuse it, it is only logical that so
 
 This is what copyright is about. It helps set the conditions under which others may resuse your work, or help you understand how you can reuse the work of others. It’s important that you know exactly how to do this correctly, and it’s also important to know how to protect your own published work.
 
+Have a look at this video that explains copyright in more detail:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqFXYDrZt7c?si=mPe9nIo1zl8VBnIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+"Copyright in 2 minutes" by <a href= "https://www.auteursrecht.nl/" target=_blank>Auteursrecht.nl</a> no further reuse is allowed<br><br>
+
 ::::{grid}
 :gutter: 3
 
