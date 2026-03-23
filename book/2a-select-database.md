@@ -34,10 +34,13 @@ The screencast below shows how to access the list:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "Resources to use for your projects" by TU Delft Library, Education Support is licensed CC-BY<br><br>
 
+```{admonition} Tip
+:class: Lean Library
 Sometimes you may run into a paywall, a message asking you to pay to read the document, especially if you’re off campus. To avoid this, always use the [Lean Library Extension](https://www.tudelft.nl/en/library/collections/borrow-and-access/off-campus-access). This tool tells databases that you’re a TU Delft student, so you can access content covered by the library’s subscriptions. 
+```
 
 ## Step 2: Know about Academic Databases
-When you want to start your literature search, academic databases are a good starting point when you want to start searching for academic literature. Academic databases contain the latest research data, often published in the form of journal articles, conference papers or reviews.
+Academic databases are a good starting point when you want to start searching for academic literature. Academic databases contain the latest research data, often published in the form of journal articles, conference papers or reviews.
 
 There are two types of academic databases: multi-disciplinary databases and subject-specific databases.
 
@@ -91,15 +94,13 @@ For your search strategy, you should try to include at least 1 multidisciplinary
 
 When you decide if you want to use a database in your search strategy, you can focus on the following five properties:
 
-- Type of database: Is it multidisciplinary or topic-specific?
-- Easy of use: is the database easy to navigate?
-- Search options: how advanced does my search need to be? What are options for filtering and sorting information?
-- Quality: how is the quality of the information on the database checked?
-- Peers: Is the database recommended by your peers or supervisor?
+1. Type of database: Is it multidisciplinary or topic-specific?
+2. Easy of use: is the database easy to navigate?
+3. Search options: how advanced does my search need to be? What are options for filtering and sorting information?
+4. Quality: how is the quality of the information on the database checked?
+5. Peers: Is the database recommended by your peers or supervisor?
 
-You can often check the help function of a found database to get answers to these questions.
-
-Moreover, a lot information on different databases can be found on specific pages in TUlib. and the library databases teamLinks to an external site.
+You can often check the help function of a found database to get answers to these questions. Moreover, a lot information on different databases can be found on specific pages in <a href= "https://www.tudelft.nl/tulib/searching-resources/resources" target=_blank>TUlib</a>. 
 
 ```{admonition} Guided Activity: Selecting Databases for your Thesis Literature Search
 :class: dropdown tip
