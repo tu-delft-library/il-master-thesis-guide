@@ -24,7 +24,7 @@ Stay up to date with the latest research
 ## Step 1: Document and Update Your Search
 When you are searching for information, it is good to document your search so you can find back later exactly how you found the information you included in your papers. You can do this for example by filling out the [Search Template](2-handout-search.docx), or any other format that works for you. 
 
-You should see your search plan as a starting point, because searching is an iterative process and as you read, select and do your research you may encounter new questions, terms and sources that are relevant for your project. As you go about reading and selecting sources you selected, make it a habit to look for new terms and concepts. When relevant, add them to your initial search strategy to see if you can find new information related to your questions.
+You should see your search plan as a starting point, because searching is an iterative process and as you read, select and do your research you may encounter new questions, terms and sources that are relevant for your project. As you go about reading and selecting sources, make it a habit to look for new terms and concepts. When relevant, add them to your initial search strategy to see if you can find new information related to your questions.
 
 ## Step 2: Set Up a Search Alert
 When you are working in a field with a lot of new developments, it can be helpful to set up a search alert to make sure you are aware of the latest research. If you set up alerts, you will automatically be notified of new search results, citations of a publication, a new table of content of a journal or news items, without having to repeat your search or return to the website to check for new information
@@ -48,6 +48,6 @@ Just like making a search plan it is good to take some time to set-up an alert p
 
 ```
 
-When checking your alerts, get into the habit of immediately storing interesting new references in your reference manager database.
+When checking your alerts, get into the habit of immediately storing interesting new references in your reference manager database. You can learn more about reference managers in chapter [3d - Storing Sources](3d-store-sources.md). 
 
 Follow the guides from from <a href="https://www.tudelft.nl/tulib/searching-resources/setting-up-alerts" target="_blank">TUlib</a> to learn in more detail how to set up search alerts.
