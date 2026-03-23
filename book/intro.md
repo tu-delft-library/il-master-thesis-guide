@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Information Literacy Master Thesis Guide. This guide was created to use as a reference for all the information literacy steps involved during your master thesis process.
+Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy steps involved during your master thesis process.
 
 
 This is a pilot version still under development. 
@@ -8,7 +8,7 @@ This is a pilot version still under development.
 ## Structure of the Guide
 
 
-This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The book is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps here:
+This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps below:
 
 ![overview of thesis process](overview-lit-review.png)
 
@@ -42,7 +42,7 @@ Each chapter includes a landing page. Here you will find:
 - A template you can use directly while working on your MSc thesis
 
 #### Subchapters
-After the landing page, you can find more detailed information on all the steps part of a specific phase. All include additional guided activities to help you apply the information while working on your MSc thesis.
+After the landing page, you can find more detailed information on all the steps that are part of each specific phase. When applicable, the chapters include additional guided activities to help you apply the information while working on your MSc thesis.
 
 ```{admonition} Tip
 :class: tip
@@ -56,10 +56,10 @@ Want to learn from what previous students have done? In the <a href="https://rep
 The guide was created by the TU Delft Library, Education Support Team 
 
 ### Acknowledgements
-Thank you to all the reviewers involved in reviewing this book.
+Thank you to all the reviewers involved in reviewing this guide.
 
 ### Sources
-The sources that were used for this book are referenced at the end of each section.
+The sources that were used for this guide are referenced at the end of each section.
 
 In addition to the sources referenced this guide reuses materials from:
 
@@ -72,7 +72,7 @@ Unless otherwise specified the images used on these pages are adapted from <a hr
 
 
 ### Disclosure of AI Use
-While creating this book, we used AI for:
+While creating this guide, we used AI for:
 - Brainstorming and refining guided activities
 - Drafting/brainstorming knowledge check questions
 - Cleaning up formatting
