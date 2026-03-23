@@ -66,12 +66,12 @@ _The video mentions that you should limit an exploration to articles, reviews an
 
 ## Step 2: Check Basic Information on Your Topic
 
-Once you have formulated a broad question and are happy with the initial results of your exploration, you can use the analysis features of Scopus or Dimensions to look up some helpful information about the context of your topic: 
+Once you have formulated a broad question and are happy with the initial results of your exploration, you can use the analysis features of the academic databases Scopus or Dimensions to look up some helpful information about the context of your topic: 
 
-**1: Vitality and Newness of a Field**<br>
-If you want to look at vitality and newness of the field look at the number of articles per year. How much is being published? Are there any drops in publications?
+**1: Interest in the field**<br>
+Looking into the number of articles per year can give you an indication how much interest there is in a field. If a large number of articles are being published every year it suggests that a lot of scholars are working on it. It can also be helpful to look at the development over time. Surges or drops in the number of articles per year can suggest that the interest in a field might be increasing or declining.
 
-**2: Research withing your broader topic**<br>
+**2: Research within your broader topic**<br>
 Subject areas, top journals and list of keywords indexed by the databases can give you some more information about what research is being done within your broader topic
 
 **3: Synonyms and alternative terms for your content search**<br>
