@@ -56,7 +56,7 @@ Reliability is a characteristic of the information itself. Information found onl
 ```{admonition} Tip
 :class: tip
 
-If you are not sure about the reliability of your source, try to find additional information to confirm the information you are not sure about, or ask a fellow student or teacher. If, after that, you are still not sure about the reliability or scientific quality of the information you have found, is best that you mention this while using the information!
+Tip: If you are not sure about the reliability of your source, try to find additional information to confirm the information you are not sure about, or ask your supervisor. If, after that, you are still not sure about the reliability or scientific quality of the information you have found, it is best that you mention this in your work, or avoid using that source altogether!
 
 ```
 
@@ -73,6 +73,23 @@ A widely used tool for evaluating reliability is the CRAAP test (Blakeslee, 2004
 - Purpose: Why was the information created? To inform, teach, persuade, entertain, or sell something? Watch out for hidden agendas or commercial interests. 
 
 When you apply these questions, remember that not all sources need to score perfectly on every criterion. For example, a company website may not be completely objective, but it can still be useful if you need to know how that company presents its technology. The important part is to be critical and deliberate about how you use different kinds of information.
+
+```{admonition} Example CRAAP test
+:class: dropdown tip
+
+Imagine you are writing a report on the environmental impact of lithium-ion batteries used in electric vehicles. You find the following sources: 
+
+| Category  | Source 1 | Source 2 |
+|-----------|-----------| -----------|
+| **Source** | The Future of Electric Cars: What the Next Decade Holds (blog post). Retrieved from https://www.evisionevs.co.uk/2025/09/02/the-future-of-electric-cars-what-the-next-decade-holds/ | Pollution from electric-battery production mitigated by longer car use (news item). Retrieved from https://cen.acs.org/environment/climate-change/pollution-mitigated-electric-battery-production/103/web/2025/10 |
+| **Currency** | The post is from September 2025, so the information is recent. | This news items was published in October 2025, therefore the information is up-to-date |
+| **Relevance** | It talks about electric cars in general, not specifically the environmental impact of batteries. It might not address your research question directly. | It specifically discusses pollution from the production of electric car batteries, and therefore it is highly relevant. |
+| **Authority** | Author is “David”, but there is no further information about him and no way to evaluate his background. The blog post is published in the website of a company that rents and sells electric cars. | It is written by Helen Albert, who is a freelance science journalist specialising in healthcare, life sciences, bioanthropology, biotech and innovation. Retrieved from https://www.helen-albert.com/  The news item is published in c&en, which is backed by the American Chemical Society. |
+| **Accuracy** | It does not provide references or data to support its claims. Any predictions about the future of electric cars are based on speculation. | It recaps and comments on a specific paper by P. Sadavarte, D. Shindell and D. Loughlin, which is directly cited. It also quotes V. Thomas, who is an expert in the field. |
+| **Purpose** | The goal of the post is to persuade people to buy electric cars. It is promotional, not neutral or academic. | The goal of the news item is to inform researchers and the public about new findings of scientific research. |
+| **Conclusion** | This information is superficial and not reliable enough for an academic paper. You should verify the given information with another source. | This information is quite reliable, but superficial. For use in an academic paper, try to find the publications written by the actual researchers themselves. |
+
+```
 
 ## Practice with Research Scenarios
 
