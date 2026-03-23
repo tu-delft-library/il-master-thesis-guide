@@ -1,4 +1,4 @@
-# 2c. Evaluate Search Results
+# 2c. Evaluating Your Search Strategy
 
 ## Introduction
 After setting up your basic search, you can further refine your keyword search strategy, as well as add additional search strategies. You can evaluate the quantity and relevance of your search results, and subsequently use techniques to either broaden or narrow your initial search.
