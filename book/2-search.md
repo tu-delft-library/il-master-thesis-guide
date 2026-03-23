@@ -12,7 +12,7 @@ This workflow works best for finding academic sources, but you could also apply 
 
 ![Search literature](2-search.png)
 
-Common activities during this phase of the your information journey include:
+Common activities during this phase of your information journey include:
 
 - [2a. Select Databases](2a-select-database.md) - Know different types of academic databases and where to find them
 - [2b. Create a Keyword Search](2b-create-keyword-search.md) - Set up a keyword search strategy
