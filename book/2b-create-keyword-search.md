@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Developing a keyword search strategy is the basis of searching for specific information to use in your research project. With a keyword search strategy, you break down your research question into specific parts and translate them into a query that can be used in a database of your choice. 
+Developing a keyword search strategy is the basis of searching for specific information to use in your research project. With a keyword search strategy, you break down your information search question into specific parts and translate them into a query that can be used in a database of your choice. 
 
 When developing keyword searches for an academic database you should combine multiple synonyms with Boolean operators to create a query to search in a database of your choice. Following this process step-by-step is crucial to make sure you do a thorough search of all available literature
 
@@ -16,7 +16,7 @@ Watch this short recap of the keyword search process:
 
 :::{grid-item-card} Step 1<br>
 [Identify Concepts](#1-breaking-research-question-down-into-concepts)<br>
-Break down your research question into concepts
+Break down your information search question into concepts
 :::
 
 :::{grid-item-card} Step 2 <br>
@@ -34,13 +34,13 @@ Combine your terms using search operators to translate your query for an academi
 
 
 ## Step 1: Breaking Research Question Down into Concepts
-Most research topics or sub-questions can be split into separate concepts. The concepts should be specific to your research question. These are the main building blocks of the research question or  its main focus areas. 
+Most research topics or sub-questions can be split into separate concepts. The concepts should be specific to your information search question. These are the main building blocks of the information search question or its main focus areas. 
 
-Example:
-Imagine that you’re working on the following research question: 
-“How does 3D printing affect the cost of manufacturing of medical implants?”
+Imagine that you’re working on the following information search question: 
 
-This research question contains the following concepts:
+**“How does 3D printing affect the cost of manufacturing of medical implants?”**
+
+This question contains the following concepts:
 1.	3D printing
 2.	Cost of manufacturing
 3.	Medical implants
@@ -54,30 +54,27 @@ How to identify concepts:
 - Aim for 2-4 main concepts. 
 (Brodhead, 2025; University of Sydney Library, n.d.)
 
-```{admonition} Guided Activity: Identifying Concepts from your Research Question
+```{admonition} Guided Activity: Identifying Concepts from your Information Search Question
 :class: dropdown tip
 
-Your thesis research question likely contains several **core concepts**—the big ideas that form its building blocks. Being able to clearly identify these will help you design better search strategies, structure your literature review, and stay focused in your research.  
+Your information search question likely contains several **core concepts**—the big ideas that form its building blocks. Being able to clearly identify these will help you design better search strategies, structure your literature review, and stay focused in your research.  
 
 **Steps:**  
-1. Write down your research question (or one of your sub-questions).  
+1. Write down your question (or one of your sub-questions).  
 2. Highlight the nouns and key terms that represent the big ideas.  
 3. Remove filler words, prepositions, and question words (e.g., “how,” “why,” “in”).  
 4. Aim to narrow it down to **2–4 main concepts**. 
 
 **Example:**  
-Research question: *“How does 3D printing affect the cost of manufacturing of medical implants?”*  
+Question: *“How does 3D printing affect the cost of manufacturing of medical implants?”*  
 Main concepts:  
 - 3D printing  
 - Cost of manufacturing  
 - Medical implants  
 
 **Reflection questions:**  
-- Which words in my research question are truly central, and which ones can I ignore for now?  
+- Which words in my search question are truly central, and which ones can I ignore for now?  
 - Do my chosen concepts cover the main focus areas of my research without being too broad?  
-
-**Call to action:**  
-When you are happy with your concepts, write them down in your [Search Strategy Handout] 
 
 ```
 
@@ -85,7 +82,7 @@ When you are happy with your concepts, write them down in your [Search Strategy 
 Next let’s talk about synonyms. When writing your keyword search strategy, you should think of at least 3 synonyms for each concept. Why do you need synonyms? This is because researchers might use different terms for a concept. Using different combinations of these words will help you capture a wider range of relevant articles and avoid missing important research just because an author used different wording.
 
 Example:
-In the research question
+In the information search question
 **How does 3D printing affect the cost of manufacturing of medical implants?**
 
 You have the following three concepts:
@@ -103,15 +100,15 @@ Potential Synonyms and Alternative Terms for each could then be:
 | On-demand manufacturing  | Fabrication cost        | Implantable medical devices   |
 |                          | Cost efficiency         |                               |
 
-Where should you look? You can search for the different concepts on Copilot or Wikipedia. Alternatively, already do a search in the databases you want to use and check the abstracts, are there maybe some interesting terms already stand out?
+Where should you look? You can search for the different concepts on Google or Wikipedia. If you are allowed to use AI, you could also use Copilot to find synonyms. Alternatively, already do a search in the databases you want to use and check the abstracts, are there maybe some interesting terms that already stand out?
 
 ```{admonition} Guided Activity: Finding Synonyms
 :class: dropdown tip
 
-Once you have identified the **main concepts** in your research question, the next step is to think of synonyms and alternative terms. This ensures your search strategy captures the different ways authors may describe the same idea, helping you find a broader range of relevant literature.  
+Once you have identified the **main concepts** in your information search question, the next step is to think of synonyms and alternative terms. This ensures your search strategy captures the different ways authors may describe the same idea, helping you find a broader range of relevant literature.  
 
 **Steps:**  
-1. Take your 2–4 main concepts from your research question.  
+1. Take your 2–4 main concepts from your information search question.  
 2. For each concept, brainstorm at least **3 alternative terms or synonyms**.  
 3. Use different sources to find inspiration:  
    - Wikipedia or Copilot entries for your concepts  
@@ -169,7 +166,7 @@ Quotation marks tell the system to look for the words inside the quotation marks
 ```{tab-item} Wildcard
 ![Wildcard](2-search-wildcard.png)
 Wildcards are special symbols that act as “placeholders,” telling the system that zero, one, or more characters can appear in their place. This lets you capture multiple versions of a word in one go, saving time and broadening your search.
-The most common wildcard is the asterisk *, which can be placed at the middle or end of a word (but usually not at the beginning).
+The most common wildcard is the asterisk \*, which can be placed at the middle or end of a word (but usually not at the beginning).
 For example, if your topic involves computers, typing comput* will include many related word forms.
 ```
 
@@ -192,11 +189,11 @@ Some search systems allow the use of proximity operators such as **NEAR**, **W**
 "Boolean operators" by TU Delft Library - Education Support is licensed under CC BY<br><br>
 
 
-Let’s take this research question as an example to see how we can combine all the concepts together:
+Let’s take this information search question as an example to see how we can combine all the concepts together:
 
-“How does wind energy integration impact power grid stability?”
+**“How does wind energy integration impact power grid stability?”**
 
-From this, we identified the following keywords:
+From this, we identified the following concepts and keywords:
 
 | Wind energy | Power grid         | Stability   |
 |-------------|--------------------|-------------|
