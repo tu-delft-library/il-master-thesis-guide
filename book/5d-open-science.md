@@ -34,11 +34,11 @@ Examples of Open Science:
 ```{tab-item} Open Access
 Open Access publishing refers to free and open online access to academic publications. Ideally, an open access publication is available for anyone to read, download, copy, distribute, print, search for, search within, and use in research. So it means that people (including the general public, scientists, industry and policymakers) can access it for free, and they can use and build upon the results of scientific research, which leads to larger impact for individual research. 
 
-Rather than sharing knowledge within a specific research community, Open Scientists reaches out to broader scholarly communities to work together, and also tell their research to the general public. With social media broader audiences can be reached, and analytics tools like Altmetrics illustrate how scientific knowledge circulates beyond academia. You can consult this <a href="https://library4research.tudl.tudelft.nl/2026/01/16/beyond-the-citation-a-deep-dive-into-altmetric-explorer-for-institutions/" target=_blank>blog post on Altmetrics</a> if you want to know more.
+Rather than sharing knowledge within a specific research community, Open Scientists reach out to broader scholarly communities to work together, and also tell their research to the general public. With social media broader audiences can be reached, and analytics tools like Altmetrics illustrate how scientific knowledge circulates beyond academia. You can consult this <a href="https://library4research.tudl.tudelft.nl/2026/01/16/beyond-the-citation-a-deep-dive-into-altmetric-explorer-for-institutions/" target=_blank>blog post on Altmetrics</a> if you want to know more.
 ```
 
 ```{tab-item} Open Data
-Open data is means data that is freely available for everyone to use, share and build on as they wish, without restrictions from copyright, patents or other mechanisms of control. Offering data openly is highly relevant to support transparency of research, for advancing innovation and multidisciplinary research and to increase the visibility of your work.
+Open data is data that is freely available for everyone to use, share and build on as they wish, without restrictions from copyright, patents or other mechanisms of control. Offering data openly is highly relevant to support transparency of research, for advancing innovation and multidisciplinary research and to increase the visibility of your work.
 ```
 
 ```{tab-item} FAIR software
@@ -46,7 +46,7 @@ FAIR software is about making available the tools researchers create for their r
 ```
 
 ```{tab-item} Citizen Science
-In Citizen Science is a great way non-experts actively contribute to scientific research. A famous example of citizen science is <a href="https://zoo4.galaxyzoo.org/" target=_blank>Galaxy Zoo</a>, where since 2007 over 100.000 of volunteers have helped classify millions of galaxies. The success of the project spawned a platform, <a href="https://www.zooniverse.org/" target=_blank>Zooniverse</a>, where other citizen science projects now have a home. 
+Citizen Science is a great way non-experts actively contribute to scientific research. A famous example of citizen science is <a href="https://zoo4.galaxyzoo.org/" target=_blank>Galaxy Zoo</a>, where since 2007 over 100.000 of volunteers have helped classify millions of galaxies. The success of the project spawned a platform, <a href="https://www.zooniverse.org/" target=_blank>Zooniverse</a>, where other citizen science projects now have a home. 
 ```
 ````
 Examples of Open Science adapted from <a href="https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world" target=_blank>Open Science: Sharing Your Research with the World is licensed CC-BY-NC-SA 4.0</a>
@@ -56,9 +56,9 @@ Adhering to Open Science practices can be helpful, especially if you are aiming 
 ```{admonition} Advantages of Open Science
 :class: dropdown note
 
-- Wider visibility for your work inside and outside academia because your work is more open and found more easier by others
+- Because your work is open, it is easier for others to find and reuse it. This can lead to wider visibility of you and your research inside and outside academia.
 
-- Journals increasingly ask researchers to publish their data alongside their publications. If you are able to already do this responsibly, publishing becomes easier
+- Journals increasingly ask researchers to publish their data alongside their publications. If you are able to already do this responsibly, publishing becomes easier.
 
 - By making it easy to replicate your study, you improve the scientific system as a whole. 
 
