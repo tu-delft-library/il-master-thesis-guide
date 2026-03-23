@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When you get started with your thesis, you may or may not already have a topic in mind. To expand and shape your knowledge, writing down what you know about a topic, as well as performing some general searches can help you focus your research and work towards a literature search question.
+When you get started with your thesis, you may or may not already have a topic in mind. To expand and shape your knowledge, writing down what you know about a topic, as well as performing some general searches can help you focus your research and work towards an information search question.
 
 ::::{grid}
 :gutter: 2
