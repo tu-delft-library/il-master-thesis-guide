@@ -35,7 +35,7 @@ Watch the first part of this brief explainer to learn in detail how to use these
 ## Step 2: Similar Document Searching
 Using similar documents searching in Dimensions helps to find new relevant articles based on a relevant abstract or your thesis plan.
 
-Watch the second part of this brief explainer to learn in detail how to use this additional ways of searching:
+Watch the second part of this brief explainer (from minute 2.44) to learn in detail how to use this additional ways of searching:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "Additional Ways of Searching" by TU Delft Library Education Support is licensed CC-BY
