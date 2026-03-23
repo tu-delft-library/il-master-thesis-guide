@@ -34,19 +34,20 @@ Reference management software (also called RMS) and tools help you to manage all
 ``` {admonition} Guided activity: Get Started with a Reference Manager
 :class: dropdown tip
 
-Select a reference manager you want to try out (suggested: Endnote, Mendeley or Zotero)
+** Step 1: Select a reference manager you want to try out:**
+Suggested reference managers are Endnote, Mendeley or Zotero
 
-- Step 1: Adding references (articles and books) to your library (manual):
-
+**Step 2: Add an academic article to your library manually:**
 Manually add some references to your library. Look at the available document types and notice the (different) fields available to describe them. Also, if your tool offers a preview-mode, see what the references will look like in different output styles.
 
-- Step 2: Adding other document types to your library:
+**Step 3: Add academic articles to your library via the browser:**
+Install relevant plugins to import an article straight from the browser
 
-Add one or more references for other document types than articles and books to your library. Think about photos, images, tables, data sets, book chapters, conference papers, reports, standards, patents, or any other document type you may use. What possibilities might this offer to you?
-
-- Step 3: Adding references via a PDF import:
-
+** Step 4: Adding academic articles via a PDF import:**
 Import a pdf-file and extract the bibliographic information from it. Does this work as expected, and does it always extract enough information?
+
+**Step 5: Adding other document types to your library:**
+Add one or more references for other document types than articles and books to your library. Think about photos, images, tables, data sets, book chapters, conference papers, reports, standards, patents, or any other document type you may use. What possibilities might this offer to you?
 
 ```
 
