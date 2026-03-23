@@ -70,7 +70,7 @@ When you paraphrase:
 Use your own words. It is not enough to replace one or two words with a synonym!
 Make sure your readers are absolutely clear about which parts of your text are paraphrases, and which parts are your own ideas.
 
-``` {admonition} Example of Paraphrasing
+``` {admonition} Example of paraphrasing
 :class: dropdown tip
 
 **Original text:**
@@ -82,11 +82,16 @@ Make sure your readers are absolutely clear about which parts of your text are p
 Nguyen (2022) points out that the performance of artificial intelligence depends directly on the quality of its training data, meaning that if the data contain biases, the system’s results will also be biased. 
 ``` 
 ## Step 3: Formatting your References and Creating a Reference List
-There are certain rules for the order of the references in your reference list as well as for the formatting of the references themselves. These rules are determined by the citation style (also referred to as “reference style”) you choose. A reference must contain enough elements to be traceable. There are many different citation styles available.
+There are certain rules for the order of the references in your reference list as well as for the formatting of references themselves. These rules are determined by the citation style (also referred to as “reference style”) you choose. A reference must contain enough elements to be traceable. There are many different citation styles available.
 Usually, you will be told to use a specific citation style, so you can simply look up the style on the internet or in a book and make sure you follow its rules. If you can choose your own style, it is a matter of personal taste. Just make sure you consistently use a single citation style.
 
+``` {admonition} Example of paraphrasing
+:class: note
+Note: regardless of what reference style you use, a source should always be referenced both in-text and in the reference list.
+```
+
 ### Formatting image references 
-All reproduced images, photographs, tables and figures in your paper must be cited three times: in the text, in the caption beneath the image (including a copyright statement) and in the reference list. A copyright statement is not necessary if you have bought a stock photo or if the image is your own work. In that case use the words “own work” in the caption or add a note in your text stating that photo’s or drawings without reference are your own.
+All reproduced images, photographs, tables and figures in your paper must be cited three times: in the text, in the caption beneath the image (including a copyright statement) and in the reference list. A copyright statement is not necessary if you have bought a stock photo or if the image is your own work. In that case use the words “own work” in the caption or add a note in your text stating that photos or drawings without reference are your own.
 
 ### Reference list
 A reference list or literature list is a list of all publications (including figures, graphs, tables, datasets etc.) an author refers to (either quotes or paraphrases) in a document to:
@@ -99,13 +104,13 @@ A reference list or literature list is a list of all publications (including fig
 A reference list must be ordered and formatted consistently, according to a single citation style. It is included at the end of your master thesis.
 
 ## Reference styles
-Reference styles (also referred to as “citation styles’) can be divided into two main groups: author-date styles and numbered styles. Author-date styles are sometimes also called parenthesized styles.
+Reference styles can be divided into two main groups: author-date styles and numbered styles. Author-date styles are sometimes also called parenthesized styles.
  	
 |                                | Author-date style<br>(Parenthesized styles) | Numbered style |
 |--------------------------------|----------------------------------------------|----------------|
 | **In-text reference**          | (Smith, 2016) or <br>Smith found … (2016).  | My article text [¹] or <br>My article text¹ |
-| **Reference list**             | References ordered alphabetically, by author’s name. | References ordered numerically, in the order in which they appear in the text. |
-| **Advantage**                  | A reader can recognize important original texts from the in-text reference, without having to check the reference list. | A reader who wants to check all references while reading a paper, can easily move from one reference to the next without having to search for the next author’s name in a (long) list. |
+| **Reference list**             | References ordered alphabetically, by author’s last name. | References ordered numerically, in the order in which they appear in the text. |
+| **Advantage**                  | A reader can recognize important original texts from the in-text reference, without having to check the reference list. | A reader who wants to check all references while reading a paper, can easily move from one reference to the next without having to search for the next author’s name in a (long) list. Text is easier to read. |
 | **Disadvantage**               | Longer in-text references (for example, references with multiple authors or more than one reference in the same place) can make a text more difficult to read. | In-text references do not contain any useful information themselves. |
 | **Examples**                   | APA, Chicago, Harvard | Nature, Vancouver, IEEE |
 
