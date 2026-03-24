@@ -3,7 +3,7 @@
 ## Introduction
 
 Reading is an important part of studying and an essential part of the research process. There are different types of reading you will use throughout your project, and it is important to be aware of which type of reading you should use for what purpose. 
-Have a look at <a href= "https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1" target=_blank>this video from Leiden University</a> for a detailed explanation about the different types of reading, or read the different steps below
+Have a look at <a href= "https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1" target=_blank>this video from Leiden University</a> for a detailed explanation about the different types of reading, or read the different steps below:
 
 
 ::::{grid}
@@ -34,115 +34,146 @@ Evaluate if you have read and searched enough information
 _Skimming_ is quickly glancing over a text to get a general idea of its structure and contents. This type of reading is really relevant when you are still deciding whether an article is relevant and reliable for your own research project in a broad sense. 
 
 When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it.
-The tabs below, based on <a href= "https://www.tudelft.nl/tulib/managing-your-information/reading-for-research#c1036587" target=_blank>Tips and Tricks in TUlib</a> show the different parts commonly included in an academic article or conference paper. For each of the parts we give some information on what this tells you about the article, and how you can use it when deciding to read.
+The tabs below show the different parts commonly included in an academic article or conference paper. For each of the parts we give some information on what this tells you about the article, and how you can use it when deciding to read.
 
 ````{tab-set}
 
 ```{tab-item} Title
-**Why**
+**Why Scan This Part?**
 Get a first broad sense of the subject and the relevance.
 
-**How to select and prioritize**
-- A proper title (incl. subtitle) is not too long and indicates where the article is about.
-- Scan the title for relevant keywords that you have determined in advance. This can help to prioritize the titles on your reading list.
+**How to Scan**
+Scan the title for relevant keywords that you have determined in advance. This can help to prioritize the titles on your reading list.
 __Tip: a title does not always cover the content of an article!__
+
+**Key Questions**
+- How relevant is this article for my research? 
 
 ```
 ```{tab-item} Author and affiliation
-**Why**
+**Why Scan This Part?**
 Recognise the author based on reputation and recognition (authority).
 
-**How to select and prioritize**
-To determine the authority of an author in a certain field try to answer these questions:
+**How to Scan**
+Look at the author name, and the affiliation of the author (usually included on the first page near the author's name).
 
-- Do I know the author? Is she/he an authority, a recognized author in the field?
+**Key Questions**
+To determine the authority of an author in a certain field try to answer these questions:
+Do you know the author? Are they an authority, a recognized author in the field?
 
 Or if you don’t know:
 
-- Did you find several articles about the same topic written by this author? In that case he/she probably is an expert on this topic.
-
-- Look also at the affiliation. The affiliation gives you additional information, for instance: Does the author work at a (in the field) well-known university or institute?
+Did you find several articles about the same topic written by this author? In that case they are probably an expert on this topic.
+Look also at the affiliation. Does the author work at a (in the field) well-known university or institute?
 
 ```
 
 ```{tab-item} Which Journal / Conference Proceeding
-**Why**
-Authority: importance of the journal/proceedings in the field.
-
-**How to select and prioritize**
-It is important to know in which journal or proceedings an article is published.
+**Why Scan This Part?**
+Authority: importance of the journal/proceedings in the field. It is important to know in which journal or proceedings an article is published.
 Each research area has its most important (trusted) journals or proceedings.
+
+**How to Scan**
+Look at the name of the journal or conference proceeding, which is commonly found on the first page of an article.
+
+**Key Questions**
 Do you know about the reputation of the journal or the conference in your field?
+
+If you don't know:
+
+Does your supervisor know about the journal?
 
 ```
 ```{tab-item} Summary/abstract
-**Why**
+**Why Scan This Part?**
 Look at the relationship and relevance to your own research.
 
-**How to select and prioritize**
-An abstract contains the essence of the research described.
-Every part of the publication is reflected. Check the conclusions also.
-On this basis decide if the source is useful for you.
-The context of the way the topic is treated must be (more or less) similar to the context of your research topic.
+**How to Scan**
+An abstract contains the essence of the research described. Every part of the publication is reflected. On this basis decide if the source is useful for you. The context of the way the topic is treated must be (more or less) similar to the context of your research topic.
+
+**Key Questions**
 Are the aspects of the topic mostly the same as in your research topic?
 
 ```
 ```{tab-item} Keywords
-**Why**
+**Why Scan This Part?**
 Define the main topics of the publication.
 
-**How to select and prioritize**
-Keywords describe the main topics of a publication.
+**How to Scan**
+Keywords are usually included on the first page of an article, near the abstract, and describe the main topics of a publication.
+
+**Key Questions**
 Are the keywords close and relevant to your research topic?
 
 ```
 ```{tab-item} Introduction/preface
-**Why**
+**Why Scan This Part?**
 Shows what to expect.
 
-**How to select and prioritize**
-An introduction is intended to convey the writer’s ideas and the background of his research to the reader.
+**How to Scan**
+An introduction is intended to convey the writer’s ideas and the background of his research to the reader. Read this part before deciding to do close reading to frame your understanding of the article.
+
+**Key Questions**
 Does this information match your expectations?
 
 ```
 ```{tab-item} Conclusion
-**Why**
+**Why Scan This Part?**
 Define a relationship to your own research.
 
-**How to select and prioritize**
+**How to Scan**
 Read the conclusions at the end of each chapter and the final conclusion of the publication.
 In the conclusions you will find the answer to the research question of the publication.
+
+**Key Questions**
 Is this answer relevant for your topic?
 
 ```
+```{tab-item} Diagrams, Graphics and Charts
+**Why Scan This Part?**
+It can scaffold understanding of complex text, and graphics often depict major findings or key information about the experimental methods
 
+**How to Scan**
+Look at the figures, and read the accompanying captions without reading the results in too much detail.
+
+**Key Questions**
+What key findings or methods do the diagrams, graphics or charts depict?
+How are they connected to your own research questions?
+
+```
 ```{tab-item} Chapters/paragraphs
-**Why**
+**Why Scan This Part?**
 How can you use this information in your own research?
 
-**How to select and prioritize**
-Look at the titles of chapters and paragraphs.
-Read the beginning and the end (conclusions) of each chapter to get a detailed picture of the contents and completeness of the publication.
+**How to Scan**
+Look at the titles of chapters and paragraphs. Read the beginning and the end (conclusions) of each chapter to get a detailed picture of the contents and completeness of the publication.
+
+**Key Questions**
 Is the publication suitable to build on your own research?
 
 ```
 ```{tab-item} Reference list
-**Why**
+**Why Scan This Part?**
 Check for new insights and/or similarities with your selection.
 
-**How to select and prioritize**
-By checking out the literature references you are able to see on which insights the publication is based.
+**How to Scan**
+By checking out the literature references you are able to see on which insights the publication is based. The reference list can help you find new views and insights for your own research.
+
+**Key Questions**
 Do you recognise any references: author names, journals etc.?
-The reference list can help you find new views and insights for your own research.
+What might be interesting references to look into further?
 
 ```
 ```{tab-item} Date
-**Why**
+**Why Scan This Part?**
 Define the relevance based on actuality of your topic.
 
-**How to select and prioritize**
-Does your topic require current information, or will older sources work as well?
+**How to Scan**
 Check the publication dates!
+
+**Key Questions**
+Does your topic require current information, or will older sources work as well?
+
 ```
 ````
 
@@ -157,7 +188,7 @@ The video below tells you more about the process of reading and which sections t
 “How to Read a Scholarly Article” by PittCClibrary is licensed CC-BY
 
 ### Note-taking
-As you go through the text and read, make sure you take notes. 
+As you go through the text and read, make sure you take notes. If you don't, you may lose a lot of time finding back certain quotes or information later in your project. 
 
 1. Include citation of the source when notetaking, or take notes on the article itself
 
@@ -172,6 +203,15 @@ Questions you can ask yourself while reading:
 
 3. Take notes related to your questions, show for each note if it is a summary, quotation, paraphrase, own ideas, or criticism (Lumen, n.d.)
 
+4. Pause and revisit if necessary: It can happen that you don't immediately understand certain parts of an article. In this case, you can always come back to it later, for example when you have read more basic articles and your understanding of the topic has increased.
+
+```{admonition} Tip: Connect to your reference manager
+:class: tip
+
+You can connect your notes to your reference manager, either by connecting them to the references in your reference manager library, or by using plugins to cite sources directly from the reference manager as you do your notetaking in Word or other notetaking apps.
+
+```
+
 ### Updating Your Search Strategy
 
 While you have made an initial search strategy using the knowledge you had at the time, as you read relevant articles your ideas will likely evolve and you may need to adapt your search strategy to find more relevant articles. Some suggestions: 
@@ -181,7 +221,7 @@ While you have made an initial search strategy using the knowledge you had at th
 
 ## Step 3: When to Stop Reading and Searching
 
-You stop searching and reading when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
+You stop searching and reading when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches, or your time has run out. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "When to stop reading and start writing" by Erasmus Universiteit Rotterdam is licensed CC-BY<br><br>
@@ -196,7 +236,7 @@ Some practical guidelines you can take when you are reading to find out when you
     - 1/3 of your time writing up your findings
 Take these guidelines into consideration and try to plan accordingly (Erasmus University Library, 2020)
 
-3. Keep a narrow focus on your literature search question. If you feel like after a significant time reading and searching you are still overflowing with research articles, maybe revisit your literature search question. Can you make it more specific?
+3. Keep a narrow focus on your information search question. If you feel like after a significant time reading and searching you are still overflowing with research articles, maybe revisit your literature search question. Can you make it more specific?
 
 
 ## References
