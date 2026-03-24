@@ -24,13 +24,12 @@ Perform general searches on your topic
 ## Step 1: Choose a Topic and Write What You Know
 How to find a topic of interest? 
 
-Some suggestions from Maastricht University can help you to make this process easier:
+Some suggestions from Maastricht University can help you to make this process easier (Maastricht University Library, 2016):
 - Choose a topic you like
 - Talk to others about what topic you would like to study
 - Think about your future career
 - Look for a topic that builds on existing research rather than doing something completely new to avoid that your project becomes too big.
 - Look into current events for inspiration
-(Maastricht University Library, 2016)
 
 Once you have an initial topic you are interested in, you can write down what you already know about the topic. There are multiple techniques you could use for this. You can find some examples in the tab below. For more techniques, you can consult <a href="https://writingcenter.unc.edu/tips-and-tools/brainstorming/" target=_blank>this guide</a>  (the Writing Center of The University of North Carolina, n.d.)
 
@@ -46,7 +45,7 @@ When you freewrite, you set a timer and just begin writing on your topic without
 When you create a mindmap you connect different concepts around your topic. Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. One way to do this is using a concept map. A concept map is a visual way of analysing your subject. Start with your subject or research topic in the middle and think of related areas. For each area come up with more specified topics and examples.
 
 ![mindmap](1a-mindmap.jpg)<br>
-"Concept Map" from <a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
+<a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
 
 Making a concept map from the information you have available gives you a clearer overview of your subject. You can then use the concept map to formulate various research questions. You formulate research questions by looking at the relations and dependencies of different branches of the concept map. 
 
