@@ -34,7 +34,7 @@ _Skimming_ is quickly glancing over a text to get a general idea of its structur
 
 When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it.
 
-```{admonition}Tip: Decide Your Reading Order
+```{admonition} Tip: Decide Your Reading Order
 :class: tip
 
 After your initial search and evaluation of your sources, you might end up with 10 academic articles, a book, and a more popular source like a newspaper. When you are new to a topic, it can be helpful to do a skim & scan to prioritize the order in which you want to read these sources. You can start with more foundational articles, popular sources and books that provide context, and then dive step-by-step into more specific and perhaps more recent academic research.
@@ -219,6 +219,7 @@ Does your topic require current information, or will older sources work as well?
 
 ```
 ````
+Adapted from "<a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target=_blank>Reading for Research</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/ target=_blank>CC-BY-SA 4.0</a><br><br>
 
 ## Step 2: Close Reading, Note-taking and Updating Your Search
 Close reading is a more focused and slow type of reading which includes actively asking yourself questions about the text and taking notes while reading. Reserve this type of reading for articles you have selected, scanned and deemed highly relevant for your project. After you have close read a source you should be able to understand and summarise it.
