@@ -1,6 +1,6 @@
 # 3. Evaluate and Select Sources
 
-Now that you have done your initial search, analysed and refined your search results, it is time to select articles that you will read for your master thesis. Before you select something to read, make sure you know what you would like to use it for! Will you use it in the methods section of your thesis? Is it a case study that can provide some additional background for your introduction? And how can you store and organize your new-found sources?  
+Now that you have done your initial search, analysed and refined your search results, it is time to select sources that you will read for your master thesis. Sources come with limitations. Some might not be reliable enough for you to build your research on, or they are not relevant for your project. It is therefore important that before you select something to start processing, you make sure you know what you would like to use it for, and that the source is reliable! Will you use it in the methods section of your thesis? Is it a case study that can provide some additional background for your introduction? And how can you store and organize your new-found sources? 
 
 ![evaluate and select literature](3-evaluate.png)
 
