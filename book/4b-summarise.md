@@ -1,7 +1,7 @@
 # 4b. Summarise
 
 ## Introduction
-If you have read or are reading a source that is highly relevant for your project, a summary can help you to use it in the future. While you may have already done some notetaking while reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. A summary can also help you understand and evaluate a source better. The basic steps to this process include the following:
+If you have decided to close read or are reading a source that is highly relevant for your project, a summary can help you use the source in the future. While you may have already done some note-taking while close reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. A summary can also help you understand and evaluate a source better. The basic steps of this process include the following:
 
 ::::{grid}
 :gutter: 2
@@ -23,7 +23,7 @@ Choose a format that works for you
 ## Step 1: Identify Basic Components
 A summary of a text helps you to process the source, as well as being able to relocate it later. There are many ways you can approach summarising a source, but there are elements you should always include:
 
-- Biographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project.
+- Bibliographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project.
 - Topic / Research Question
 - Methods used
 - Main results
@@ -39,9 +39,19 @@ Summaries can come in many formats. Depending on your purpose they can be more o
 
 ````{tab-set}
 ```{tab-item} Mindmaps
-Making a mindmap can be helpful to summarize selected articles for your research. If you make a proper mindmap you are able to recall the contents of the articles you read before. It takes a few steps to build a mindmap. 
+Making a mindmap can be helpful to summarize selected articles for your research. If you make a proper mindmap you are able to recall the contents of the articles you read before. It takes a few steps to build a mindmap.
 
-Want to learn more about how to create a mindmap? Have a look at the following <a href=https://www.tudelft.nl/tulib/managing-your-information/reading-for-research#c1036587 target=_blank>TUlib page</a>
+1. Read the articles closely. Underline important sentences and put circles around keywords.
+2. Determine the structure of the articles: are there chapters and paragraphs?  When an article is well-structured, you can use the structure for setting up the branches of the mind map.
+3. Take a sheet of paper and start with putting the topic of your research in the centre of the sheet.
+4. Branching: start by drawing the main branches and branch them further. For the main branches use the chapters (topics) of the articles. For secondary branches use the paragraphs (sub-topics). Develop the secondary branches further by adding even smaller branches. These branches contain details and examples. While branching remember that it is important to use keywords instead of sentences. The keywords in the main branches are usually more abstract and can be common to several articles. In the secondary branches the keywords are more concrete and can differ from one article to another and complete each other. But put in everything that you have underlined while reading the articles.
+5. Work with a few different coloured pens to give each branch its own colour. This way you associate the branch with the colour and remember the information more easily.
+Use visual elements like drawings or symbols to replace text. Use arrows to connect different sub-topics with each other. Frames or clouds can quickly show what’s important.
+6. It is important to get a complete picture of the essence of your research topic. Ask yourself a few questions: does the mind map gives a complete overview? Do the keywords make sense? Make some changes if necessary.
+7. If you want to find out you made a clear mind map,  look at it at a later time and see how much of the articles you can recall. If you do not remember that much, maybe you didn’t use the right keywords or some connections are missing. Try to find out what went wrong, so you won’t make the same mistakes again next time you make a mind map.
+
+see also: <a href="https://www.youtube.com/watch?v=u5Y4pIsXTV0" target=_blank>How to Mind Map with Tony Buzan</a>
+
 ```
 
 ```{tab-item} Literature Matrix
@@ -50,23 +60,24 @@ It can be helpful to create a literature matrix while you are reading your sourc
 
 | Sub-topic or theme | Source 1 | Source 2 | Source 3 | etc. |
 |-|-|-|-|-|
-| 1 Topic | relevant information from source 1 about theme 1 | relevant information from source 2 about theme 1 | relevant information from source 3 about theme 1 |  ... |
-| 2 Methods used | relevant information from source 1 about theme 2 | ... | ... | ... |
-| 3 Main Results | relevant information from source 1 about theme 3 | ... | ... | ... |
-| 4 Limitations of the Study | relevant information from source 1 about theme 4 | ... | ... | ... |
+| Theme 1 (for example main topic) | relevant information from source 1 | relevant information from source 2 | relevant information from source 3 |  ... |
+| Theme 2 (for example: methods used) | relevant information from source 1 | ... | ... | ... |
+| Theme 3 (for example: main results) | relevant information from source 1 | ... | ... | ... |
+| Theme 4 (for example: limitations of the study) | relevant information from source 1 | ... | ... | ... |
 
 Want to learn more about how to create this type of summary? Have a look at <a href=" https://usi.libguides.com/literature-review-basics/tables" target=_blank>this guide</a> (Bernhardt, L, n.d.).
 ```
 
 ```{tab-item} Short Summary
 A short summary is the most common way to summarise your sources. This should at least include the following: 
-- Biographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project.
+- Bibliographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project.
 - Topic / Research Question
 - Methods used
 - Main results
 - Connection to previous studies 
 - Limitations of the study
 - Implications of the findings
+- Things that are still unclear for you (specific terms, concepts). Useful for additional reading of other sources
 (Trent University, n.d.)
 
 If you want to read more about how to write this type of summary, consult <a href="https://www.trentu.ca/academicskills/how-guides/how-write-university/how-approach-any-assignment/writing-article-summaries" target=_blank>this guide from Trent University</a> for further reading
@@ -88,7 +99,7 @@ Want to learn more about how to create this type of summary? Visit the website f
 
 ``` {admonition} About AI
 :class: warning
-While AI can provide you with summaries, we recommend you do the summarising yourself to help you process your sources. Moreover, tools are prone to errors when analysing and summarising texts.
+While AI can provide you with summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
 ```
 
 
