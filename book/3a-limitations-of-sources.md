@@ -74,7 +74,6 @@ The environmental impact of GenAI use is significant: great amounts of water and
 
 ```
 ````
-Considerations for AI use adapted from: "Limitations and Considerations". Walma, L., & Looij, M. <a href="https://ai-for-literature-review.github.io/Guide/part1/what-is-genai.html#limitations-and-considerations" target=_blank>AI for Literature Review</a> is licensed CC-BY
 
 
 ```{admonition} Five principles for working with AI
