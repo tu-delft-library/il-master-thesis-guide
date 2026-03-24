@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Once you have selected a topic and an information search question and have done an initial exploration of the academic literature of your field, it is time to start searching for sources you want to use in your project. The goal is to set up a strategy to find quality sources to use within your project. 
+Once you have selected a topic and an information search question and have done an initial exploration of the academic literature of your field, it is time to start searching for sources you want to use in your project. A good search strategy helps you to find quality sources that are relevant for your project. In this chapter we discuss step-by-step how to set up such a strategy.
 
 ```{admonition} About Source Types
 :class: note
