@@ -32,11 +32,11 @@ The [A-Z list from the TU Delft](https://databases.tudl.tudelft.nl/) is a good r
 
 The screencast below shows how to access the list:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"Resources to use for your projects" by TU Delft Library, Education Support is licensed CC-BY<br><br>
+"<a href="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" target=_blank>Resources to use for your projects</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
 
 ```{admonition} Tip
 :class: Lean Library
-Sometimes you may run into a paywall, a message asking you to pay to read the document, especially if you’re off campus. To avoid this, always use the [Lean Library Extension](https://www.tudelft.nl/en/library/collections/borrow-and-access/off-campus-access). This tool tells databases that you’re a TU Delft student, so you can access content covered by the library’s subscriptions. 
+Sometimes you may run into a paywall, a message asking you to pay to read the document, especially if you’re off campus. To avoid this, always use the <a href="https://www.tudelft.nl/en/library/collections/borrow-and-access/off-campus-access" target=_blank>Lean Library Extension</a>. This tool tells databases that you’re a TU Delft student, so you can access content covered by the library’s subscriptions. 
 ```
 
 ## Step 2: Know about Academic Databases
@@ -70,7 +70,7 @@ If you are working within a topic where research changes often, it can be helpfu
 | – No helpful details about the publications (e.g., subject-related terms such as subjects, descriptors or keywords) are provided. | + Additional details are provided for each publication (e.g., database-specific terms such as subjects, descriptors, or keywords, which are assigned by subject experts). |
 | – Google Scholar's crawlers can be fooled, resulting in unreliable materials being indexed (e.g., articles from predatory journals). | + Only credible materials are indexed, as subject experts review the content who are not easily misled. |
 
-Information adapted from "Google Scholar vs Library Databases." from Tilburg University is licensed CC-BY-NC-SA 
+Information adapted from "<a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>Google Scholar vs Library Databases</a>" from <a href="https://www.tilburguniversity.edu/" target=_blank>Tilburg University</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA 4.0</a> 
 ```
 
 **Subject-specific databases** only include research data from specific topics. For example a database that focuses specifically on Chemistry or Architecture. Examples are IEEE for Engineering, PubMed for Medicine and ERIC for education research. These databases often include less material than multi-disciplinary databases, but by searching these you might find research highly relevant to your topic not included in the multi-disciplinary databases.
@@ -84,8 +84,6 @@ Below is an overview of the main differences:
 | often offer enhanced search tools | often offer enhanced search tools |
 |Examples: Scopus, Dimensions, Google Scholar | PubMed, IEEE, ERIC
  
-"Multidisciplinary vs Subject-Specific Databases". by TU Delft Library Education Support is licensed CC-BY-SA
-
 To make sure you get the best results you can do a combination of one or more multi-disciplinary databases with at least one subject-specific database. 
 
 
