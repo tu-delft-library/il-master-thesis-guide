@@ -28,13 +28,21 @@ Evaluate if you have read and found enough information
 
 ::::
 
-
 ## Step 1: Skimming and Scanning
 
 _Skimming_ is quickly glancing over a text to get a general idea of its structure and contents. This type of reading is really relevant when you are still deciding whether an article is relevant and reliable for your own research project in a broad sense. 
 
 When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it.
-The tabs below show the different parts commonly included in an academic article or conference paper. For each of the parts we give some information on what this tells you about the article, and how you can use it when deciding to read.
+
+```{admonition}Tip: Decide Your Reading Order
+:class: tip
+
+After your initial search and evaluation of your sources, you might end up with 10 academic articles, a book, and a more popular source like a newspaper. When you are new to a topic, it can be helpful to do a skim & scan to prioritize the order in which you want to read these sources. You can start with more foundational articles, popular sources and books that provide context, and then dive step-by-step into more specific and perhaps more recent academic research.
+
+If during the reading you find out that an article is still too difficult to read or very different in content than expected, you may want to put it aside for a moment and come back to it later. In addition, also note if you are missing articles that can help you understand a specific concept better.  
+```
+
+Often the sources you will be reading are academic articles or conference papers. The tabs below show the different parts commonly included in an academic article or conference paper. For each of the parts we give some information on what this tells you about the article, and how you can use it when deciding to read.
 
 ````{tab-set}
 
