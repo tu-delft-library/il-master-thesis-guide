@@ -2,13 +2,13 @@
 
 ## Introduction
 
-When you have selected the sources you want to use for your MSc thesis, it is time to process them by reading and summarising. Once you have the results of your project you should also connect your findings to what you found in your sources. This process is called synthesising. This chapter walks you through these three processes.
+When you have selected the sources you want to use for your MSc thesis, it is time to process them by strategically reading and summarising. Once you have the results of your project you should also connect your findings to what you found in your sources. This process is called synthesising. This chapter walks you through these three processes.
 
 ![analyse literature](4-process.png)
 
 Common activities during this phase of the your information journey include:
 
-- [4a. Read](4a-read.md) - being able to effectively read literatrue for your thesis
+- [4a. Read](4a-read.md) - being able to effectively read literature for your thesis
 - [4b. Summarise](4b-summarise.md) - summarise your findings
 - [4c. Synthesise](4c-synthesise.md) - comparing sources, or connecting the findings in the literature to your research results
 
