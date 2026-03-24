@@ -1,6 +1,6 @@
 # 5. Share
 
-When handing in your thesis you have to take care that you are accurately using and reusing the work of others. If you are interested in a future career in research, look into additional ways to share your work by applying open science principles. 
+Throughout your thesis you will be using and re(using) other people's ideas and work. At the minimum, you will cite the sources on which you have build your research. In addition, you may be reusing other people's work like images, software or code. If your master program allows it, you might also be using genAI output throughout your thesis. When handing in your thesis you have to take care that you are accurately using and reusing the work of others, and that you are transparant about your use of AI. Finally, if you are interested in a future career in research, look into additional ways to share your work by applying open science principles. 
 
 ![citing sources](5-write.png)
 
