@@ -228,7 +228,7 @@ When you do close reading, you often combine active reading and asking questions
 The video below tells you more about the process of reading and which sections to focus on first:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
-"<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a>
+"<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
 ### Note-taking
 As you go through the text and close read, make sure you take notes. If you don't, you may lose a lot of time finding back certain quotes or information later in your project. 
@@ -267,7 +267,7 @@ While you have made an initial search strategy using the knowledge you had at th
 You stop searching and reading when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches, or your time has run out. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" target=_blank>When to stop reading and start writing</a>" by <a href="https://www.eur.nl/en/library" target=_blank>Erasmus University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br>
+"<a href="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" target=_blank>When to stop reading and start writing</a>" by <a href="https://www.eur.nl/en/library" target=_blank>Erasmus University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br>
 
 Some practical guidelines you can take when you are reading to find out when you should either stop, or continue searching and reading:
 
