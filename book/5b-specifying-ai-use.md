@@ -33,7 +33,7 @@ Currently, TU Delft has no central policy in place on what ways students are all
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-It is good to check with your thesis supervisor what is allowed and what not and to frequently discuss your use of AI.
+It is strongly suggested that you check with your thesis supervisor what is allowed and what not and that you frequently discuss your use of AI with them.
 ```
 
 ## Step 2: Log all your uses of GenAI
