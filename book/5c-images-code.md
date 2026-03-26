@@ -4,7 +4,7 @@
 
 Your thesis is your work. If others want to reuse it, it is only logical that someone gives you credit for all the hard work you put in. On the other hand, if you reuse the work of others in your thesis, you should also credit them for the work they did. When you are reusing figures, data, images or other works by others you will have to make sure that you credit the creators accordingly.
 
-This is what copyright is about. It helps set the conditions under which others may resuse your work, or help you understand how you can reuse the work of others. It’s important that you know exactly how to do this correctly, and it’s also important to know how to protect your own published work.
+This is what copyright is about. It helps set the conditions under which others may reuse your work, or help you understand how you can reuse the work of others. It’s important that you know exactly how to do this correctly, and it’s also important to know how to protect your own published work.
 
 Have a look at this video that explains copyright in more detail:
 
@@ -83,5 +83,5 @@ If you have any specific questions about copyright, contact the <a href="https:/
 
 ## References
 - Creative Commons. (n.d.). Share your work. Creative Commons. Retrieved March 2, 2026, from https://creativecommons.org/share-your-work/
-- Wageningen University Library. (n.d.). What is copyright? Retrieved March 2, 2026, from https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4
+- Wageningen University Library. (n.d.). What is copyright? Retrieved March 2, 2026, from <a href="https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4" target=_blank>https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4</a>
 
