@@ -60,7 +60,7 @@ Below some subquestions based on our initial example:
 
 ## Step 2: Further Specifying Your Question
 
-Once you have your initial question, you can look at its different components and make them more or less specific. The example below from Maastricht University provides an example on more narrow and broader components of a specific question.
+Once you have your initial question, you can look at its different components and make them more or less specific. The example below from Maastricht University provides an example on more narrow and broader components of a specific question.<br><br>
 *note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.
 
 <iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
