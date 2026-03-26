@@ -9,7 +9,7 @@ When developing keyword searches for an academic database you should combine mul
 Watch this short recap of the keyword search process:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8XnbdXkRPQk?si=ZXcRn1XUnmeLZET0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://www.youtube.com/embed/8XnbdXkRPQk?si=ZXcRn1XUnmeLZET0" target=_blank>Keyword Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"<a href="https://www.youtube.com/embed/8XnbdXkRPQk?si=ZXcRn1XUnmeLZET0" target=_blank>Keyword Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ::::{grid}
 :gutter: 3
@@ -186,7 +186,7 @@ Some search systems allow the use of proximity operators such as **NEAR**, **W**
 
 ```
 ````
-"Boolean Operators" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"Boolean Operators" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 
 Let’s take this information search question as an example to see how we can combine all the concepts together:
@@ -240,7 +240,7 @@ Write and save your first complete search query in your [Search Strategy Handout
 Complete the exercise below to practice with a research scenario
 
 <iframe src="https://tudelft.h5p.com/content/1292799264273572337/embed" aria-label="2 - KC - Create a Keyword Search" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
-"<a href="https://tudelft.h5p.com/content/1292799264273572337/embed" target=_blank>Practice with Creating a Keyword Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"<a href="https://tudelft.h5p.com/content/1292799264273572337/embed" target=_blank>Practice with Creating a Keyword Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ## References
 
