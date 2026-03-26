@@ -9,7 +9,7 @@ This is what copyright is about. It helps set the conditions under which others 
 Have a look at this video that explains copyright in more detail:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqFXYDrZt7c?si=mPe9nIo1zl8VBnIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"Copyright in 2 minutes" by <a href= "https://www.auteursrecht.nl/" target=_blank>Auteursrecht.nl</a> no further reuse is allowed<br><br>
+"<a href=https://www.youtube.com/embed/ZqFXYDrZt7c?si=mPe9nIo1zl8VBnIo target=_blank>Copyright in 2 minutes</a>" by <a href= "https://www.auteursrecht.nl/" target=_blank>Auteursrecht.nl</a>. No further reuse is allowed<br><br>
 
 ::::{grid}
 :gutter: 3
@@ -67,7 +67,7 @@ However, there are also more open licenses that allow you to reuse a work withou
 Not all creative commons licenses allow you to reuse the source freely. There might for example be limitations on the purpose of reusing the work (for example, CC-BY-NC means you can reuse the work, but not for commercial purposes), or on if you can adapt the work (For example, CC-BY-ND means you can reuse the work, but you are not allowed to change it). The image below gives an overview of the different Creative Commons licenses you might encounter and what you are allowed to do with the work:
 
 ![CC-Licenses](5c-CC-licenses.jpg)<br>
-How to attribute creative commons photos by Foter https://foter.com/blog/how-to-attribute-creative-commons-photos/ is licensed CC-BY-SA
+"<a href=https://foter.com/blog/how-to-attribute-creative-commons-photos/ target=_blank>How to attribute creative commons photos"</a>" by <a href=https://foter.com/ target=_blank>Foter</a> is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/ target=_blank>CC-BY-SA</a><br><br>
 
 Another license that allows you to reuse the work freely is when the work is in the public domain (PD).
 
