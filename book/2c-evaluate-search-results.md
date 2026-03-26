@@ -51,7 +51,7 @@ When you have found too few results, common techniques to broaden your search in
 
 Watch the video below for a guided example on how to do this.
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" target=_blank>Broadening</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" target=_blank>Broadening</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ### Narrowing Your Search
 When you have found too many results, common techniques to narrow down your search include:
@@ -63,7 +63,7 @@ When you have found too many results, common techniques to narrow down your sear
 Watch the video below for a guided example on how to do this:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" target=_blank>Narrowing</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" target=_blank>Narrowing</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 
 ### Step 3: Use AI to Help Refine Your Draft Query
@@ -88,4 +88,4 @@ I am a master student in [study]. I am working on a literature review paper on [
 Use the research-based scenario below to practice more with the skills discussed in this chapter
 
 <iframe src="https://tudelft.h5p.com/content/1292799266045636277/embed" aria-label="2 - Practice - Evaluate Your Search" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
-"<a href="https://tudelft.h5p.com/content/1292799266045636277/embed" target=_blank>Evaluate Your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"<a href="https://tudelft.h5p.com/content/1292799266045636277/embed" target=_blank>Evaluate Your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
