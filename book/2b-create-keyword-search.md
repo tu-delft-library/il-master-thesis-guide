@@ -76,6 +76,9 @@ Main concepts:
 - Which words in my search question are truly central, and which ones can I ignore for now?  
 - Do my chosen concepts cover the main focus areas of my research without being too broad?  
 
+**Call to action:**  
+Add your concepts to the table in your [Search Template](2-handout-search.docx).
+
 ```
 
 ## Step 2: Finding Enough Synonyms for Each Search Concept
@@ -131,7 +134,7 @@ Concepts from the question *“How does 3D printing affect the cost of manufactu
 - Which synonyms are most likely to appear in the databases and journals relevant to my discipline?  
 
 **Call to action:**  
-Add your table of concepts and synonyms to your [Search Strategy Handout] so you can begin testing them in your database searches.  
+Add your table of concepts and synonyms to your [Search Template](2-handout-search.docx) so you can begin testing them in your database searches.  
 
 ```
 
@@ -232,7 +235,7 @@ Now that you’ve gathered synonyms for your concepts, it’s time to **combine 
 - Which database-specific features (wildcards, proximity, nesting) could make my query more powerful?  
 
 **Call to action:**  
-Write and save your first complete search query in your [Search Strategy Handout], then test it in one academic database of your choice. Adjust as needed based on the results you see.  
+Write and save your first complete search query in your [Search Template](2-handout-search.docx), then test it in one academic database of your choice. Adjust as needed based on the results you see.  
 ```
 
 ## Practice with a Research Scenario
