@@ -47,31 +47,31 @@ When you have done an initial exploration of your sources, take your mind map or
 
 ### Example Research scenario
 
-In the example scenario our topic was sustainable development of car industry. Based on our initial brainstorming and general searches we craeted a concept map connecting our initial information. You can see this in the image below. We can now use the concept map to formulate various information search questions. You formulate these questions by looking at the relations and dependencies of different branches of the concept map.
+Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. In the concept map you visualise the relations and dependencies of a topic by connecting them with branches, which gives you a clearer overview of your subject. You can then use the concept map to formulate various information search questions by looking at the relations and dependencies of different branches of the concept map.
 
-![mindmap](1b-mindmap.jpg)
-"Mindmap" by TU Delft Library Education Support is licensed CC-BY-SA
+![Concept Map](1a-conceptmap.jpg)<br>
+<a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
 
-Possible questions that can be derived from the mind map are:
+From this concept map we have formulated the following research question:
 
-- How can the automotive industry contribute to the improvement of air quality by adapting existing fuels?
-- How can the automotive industry improve the environmental impact through material recycling in car design?
-- Do car free zones have a positive impact on societal behaviour and impact the automotive industry?
+- **“How can the print quality of inkless printing be improved by using optical technology?”**
+Another possible research question could be:
+- **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
-An information search question can get too complex to solve at once. To create more structure and make the question more manageable, it can be helpful to divide it into sub-questions.
+An information search question can get too complex to solve at once. To create more structure and make the question more manageable, it can be helpful to divide it into sub-questions. In order to answer the information search question “How can the print quality of inkless printing be improved by using optical technology?”, you should formulate a number of sub-questions to further specify your search
 
-```{admonition} Example Subquestions
-:class: dropdown tip
-Below some subquestions based on our initial example:
+| Question | Explanation | Example |
+|----------|-------------|---------|
+| **What?** | Definitions of terms | What is the definition of print quality?<br>What kinds of optical technology are used in printing? |
+| **How?** | Relations between terms | How can optics technology influence the print quality? |
+| **Why?** |  Benefits of Research | Why would you improve inkless printing technology? |
+| **Who?** | Target Group | Who would benefit of wider use of inkless printing technology? |
+| **Where?** | Geographical Demarcation | Where would the improved inkless printing technology be most of use? |
 
-- What is the definition of “automotive industry”?
-- What kinds of existing fuels are used in the automotive industry?
-- How can research into fuel contribute to the improvement of air quality?
-- Why should the automotive industry contribute to the improvement of air quality?
-- Who would benefit from the improvement of air quality?  
-- Who would benefit from adapting the existing fuels?
-- Where is the greatest need for improvement of air quality?
-```
+A research topic can consist of multiple terms. The ‘What’ and ‘How’ sub-questions can therefore be posed multiple times.
+Very often, you won’t be able to answer all five types of sub-questions. The ‘What’ and ‘How” sub-questions must always be posed, but the social relevance questions depend on how specific your research topic is.
+
+Want to learn more about how to get started with conceptmapping? Have a look at <a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>this video about concept mapping</a>
 
 ## Step 2: Further Specifying Your Question
 
