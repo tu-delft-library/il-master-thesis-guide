@@ -42,12 +42,21 @@ When you freewrite, you set a timer and just begin writing on your topic without
 ```
 ```{tab-item} Mindmaps
 
-When you create a mindmap you connect different concepts around your topic. Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. One way to do this is using a concept map. A concept map is a visual way of analysing your subject. Start with your subject or research topic in the middle and think of related areas. For each area come up with more specified topics and examples.
+A mindmap is a visual way of analysing your subject. Start with your subject or research topic in the middle and think of related areas. For each area come up with more specified topics and examples. You can use specific software to do this, or you could also use post-its on paper.
 
-![mindmap](1a-mindmap.jpg)<br>
-<a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
+An example of a mindmap is found in the image below:
 
-Making a concept map from the information you have available gives you a clearer overview of your subject. You can then use the concept map to formulate various research questions. You formulate research questions by looking at the relations and dependencies of different branches of the concept map. 
+![mindmap](1b-mindmap.jpg)
+"Mindmap" by TU Delft Library Education Support is licensed CC-BY-SA
+
+Possible questions that can be derived from the mindmap are:
+
+- How can the automotive industry contribute to the improvement of air quality by adapting existing fuels?
+- How can the automotive industry improve the environmental impact through material recycling in car design?
+- Do car free zones have a positive impact on societal behaviour and impact the automotive industry?
+
+Making a mindmap map from the information you have available gives you a clearer overview of your subject. You can then use the mindmap to begin to formulate various information search questions. 
+
 
 ```
 
