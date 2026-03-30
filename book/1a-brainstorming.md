@@ -55,7 +55,7 @@ Possible questions that can be derived from the mindmap are:
 - How can the automotive industry improve the environmental impact through material recycling in car design?
 - Do car free zones have a positive impact on societal behaviour and impact the automotive industry?
 
-Making a mindmap map from the information you have available gives you a clearer overview of your subject. You can then use the mindmap to begin to formulate various information search questions. 
+Making a mindmap map from the information you have available gives you a clearer overview of your subject. You can then use the mindmap to begin to formulate various information search questions. For more infromation on how to make mindmaps see also: <a href="https://www.youtube.com/watch?v=u5Y4pIsXTV0" target=_blank>How to Mind Map with Tony Buzan</a>
 
 
 ```
