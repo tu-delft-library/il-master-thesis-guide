@@ -14,9 +14,9 @@ There are specific moments when relating to what others have written is necessar
 
 ![1b-information-search-question](1b-information-search-question.png)
 
-1 - Beginning of your project: Usually you do an in-depth search on what others have done (literature review), based on a preliminary research question.
-2 - Conducting your research: Articles help you shape your project, they can help you find new directions when your project is stuck, or new sources to read. 
-3 - When you finish your project, you connect your findings to what others have done. 
+1. Beginning of your project: Usually you do an in-depth search on what others have done (literature review), based on a preliminary research question.
+2. Conducting your research: Articles help you shape your project, they can help you find new directions when your project is stuck, or new sources to read. 
+3. When you finish your project, you connect your findings to what others have done. 
 
 
 ::::{grid}
