@@ -58,7 +58,10 @@ From this concept map we have formulated the following research question:
 Another possible research question could be:
 - **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
-An information search question can get too complex to solve at once. To create more structure and make the question more manageable, it can be helpful to divide it into sub-questions. In order to answer the information search question “How can the print quality of inkless printing be improved by using optical technology?”, you should formulate a number of sub-questions to further specify your search
+Want to learn more about how to get started with conceptmapping? Have a look at <a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>this video about concept mapping</a>
+
+## Step 2: Further Specifying Your Question
+To further specify your question and make it more manageable, it can be helpful to divide it into sub-questions. In order to answer the information search question “How can the print quality of inkless printing be improved by using optical technology?”, you should formulate a number of sub-questions to further specify your search:
 
 | Question | Explanation | Example |
 |----------|-------------|---------|
@@ -69,20 +72,7 @@ An information search question can get too complex to solve at once. To create m
 | **Where?** | Geographical Demarcation | Where would the improved inkless printing technology be most of use? |
 
 A research topic can consist of multiple terms. The ‘What’ and ‘How’ sub-questions can therefore be posed multiple times.
-Very often, you won’t be able to answer all five types of sub-questions. The ‘What’ and ‘How” sub-questions must always be posed, but the social relevance questions depend on how specific your research topic is.
-
-Want to learn more about how to get started with conceptmapping? Have a look at <a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>this video about concept mapping</a>
-
-## Step 2: Further Specifying Your Question
-
-Once you have your initial question, you can look at its different components and make them more or less specific. The example below from Maastricht University provides an example on more narrow and broader components of a specific question.<br><br>
-*note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.
-
-<iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a>
-
-Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
+Very often, you won’t be able to answer all five types of sub-questions. The ‘What’ and ‘How” sub-questions must always be posed, but the why, who and where questions depend on how specific your research topic is.
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
@@ -92,5 +82,4 @@ Once you have formulated an initial information search question, this is a great
 
 ## References
 - Lier, M. van. (n.d.). LibGuides: Tackling Information Problems (TIP): Formulate your research question. Retrieved March 4, 2026, from https://libguides.uvt.nl/tip-tutorial/research-question
-- Maastricht University. (n.d.). Formulating a research question. Retrieved March 2, 2026, from https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link
 
