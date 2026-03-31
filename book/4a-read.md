@@ -264,7 +264,21 @@ While you have made an initial search strategy using the knowledge you had at th
 
 ## Step 3: When to Stop Reading and Searching
 
-You stop searching and reading when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches, or your time has run out. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
+There are multiple moments during your thesis when you will need to search, evaluate and read information from others. The figure shows the different phases of the project and the information steps needed. 
+
+There are specific moments when relating to what others have written is necessary: 
+
+![1b-information-search-question](1b-information-search-question.png)
+
+1. Beginning of your project: You conduct an in-depth review on what others have done (literature review), based on a preliminary research question or topic. These results help you formulate your final research question and methodology.
+2. Conducting your research: While conducting your own research, you should periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out.  
+3. When you finish your project and write your conclusion and discussion, you connect your findings to what others have done. This means looking back at the sources you have used throughout your project.
+
+This means that you do not stop searching and reading entirely throughout your project.
+
+However, at the beginning of the project you do a more in-depth review and search of the literature, and at some point you need to move on from the literature review phase and start conducting your research. To avoid staying stuck in this phase for too long you can ffollow the guideines below:
+
+You stop searching and reading for your literature review when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches, or your time has run out. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "<a href="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" target=_blank>When to stop reading and start writing</a>" by <a href="https://www.eur.nl/en/library" target=_blank>Erasmus University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br>
