@@ -77,5 +77,5 @@ Want to learn more about best practices for organising your information? Have a 
 ## Practice
 
 <iframe src="https://tudelft.h5p.com/content/1292803421259795467/embed" aria-label="3c Storing Sources" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-"<a href="https://tudelft.h5p.com/content/1292803421259795467/embed" target=_blank>3c Storing Sources</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
+"<a href="https://tudelft.h5p.com/content/1292803421259795467/embed" target=_blank>3d Storing Sources</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
