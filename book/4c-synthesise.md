@@ -1,7 +1,7 @@
 # 4c. Synthesise
 
 ## Introduction
-A synthesis is not the same as a summary. When you synthesise information, you add your own thoughts and findings, as well as a comparison of the work of others. You will often be asked to create a synthesis as part of a literature review at the beginning of your project, or at the end of your project by connecting your results to the literature of other scholars.
+After you have read and summarised relevant sources, it is time to add _your own voice_ to what you have found! A synthesis is therefore not the same as a summary: When you synthesise information, you add your own critical reflection as you compare of the work of others. Why are the articles you have summarised and read important? It is up to _you_ to decide which sources you will include and what point you want to make, based on your critical evaluation of everything you have found and read. You will often be asked to create a synthesis as part of a literature review at the beginning of your project, or at the end of your project by connecting your results to the literature of other scholars.
 
 Watch the video below to learn more about the process of synthesising:
 
@@ -39,6 +39,8 @@ Often the starting point of a master thesis are the outcomes of a literature rev
 
 2.	Synthesise literature with your own results (writing the discussion or conclusion of your paper)
 When you have done your study, you will want to connect your own findings to the main concepts and studies within the field. This synthesis will become part of the discussion and conclusion of your master thesis. Here you connect your findings to the literature to see how they relate, compare how your findings differ and what they add to the body of work that has already been done.
+
+As you are reading and summarising, you should already have thought about how you want to use the information in your project. In what ways are the sources relevant or irrelevant to the project? Why are they important and how do they connect to your research question? Keep these questions in mind as you start synthesising. 
 
 There is not just one standard practice for synthesising literature. It can help to create an overview or matrix with information from your different sources to find similarities and differences (as already mentioned in the previous section about summarising). You can also use a mindmapping tool to help summarise the main findings from the different sources you have studied.
 Ask yourself questions like:
@@ -84,9 +86,15 @@ These groupings can help you identify the main ideas within the literature and h
 ````
 
 ## Step 3: Write paragraphs with topic sentences
-For each paragraph you write, you should have a clear topic sentence and include a few sources supporting this topic sentence. In this way, the paragraphs become the building blocks of your findings within the literature. Note that this topic sentence should reflect your findings and viewpoints in the literature, or connect your own research to the literature. It is not enough to merely provide a summary of the sources. 
 
-If you have your own research findings, use them as part of these paragraphs. How do your findings differ from the already established literature?
+For each paragraph you write, you should have a clear topic sentence. In these sentences you state your findings and decisions, supported by the sources you have selected. In this way, the paragraphs become the building blocks of your findings within the literature. Your own thoughts and decisions should be leading when you write these topic sentences. 
+
+```{admonition} Use Your Voice
+:class: hint
+Topic sentences in your synthesis should reflect your findings and viewpoints from your literature review, or connect your own research results to the literature. It is not enough to merely provide a summary of the sources.
+```
+
+If you have your own research findings, use them as part of these paragraphs. How do your findings differ from the already established literature? 
 
 Do you want more information on how to build good paragraphs and sentences? Have a look at <a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/planning-your-research-draft-synthesizing-ideas/" target=_blank>this article</a> to learn different ways to approach the synthesis (Lumen, n.d.)
 
