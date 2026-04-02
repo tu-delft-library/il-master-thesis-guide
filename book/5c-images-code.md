@@ -20,8 +20,8 @@ Know what works are copyrighted
 :::
 
 :::{grid-item-card} Step 2 <br>
-[Recognise Licenses](#step-2-recognise-licenses)<br>
-Recognise different copyright licenses and where to find them
+[Using Right to Quote](#step-2-using-right-to-quote)<br>
+Understand how to use your right to quote copyrighted works
 :::
 
 :::{grid-item-card} Step 3 <br>
@@ -57,7 +57,7 @@ You have to ask for permission from the copyright holder to reproduce an image, 
 - If you stick to the rules of “fair use” (non-commercial use; only educational or academic use; use of just a small part of the original work; use only what is necessary).
 ```
 
-## Step 2: Recognise licenses
+### Where to find copyright information?
 When reusing someone's work you should check the work for the copyright license. If it is online often this will be somewhere on the about page or at the bottom of the site. 
 
 Symbols you will likely encounter are: (©) , or a statement like "all rights reserved." When statements like this are included in the work you should ask for permission if you want to reuse it. If copyright information is missing or cannot be found, this doesn't mean that the work is not copyrighted. Instead, you should assume that the work is copyright-protected and ask for permission to reuse (Wageningen University Library, n.d.).
@@ -71,10 +71,26 @@ Not all creative commons licenses allow you to reuse the source freely. There mi
 
 Another license that allows you to reuse the work freely is when the work is in the public domain (PD).
 
+## Step 2: Using Right to Quote
+
+When reusing copyrighted figures, images, data or multimedia in your master thesis you can use your **right to quote** if you don't want to ask for permission. However, there are specific conditions that you need to meet to make sure this right applies, as stated by the <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751" target=_blank>TU Delft Copyright Information Point</a>:
+
+- You can only do so for a **clearly identifiable purpose**.
+- You may not quote **more than is strictly necessary**.
+- You must **reference the source**.
+- The source must have been **lawfully published**.
+
+If one of these requirements is **NOT** met, you must ask for permission (for example by emailing the author, journal or organisation that created the work). You can only use the right to quote when strictly necessary. 
+
+```{admonition} About Decorative Images
+:class: warning 
+If multimedia are used decoratively, they do **not** fall under the right to quote and students do have to ask permission or use one of the openly licensed works we discussed. An example is using a photograph on the cover of a thesis.
+```
+
 ## Step 3: Taking care of your own copyright
 You do not have to do anything to obtain copyright, such as a registration process or putting a copyright symbol (©) or statement in your work. It must be clear that you wrote or produced the work yourself.
 
-What can be helpful when sharing your own work is choosing for a creative commons license. These are licenses that allow others to reuse your work according to your wishes. On the website of <a href="https://creativecommons.org/share-your-work/cclicenses/" target=_blank>Creative Commons</a> you can find more in depth information about the licenses.
+What can be helpful when sharing your own work is choosing for a creative commons license. These are licenses that allow others to reuse your work according to your wishes. On the website of <a href="https://creativecommons.org/share-your-work/cclicenses/" target=_blank>Creative Commons</a> you can find more in depth information about the licenses. 
 
 ```{admonition} Tip
 :class: tip 
@@ -83,5 +99,6 @@ If you have any specific questions about copyright, contact the <a href="https:/
 
 ## References
 - Creative Commons. (n.d.). Share your work. Creative Commons. Retrieved March 2, 2026, from https://creativecommons.org/share-your-work/
+- TU Delft Copyright Information Point. As a student, I want to re-use multimedia in my multimedia / student paper, thesis, etc. Retrieved April 2, 2026 <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751" target=_blank>https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751</a>
 - Wageningen University Library. (n.d.). What is copyright? Retrieved March 2, 2026, from <a href="https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4" target=_blank>https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4</a>
 
