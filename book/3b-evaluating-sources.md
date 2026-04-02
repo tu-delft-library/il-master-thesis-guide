@@ -91,6 +91,8 @@ Imagine you are writing a report on the environmental impact of lithium-ion batt
 
 ```
 
+When evaluating scholarly sources, you can also use the CRAAP test. However, to do a full evaluation of an academic source, you also need to read the source carefully. Conclusions of studies can depend on small details in the study setup, and you may not see this when glancing at the titles and abstracts or an AI-generated summary. Judging _Accuracy_ (Is the argument presented consistently? Do the results make sense?) may therefore come after you have considered the other aspects, and have included a source in your reading list. The steps for evaluating and processing therefore overlap and go hand in hand for scholarly sources. 
+
 ## Practice with Research Scenarios
 
 <iframe src="https://tudelft.h5p.com/content/1292803412552756187/embed" aria-label="Test 3b: Evaluating Sources" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
