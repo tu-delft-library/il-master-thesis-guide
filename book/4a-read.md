@@ -235,7 +235,7 @@ As you go through the text and close read, make sure you take notes. If you don'
 
 1. Include citation of the source when note-taking, or take notes on the article itself
 
-2. Ask yourself the following questions while reading to promote active reading: 
+2. When you close read a scholarly sources, you should also critically evaluate the source. This means asking yourself questions while reading, which also promotes active reading: 
 - How does the author know this and do they give any scientific evidence?
 - How does this compare to other things I have read or know?
 - Are there certain things, such as terms, concepts or arguments, that I do not understand yet? Make a note of this so you can come back to it. 
