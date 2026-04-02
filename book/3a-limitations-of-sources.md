@@ -44,6 +44,12 @@ GenAI use comes with a lot of considerations, and this means you should critical
 
 ````{tab-set}
 
+```{tab-item} Privacy and Security
+
+It is often unclear how the input (prompts) from users are processed in GenAI tools. These could also be (and often are) used for training purposes. It is therefore important to never insert personal details or confidential information in GenAI tools. If you are allowed to use AI, and are handling confidential information, consider using a tool that wil run AI models locally on your laptop, like <a href="https://ollama.com/" targe=_blank>Ollama</a>.
+
+```
+
 ```{tab-item} Errors
 
 AI tools can produce incorrect or misleading information. The output of AI systems can, for example, include citations that look realistic, but don't really exist. You should always verify the output of AI with reliable sources. 
@@ -56,10 +62,9 @@ GenAI tools are trained with real-life data. The output can therefore reflect an
 
 ```
 
-```{tab-item} Privacy and copyright
+```{tab-item} Copyright
 
-GenAI tools are trained with data that is publicly available. However, the authors of the texts that are used for training purposes did not give permission for this. Although GenAI output does not typically include directly copied passages, often it does include extracted patterns, styles and ideas. This leads to a grey area of potential copyright infringement. In addition, it is often unclear how the input (prompts) from users are processed in GenAI tools. These could also be (and often are) used for training purposes. It is therefore important to never insert personal details or confidential information in GenAI tools.
-
+GenAI tools are trained with data that is publicly available. However, the authors of the texts that are used for training purposes did not give permission for this. Although GenAI output does not typically include directly copied passages, often it does include extracted patterns, styles and ideas. This leads to a grey area of potential copyright infringement.
 ```
 
 ```{tab-item} Overreliance
@@ -85,7 +90,7 @@ For effective and responsible GenAI use, keep the following five principles in m
 
 2. Proof: Always check the output for inaccuracies and biases. Critically evaluate the quality of the output, using your own critical thinking skills.
 
-3. Privacy (and other considerations): There are many unknowns about how GenAI tools use your input. Never feed personal details or confidential information to GenAI tools. Also consider the environmental impact of GenAI before using it.
+3. Privacy (and other considerations): There are many unknowns about how GenAI tools use your input. _Never_ feed personal details or confidential information to GenAI tools. Also consider the environmental impact of GenAI before using it.
 
 4. Presentation: The output from GenAI tools may include grammatically correct sentences, but it is often generic and flavourless. Don’t forget about your own voice when you are writing a text.
 
