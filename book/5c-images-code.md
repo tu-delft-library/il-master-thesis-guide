@@ -84,7 +84,7 @@ If one of these requirements is **NOT** met, you must ask for permission (for 
 
 ```{admonition} About Decorative Images
 :class: warning 
-If multimedia are used decoratively, they do **not** fall under the right to quote and students do have to ask permission or use one of the openly licensed works we discussed. An example is using a photograph on the cover of a thesis.
+If multimedia are used decoratively, they do **not** fall under the right to quote and you have to ask permission or use one of the openly licensed works discussed previously. An example is if you use a photograph on the cover of your thesis.
 ```
 
 ## Step 3: Taking care of your own copyright
