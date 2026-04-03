@@ -19,5 +19,4 @@ Before studying the recap and additional skills useful for your MSc thesis; take
 
 
 ## Process Template for Your MSc Thesis 
-Want to get started with processing the sources for your project right away? Use the **PLACEHOLDER** to fill in as you go through the pages or to select and store the sources for your MSc thesis.
-
+The template for Process is still under development. 
