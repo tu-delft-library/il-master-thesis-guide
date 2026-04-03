@@ -1,6 +1,6 @@
 # 5. Share
 
-Throughout your thesis you will be using and re(using) other people's ideas and work. At the minimum, you will cite the sources on which you have build your research. In addition, you may be reusing other people's work like images, software or code. If your master program allows it, you might also be using genAI output throughout your thesis. When handing in your thesis you have to take care that you are accurately using and reusing the work of others, and that you are transparant about your use of AI. Finally, if you are interested in a future career in research, look into additional ways to share your work by applying open science principles. 
+Throughout your thesis you will be using and re(using) other people's ideas and works. At the minimum, you will cite the sources on which you have build your research. In addition, you may be reusing other people's work like images, software or code. If your master program allows it, you might also be using genAI output throughout your thesis. When handing in your thesis you have to take care that you are accurately using and reusing the work of others, and that you are transparant about your use of AI. Finally, if you are interested in a future career in research, look into additional ways to share your work by applying open science principles. 
 
 ![citing sources](5-write.png)
 
@@ -17,5 +17,5 @@ Before studying the recap and additional skills useful for your MSc thesis; take
 <iframe src="https://tudelft.h5p.com/content/1292840632519475287/embed" aria-label="5 - Share - Knowledge Test" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-## Template for Your MSc Thesis 
-Want to get started with citing sources for your project right away? Use the **PLACEHOLDER** to fill in as you go through the pages or to select and store the sources for your MSc thesis.
+## Template for Sharing
+Use the [Sharing Checklist](5-sharing-checklist.docx) to support you in accurately using and reusing the work of others and disclosing genAI use for your thesis.
