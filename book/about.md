@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Information Literacy Master Thesis Guide. This guide was created to use as a reference for all the information literacy steps involved during your master thesis process.
+Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy steps involved during your master thesis process.
 
 
 This is a pilot version still under development. 
@@ -8,7 +8,7 @@ This is a pilot version still under development.
 ## Structure of the Guide
 
 
-This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The book is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps here:
+This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps below:
 
 ![overview of thesis process](overview-lit-review.png)
 
@@ -16,9 +16,9 @@ This resource is divided into 5 chapters. Each chapter represents a phase in you
 The learning goals of the guide are based on the five phases in your master thesis when you will be working with information. For the different phases, the following learning goals have been formulated: 
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your MSc thesis 
-2. **Search**: Use the search plan handout to set up and store a basic search strategy for scientific literature for your MSc thesis  
-3. **Selecting**: Use basic ways to assess relevance and reliability of search results and select information for your MSc thesis, know how to store references of your MSc thesis in an effective way  
-4. **Process**: Apply best reading practices when reading, summarizing and synthesizing literature for your MSc thesis  
+2. **Search**: Set up and store a basic search strategy for scientific literature for your MSc thesis 
+3. **Selecting**: Use basic ways to assess relevance and reliability of sources, select information for your MSc thesis and know how to store information effectively
+4. **Process**: Understand how to read, summarise and synthesise during your MSc thesis
 5. **Share**: Apply correct citation and copyright practices when handing in your MSc thesis. Know about open science principles when publishing your research. 
 
 For a more detailed overview of the learning goals download the [Learning Goals Overview](overview-learning-goals.pdf) or look at the toggle below:
@@ -42,11 +42,11 @@ Each chapter includes a landing page. Here you will find:
 - A template you can use directly while working on your MSc thesis
 
 #### Subchapters
-After the landing page, you can find more detailed information on all the steps part of a specific phase. All include guided additional guided activities to help you apply the information while working on your MSc thesis.
+After the landing page, you can find more detailed information on all the steps that are part of each specific phase. When applicable, the chapters include additional guided activities to help you apply the information while working on your MSc thesis.
 
 ```{admonition} Tip
 :class: tip
-Want to know more about what others have done before? Have a look at the <a href="https://repository.tudelft.nl/search?page=1&sort=relevance&record_type=master_thesis" target="_blank">TU Delft Thesis Repository</a> to see examples from your own programs!
+Want to learn from what previous students have done? In the <a href="https://repository.tudelft.nl/search?page=1&sort=relevance&record_type=master_thesis" target="_blank">TU Delft Thesis Repository</a> you can access master theses made by students from your own program!
 
 ```
 
@@ -56,10 +56,10 @@ Want to know more about what others have done before? Have a look at the <a href
 The guide was created by the TU Delft Library, Education Support Team 
 
 ### Acknowledgements
-Thank you to all the reviewers involved in reviewing this book.
+Thank you to all the reviewers involved in reviewing this guide.
 
 ### Sources
-The sources that were used for this book are referenced at the end of each section.
+The sources that were used for this guide are referenced at the end of each section.
 
 In addition to the sources referenced this guide reuses materials from:
 
@@ -72,15 +72,11 @@ Unless otherwise specified the images used on these pages are adapted from <a hr
 
 
 ### Disclosure of AI Use
-While creating this book, we used AI for:
+While creating this guide, we used AI for:
 - Brainstorming and refining guided activities
-- Drafting/brainstorming on knowledge check questions
-- Setting up the basic template of the Jupyter Book
+- Drafting/brainstorming knowledge check questions
 - Cleaning up formatting
 
-Model used: 
+AI tools used: 
 - OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025)[Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
 - Microsoft. (2025). _Copilot_ (January 2026 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
-
-### Last Updated
-April 2026
