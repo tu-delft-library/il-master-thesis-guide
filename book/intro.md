@@ -16,9 +16,9 @@ This resource is divided into 5 chapters. Each chapter represents a phase in you
 The learning goals of the guide are based on the five phases in your master thesis when you will be working with information. For the different phases, the following learning goals have been formulated: 
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your MSc thesis 
-2. **Search**: Use the search plan handout to set up and store a basic search strategy for scientific literature for your MSc thesis  
-3. **Selecting**: Use basic ways to assess relevance and reliability of search results and select information for your MSc thesis, know how to store references of your MSc thesis in an effective way  
-4. **Process**: Apply best reading practices when reading, summarizing and synthesizing literature for your MSc thesis  
+2. **Search**: Set up and store a basic search strategy for scientific literature for your MSc thesis 
+3. **Selecting**: Use basic ways to assess relevance and reliability of sources, select information for your MSc thesis and know how to store information effectively
+4. **Process**: Understand how to read, summarise and synthesise during your MSc thesis
 5. **Share**: Apply correct citation and copyright practices when handing in your MSc thesis. Know about open science principles when publishing your research. 
 
 For a more detailed overview of the learning goals download the [Learning Goals Overview](overview-learning-goals.pdf) or look at the toggle below:
