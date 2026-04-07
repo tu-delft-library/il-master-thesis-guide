@@ -51,10 +51,10 @@ Once you have gathered some information around your topic, you can use a concept
 ![Concept Map](1a-conceptmap.jpg)<br>
 <a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
 
-From this concept map we have formulated the following research question:
+From this concept map we have formulated the following information search question:
 
 - **“How can the print quality of inkless printing be improved by using optical technology?”**
-Another possible research question could be:
+Another possible information search question could be:
 - **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
 Want to learn more about how to get started with conceptmapping? Have a look at <a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>this video about concept mapping</a>
@@ -62,7 +62,7 @@ Want to learn more about how to get started with conceptmapping? Have a look at 
 ## Step 2: Further Specifying Your Question
 
 ### Narrow or Broaden Specific Components
-Once you have your initial question, you can look at its different components and make them more or less specific. The example below from Maastricht University provides an example on more narrow and broader components of a specific question.<br><br>
+Once you have your initial question, you can look at its different components and make them more or less specific. The example below from Maastricht University shows how you can narrow or broaden components of a specific question.<br><br>
 
 <iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
