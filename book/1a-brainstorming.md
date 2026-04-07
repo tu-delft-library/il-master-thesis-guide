@@ -47,7 +47,7 @@ A mindmap is a visual way of analysing your subject. Start with your subject or 
 An example of a mindmap is found in the image below:
 
 ![mindmap](1a-mindmap.jpg)
-"Mindmap" by TU Delft Library Education Support is licensed CC-BY-SA
+"Mindmap" by TU Delft Library Education Support is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA</a><br>
 
 Possible questions that can be derived from the mindmap are:
 
@@ -84,7 +84,7 @@ Next, you can search online to find some additional sources to expand your knowl
 
 ```{tab-item} General Search Engines
 
-Think of relevant concepts that are related to your subject and perform general searches in Google, Wikipedia or dictionary to find useful terms. You could also look into handbooks from your studies. If you want to search anonymously on the internet you can use alternative search engines like DuckDuckGo (data from more than 50 search engines, does not store IP addresses and search data), Startpage (does give Google results, but also serves as a proxy -wall- between you and Google) and Gibiru (search results are sourced by a modified Google algorithm).
+Think of relevant concepts that are related to your subject and perform general searches in Google, Wikipedia or dictionary to find useful terms. You could also look into handbooks from your studies. If you want to search anonymously on the internet you can use alternative search engines like <a href="https://duckduckgo.com/" target=_blank>DuckDuckGo</a> (data from more than 50 search engines, does not store IP addresses and search data), <a href="https://www.startpage.com/"  target=_blank>Startpage</a> (does give Google results, but also serves as a proxy -wall- between you and Google) and <a href=https://gibiru.com/ target=_blank>Gibiru</a> (search results are sourced by a modified Google algorithm).
 
 ```
 
@@ -99,12 +99,12 @@ These information sources often provide information that is not too specific and
 ```
 
 ```{tab-item} Academic Databases
-To help brainstorm, you can search for your topic in a multidisciplinary academic database like Scopus or Dimensions and in subject-specific catalogues or databases for your research field. Don't start reading articles right away, but check the titles, abstracts and keywords of documents you find useful. You can add these terms to your concept map, list them somewhere or add them to your initial brainstorm to further shape your topic. 
+To help brainstorm, you can search for your topic in a multidisciplinary academic database like <a href=https://www.scopus.com/ target=_blank>Scopus</a> or <a href=https://app.dimensions.ai/discover/publication target=_blank>Dimensions</a> and in subject-specific catalogues or databases for your research field. Don't start reading articles right away, but check the titles, abstracts and keywords of documents you find useful. You can add these terms to your concept map, list them somewhere or add them to your initial brainstorm to further shape your topic. 
 
 ```
 
 ```{tab-item} Scientific Review Articles
-While academic articles are too specific to use in a brainstorm phase, review articles, which can be found in academic databases, provide an overview of research done in a field and can help to uncover latest information in a field quickly. In Dimensions and Scopus, you can filter specifically for review articles.
+While academic articles are too specific to use in a brainstorm phase, review articles, which can be found in academic databases, provide an overview of research done in a field and can help to uncover latest information in a field quickly. In <a href=https://www.scopus.com/ target=_blank>Scopus</a> and <a href=https://app.dimensions.ai/discover/publication target=_blank>Dimensions</a>, you can filter specifically for review articles.
 
 ```
 
