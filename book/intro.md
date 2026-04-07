@@ -15,22 +15,22 @@ This resource is divided into 5 chapters. Each chapter represents a phase in you
 ### Learning Goals
 The learning goals of the guide are based on the five phases in your master thesis when you will be working with information. For the different phases, the following learning goals have been formulated: 
 
-1. **Explore**: Apply basic steps for orientation on the topic or question of your MSc thesis 
-2. **Search**: Set up and store a basic search strategy for scientific literature for your MSc thesis 
-3. **Selecting**: Use basic ways to assess relevance and reliability of sources, select information for your MSc thesis and know how to store information effectively
-4. **Process**: Understand how to read, summarise and synthesise during your MSc thesis
-5. **Share**: Apply correct citation and copyright practices when handing in your MSc thesis. Know about open science principles when publishing your research. 
+1. **Explore**: Apply basic steps for orientation on the topic or question of your master thesis 
+2. **Search**: Set up and store a basic search strategy for scientific literature for your master thesis 
+3. **Selecting**: Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively
+4. **Process**: Understand how to read, summarise and synthesise during your master thesis
+5. **Share**: Apply correct citation and copyright practices when handing in your master thesis. Know about open science principles when publishing your research. 
 
 For a more detailed overview of the learning goals download the [Learning Goals Overview](overview-learning-goals.pdf) or look at the toggle below:
 ``` {admonition} Overview of Learning Goals and Learning Objectives
 :class: dropdown tip
 | Learning Goal | Learning Objectives |
 |---------------|----------------------|
-| **1: Explore**<br>Apply basic steps for orientation on the topic or question of your MSc thesis | 1a. Know how to brainstorm on your topic<br>1b. Understand how to formulate a question for an information search<br>1c. Know how to do an initial exploration of academic literature |
-| **2: Search**<br>Set up and store a basic search strategy for scientific literature for your MSc thesis | 2a. Know different types of academic databases and how to access them<br>2b. Set up a keyword search strategy for a search in an academic database<br>2c. Evaluate and improve an initial search strategy<br>2d. Know additional ways to find academic literature<br>2e. Use search alerts to stay informed about the latest research |
-| **3: Evaluate**<br>Use basic ways to assess relevance and reliability of sources, select information for your MSc thesis and know how to store information effectively | 3a. Become aware of limitations of AI and other information sources<br>3b. Use the CRAAP framework to assess relevance and reliability of a source<br>3c. Apply the title-abstract method to select academic literature<br>3d. Use relevant software and best practices to store information for your master thesis |
-| **4: Process**<br>Understand how to read, summarise and synthesise during your MSc thesis | 4a. Apply best practices when reading literature for your MSc thesis<br>4b. Know how to summarise a source<br>4c. Understand how the process of synthesising works and know how to get started |
-| **5: Share**<br>Apply correct citation and copyright practices when sharing the results of your MSc thesis. Know about open science principles | 5a. Understand ways of citing, apply a correct referencing style and create a reference list for a variety of sources<br>5b. Know why and how you should acknowledge the use of AI in your work<br>5c. Correctly (re)use sources in accordance with their copyright licensing<br>5d. Know about open science principles |
+| **1: Explore**<br>Apply basic steps for orientation on the topic or question of your master thesis | 1a. Know how to brainstorm on your topic<br>1b. Understand how to formulate a question for an information search<br>1c. Know how to do an initial exploration of academic literature |
+| **2: Search**<br>Set up and store a basic search strategy for scientific literature for your master thesis | 2a. Know different types of academic databases and how to access them<br>2b. Set up a keyword search strategy for a search in an academic database<br>2c. Evaluate and improve an initial search strategy<br>2d. Know additional ways to find academic literature<br>2e. Use search alerts to stay informed about the latest research |
+| **3: Evaluate**<br>Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively | 3a. Become aware of limitations of AI and other information sources<br>3b. Use the CRAAP framework to assess relevance and reliability of a source<br>3c. Apply the title-abstract method to select academic literature<br>3d. Use relevant software and best practices to store information |
+| **4: Process**<br>Understand how to read, summarise and synthesise during your master thesis | 4a. Apply best practices when reading literature for your master thesis<br>4b. Know how to summarise a source<br>4c. Understand how the process of synthesising works and know how to get started |
+| **5: Share**<br>Apply correct citation and copyright practices when sharing the results of your master thesis. Know about open science principles | 5a. Understand ways of citing, apply a correct referencing style and create a reference list for a variety of sources<br>5b. Know why and how you should acknowledge the use of AI in your work<br>5c. Correctly (re)use sources in accordance with their copyright licensing<br>5d. Know about open science principles |
 ```
 
 ### Chapter Structures
@@ -39,10 +39,10 @@ Each chapter includes a landing page. Here you will find:
 - An introduction and an explanation of the value of the topic 
 - An overview of the steps involved in each phase
 - A test your knowledge quiz to see how much you know/remember about the steps for the phase
-- A template you can use directly while working on your MSc thesis
+- A template you can use directly while working on your master thesis
 
 #### Subchapters
-After the landing page, you can find more detailed information on all the steps that are part of each specific phase. When applicable, the chapters include additional guided activities to help you apply the information while working on your MSc thesis.
+After the landing page, you can find more detailed information on all the steps that are part of each specific phase. When applicable, the chapters include additional guided activities to help you apply the information while working on your master thesis.
 
 ```{admonition} Tip
 :class: tip
@@ -78,5 +78,5 @@ While creating this guide, we used AI for:
 - Cleaning up formatting
 
 AI tools used: 
-- OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025)[Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
+- OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025) [Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
 - Microsoft. (2025). _Copilot_ (January 2026 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
