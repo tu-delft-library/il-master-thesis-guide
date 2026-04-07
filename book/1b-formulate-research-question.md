@@ -37,7 +37,7 @@ Break your question down into broader or more narrow components
 
 ## Step 1: Defining Components of an Information Question
 
-When you have done an initial exploration of your sources, take your mind map or summaries and try to formulate an information search question. You should define the who, what, where and why you are going to study. 
+When you have done an initial exploration of your sources, take your mind map or summaries and try to formulate an information search question. You should define the what, how, why, who and where you are going to study. 
 
 <a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>Tilburg University</a> has some good considerations on formulating a relevant question for an information search (Lier, M. van, n.d.). It should be: 
 - Clear
