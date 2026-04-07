@@ -49,7 +49,7 @@ When you have done an initial exploration of your sources, take your mind map or
 Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. In the concept map you visualise the relations and dependencies of a topic by connecting them with branches, which gives you a clearer overview of your subject. You can then use the concept map to formulate various information search questions by looking at the relations and dependencies of different branches of the concept map.
 
 ![Concept Map](1a-conceptmap.jpg)<br>
-<a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
+<a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA</a><br>
 
 From this concept map we have formulated the following information search question:
 
