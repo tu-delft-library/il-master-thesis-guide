@@ -26,7 +26,7 @@ Before studying the recap and additional skills useful for your MSc thesis; take
 <iframe src="https://tudelft.h5p.com/content/1292840716553918907/embed" aria-label="2 - Search - Knowledge Test" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-## Search Template for Your MSc Thesis 
+## Search Template for Your Master Thesis 
 Want to get started with searching for your project right away? Use the [Search Template](2-handout-search.docx) to fill in as you go through the pages or to set up and store a basic search strategy for scientific literature for your MSc thesis.
 
 
