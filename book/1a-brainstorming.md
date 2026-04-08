@@ -113,7 +113,7 @@ While academic articles are too specific to use in a brainstorm phase, review ar
 
 
 ## References
-- How to choose a thesis topic. (2016, March 29). Maastricht University Library. https://library.maastrichtuniversity.nl/study/thesis-supportall/choose-thesis-topic/
-- The Writing Center, University of North Carolina at Chapel Hill. (n.d.). Brainstorming. The Writing Center. Retrieved March 2, 2026, from https://writingcenter.unc.edu/tips-and-tools/brainstorming/
-- TU Delft Library Education Support. (n.d.). Making a search plan. TUlib. Retrieved March 2, 2026, from https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan
-- Walma, L., & Looij, M. (2025). Brainstorming on Your Topic—AI for Literature Review. Retrieved March 2, 2026, from https://ai-for-literature-review.github.io/Guide/part2/brainstorming.html#ai-assist-general-searches-on-your-topic
+- Maastricht University Library. (2016). _How to choose a thesis topic_. <a href="https://library.maastrichtuniversity.nl/study/thesis-supportall/choose-thesis-topic/" target=_blank>https://library.maastrichtuniversity.nl/study/thesis-supportall/choose-thesis-topic/</a>
+- The Writing Center, University of North Carolina at Chapel Hill. (n.d.). _Brainstorming_. <a href="https://writingcenter.unc.edu/tips-and-tools/brainstorming/" target=_blank>https://writingcenter.unc.edu/tips-and-tools/brainstorming/</a>
+- TU Delft Library Education Support. (n.d.). _Making a search plan_. TUlib. <a href="https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan</a>
+- Walma, L., & Looij, M. (2025). _Brainstorming on Your Topic_. AI for Literature Review. <a href="https://ai-for-literature-review.github.io/Guide/part2/brainstorming.html#ai-assist-general-searches-on-your-topic" target=_blank>https://ai-for-literature-review.github.io/Guide/part2/brainstorming.html#ai-assist-general-searches-on-your-topic</a>
