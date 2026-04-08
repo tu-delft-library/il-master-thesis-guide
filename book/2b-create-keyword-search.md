@@ -247,5 +247,5 @@ Complete the exercise below to practice with a research scenario
 
 ## References
 
-- Brodhead, T. (2025). Guides: Research Tips and Tricks: Breaking Topic Into Keywords. Retrieved March 4, 2026, from https://kingsu.libguides.com/research/keywords
-- University of Sydney. (n.d.). Identifying concepts in a research topic. Retrieved March 2, 2026, from https://www.library.sydney.edu.au/support/searching/identifying-keywords-in-a-research-topic
+- Brodhead, T. (2025). _Breaking Topic Into Keywords_. Guides: Research Tips and Tricks. <a href="https://kingsu.libguides.com/research/keywords" target=_blank>https://kingsu.libguides.com/research/keywords</a>
+- University of Sydney. (n.d.). _Identifying concepts in a research topic_. <a href="https://www.library.sydney.edu.au/support/searching/identifying-keywords-in-a-research-topic" target=_blank>https://www.library.sydney.edu.au/support/searching/identifying-keywords-in-a-research-topic</a>
