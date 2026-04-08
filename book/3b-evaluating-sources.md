@@ -99,5 +99,5 @@ When evaluating scholarly sources, you can also use the CRAAP test. However, to 
 "<a href="https://tudelft.h5p.com/content/1292803412552756187/embed" target=_blank>Test 3a: Evaluating Sources</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ## References
-- Blakeslee, S. (2004). The CRAAP Test. LOEX Quarterly, 31(3). https://commons.emich.edu/loexquarterly/vol31/iss3/4
-- Southern New Hampshire University Library. (n.d.). How do I evaluate a source by its relevancy? Retrieved March 2, 2026, from https://libanswers.snhu.edu/faq/104708
+- Blakeslee, S. (2004). The CRAAP Test. _LOEX Quarterly_, _31(3)_. <a href="https://commons.emich.edu/loexquarterly/vol31/iss3/4" target=_blank>https://commons.emich.edu/loexquarterly/vol31/iss3/4</a>
+- Southern New Hampshire University Library. (n.d.). _How do I evaluate a source by its relevancy?_ <a href="https://libanswers.snhu.edu/faq/104708" target=_blank>https://libanswers.snhu.edu/faq/104708</a>
