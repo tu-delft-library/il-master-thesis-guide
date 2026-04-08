@@ -39,7 +39,7 @@ Break your question down into broader or more narrow components
 
 When you have done an initial exploration of your sources, take your mind map or summaries and try to formulate an information search question. You should define the what, how, why, who and where you are going to study. 
 
-<a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>Tilburg University</a> has some good considerations on formulating a relevant question for an information search (Lier, M. van, n.d.). It should be: 
+<a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>Tilburg University</a> has some good considerations on formulating a relevant question for an information search (Van Lier, n.d.). It should be: 
 - Clear
 - Specific
 - Manageable within the time you have
@@ -92,5 +92,5 @@ Once you have formulated an initial information search question, this is a great
 
 
 ## References
-- Lier, M. van. (n.d.). LibGuides: Tackling Information Problems (TIP): Formulate your research question. Retrieved March 4, 2026, from https://libguides.uvt.nl/tip-tutorial/research-question
+- Van Lier, M. (n.d.). _LibGuides: Tackling Information Problems (TIP): Formulate your research question._ Tackling Information Problems (TIP). <a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>https://libguides.uvt.nl/tip-tutorial/research-question</a>
 
