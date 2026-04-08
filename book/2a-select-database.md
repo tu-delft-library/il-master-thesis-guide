@@ -70,7 +70,7 @@ If you are working within a topic where research changes often, it can be helpfu
 | – No helpful details about the publications (e.g., subject-related terms such as subjects, descriptors or keywords) are provided. | + Additional details are provided for each publication (e.g., database-specific terms such as subjects, descriptors, or keywords, which are assigned by subject experts). |
 | – Google Scholar's crawlers can be fooled, resulting in unreliable materials being indexed (e.g., articles from predatory journals). | + Only credible materials are indexed, as subject experts review the content who are not easily misled. |
 
-Information adapted from "<a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>Google Scholar vs Library Databases</a>" from <a href="https://www.tilburguniversity.edu/" target=_blank>Tilburg University</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC-BY-NC-SA 4.0</a> 
+Information adapted from "<a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>Google Scholar vs Library Databases</a>" from <a href="https://www.tilburguniversity.edu/" target=_blank>Tilburg University</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA 4.0</a> 
 ```
 
 **Subject-specific databases** only include research data from specific topics. For example a database that focuses specifically on Chemistry or Architecture. Examples are IEEE for Engineering, PubMed for Medicine and ERIC for education research. These databases often include less material than multi-disciplinary databases, but by searching these you might find research highly relevant to your topic not included in the multi-disciplinary databases.
@@ -98,7 +98,7 @@ When you decide if you want to use a database in your search strategy, you can f
 4. Quality: how is the quality of the information on the database checked?
 5. Peers: Is the database recommended by your peers or supervisor?
 
-You can often check the help function of a found database to get answers to these questions. Moreover, a lot information on different databases can be found on specific pages in <a href= "https://www.tudelft.nl/tulib/searching-resources/resources" target=_blank>TUlib</a>. 
+You can often check the help function of a found database to get answers to these questions. Moreover, a lot information on different databases can be found on specific pages in <a href= "https://www.tudelft.nl/tulib/searching-resources/resources#c1036492" target=_blank>TUlib</a>. 
 
 ```{admonition} Guided Activity: Selecting Databases for your Thesis Literature Search
 :class: dropdown tip
@@ -116,5 +116,5 @@ Fill in the Database section in your MSc Thesis Search Strategy
 ```
 
 ## References
-- Lier, M. van. (n.d.). LibGuides: InfoSkills for Humanities and Digital Sciences: Google Scholar vs. library databases. Retrieved March 2, 2026, from https://libguides.uvt.nl/humanities/scholar-vs-databases
-- TU Delft Library Education Support. (n.d.). Resources. TUlib. Retrieved March 2, 2026, from https://www.tudelft.nl/tulib/searching-resources/resources
+- Van Lier, M. (n.d.). _Google Scholar vs. library databases_. LibGuides: InfoSkills for Humanities and Digital Sciences. <a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>https://libguides.uvt.nl/humanities/scholar-vs-databases</a>
+- TU Delft Library Education Support. (n.d.). _Resources_. TUlib. <a href="https://www.tudelft.nl/tulib/searching-resources/resources" target=_blank>https://www.tudelft.nl/tulib/searching-resources/resources</a>
