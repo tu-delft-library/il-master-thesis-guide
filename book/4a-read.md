@@ -276,7 +276,7 @@ There are specific moments when relating to what others have written is necessar
 
 This means that you do not stop searching and reading entirely throughout your project.
 
-However, at the beginning of the project you do a more in-depth review and search of the literature, and at some point you need to move on from the literature review phase and start conducting your research. To avoid staying stuck in this phase for too long you can ffollow the guideines below:
+However, at the beginning of the project you do a more in-depth review and search of the literature, and at some point you need to move on from the literature review phase and start conducting your research. To avoid staying stuck in this phase for too long you can follow the guideines below:
 
 You stop searching and reading for your literature review when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches, or your time has run out. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
 
@@ -297,7 +297,7 @@ Take these guidelines into consideration and try to plan accordingly (Erasmus Un
 
 
 ## References
-- Erasmus University Library (Director). (2020, April 20). When to stop reading and start writing [Video recording]. https://www.youtube.com/watch?v=ojRfybNJNuk
-- Leiden University ATC Academic reading & writing (Director). (n.d.). Reading well [Video recording]. Retrieved March 2, 2026, from https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1
-- Lumen. (n.d.). Reading, Noting, & Synthesizing Sources | College Reading and Writing. College Reading and Writing. Retrieved March 2, 2026, from https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/
-- PittCCLibrary (Director). (2016, January 6). How to Read a Scholarly Article [Video recording]. https://www.youtube.com/watch?v=c3tV8g70YuU
+- Erasmus University Library. (2020, April 20). _When to stop reading and start writing_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=ojRfybNJNuk" target=_blank>https://www.youtube.com/watch?v=ojRfybNJNuk</a>
+- Leiden University ATC Academic reading & writing (n.d.). _Reading well_ [Video]. Leiden University MediaSpace™ video portal. <a href="https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1" target=_blank>https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1</a>
+- Lumen. (n.d.). _Reading, Noting, & Synthesizing Sources_. College Reading and Writing. <a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/" target=_blank>https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/</a>
+- PittCCLibrary. (2016, January 6). _How to Read a Scholarly Article_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=c3tV8g70YuU" target=_blank>https://www.youtube.com/watch?v=c3tV8g70YuU</a>
