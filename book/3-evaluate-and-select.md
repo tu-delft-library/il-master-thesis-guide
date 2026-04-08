@@ -21,4 +21,4 @@ Want to get started with evaluating and selecting for your project right away? Y
 - The [CRAAP test handout](3-handout-craap.pdf) to critically evaluate the relevance and reliability of all the sources you encounter. <br>
   "<a href="https://guides.lib.uchicago.edu/ld.php?content_id=77584250" target=_blank>Evaluating Information - Applying the CRAAP Test</a>" by <a href="https://library.csuchico.edu/" target=_blank>Meriam Library, California State University, Chico</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY-4.0</a>
 
-- The [Select Template](3-handout-selecting.docx) to fill in as you go through academic sources you want to select and store for your MSc thesis.
+- The [Select Template](3-handout-selecting.docx) to fill in as you go through academic sources you want to select and store for your master thesis.
