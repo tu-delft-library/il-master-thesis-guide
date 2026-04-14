@@ -64,7 +64,7 @@ GenAI tools are trained with real-life data. The output can therefore reflect an
 
 ```{tab-item} Copyright
 
-GenAI tools are trained with data that is publicly available. However, the authors of the texts that are used for training purposes did not give permission for this. Although GenAI output does not typically include directly copied passages, often it does include extracted patterns, styles and ideas. This leads to a grey area of potential copyright infringement.
+GenAI tools are trained with data that is publicly available. However, the authors of the texts that are used for training purposes did not give permission for this. Although GenAI output does not typically include directly copied passages, often it does include extracted patterns and styles from the works of others. This leads to a grey area of potential copyright infringement.
 ```
 
 ```{tab-item} Overreliance
