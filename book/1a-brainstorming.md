@@ -55,7 +55,7 @@ Possible questions that can be derived from the mindmap are:
 - How can the automotive industry improve the environmental impact through material recycling in car design?
 - Do car free zones have a positive impact on societal behaviour and impact the automotive industry?
 
-Making a mindmap map from the information you have available gives you a clearer overview of your subject. You can then use the mindmap to begin to formulate various information search questions. For more infromation on how to make mindmaps see also: <a href="https://www.youtube.com/watch?v=u5Y4pIsXTV0" target=_blank>How to Mind Map with Tony Buzan</a>
+Making a mindmap map from the information you have available gives you a clearer overview of your subject. You can then use the mindmap to begin to formulate various information search questions. For more information on how to make mindmaps see also: <a href="https://www.youtube.com/watch?v=u5Y4pIsXTV0" target=_blank>How to Mind Map with Tony Buzan</a>
 
 
 ```
@@ -89,7 +89,7 @@ Think of relevant concepts that are related to your subject and perform general 
 ```
 
 ```{tab-item} AI
-If you are allowed to use AI in your thesis project, you can ask Copilot a question to get a feel for your topic. Use it in the same way you would use Google or Wikipedia. You can use the same question in multiple AI tools to see what they have to say and how they compare (Walma & Looij, 2025). For more information on this you can also consult the <a href= "https://ai-for-literature-review.github.io/Guide/part2/brainstorming.html#ai-assist-general-searches-on-your-topic" target=_blank>AI for Literature Review Guide</a> 
+If you are allowed to use AI in your thesis project, you can ask Copilot a question to get a feel for your topic. Use it in the same way you would use Google or Wikipedia. You can use the same question in multiple AI tools to see what they have to say and how they compare (Walma & Looij, 2025). For more information on this you can also consult the <a href= "https://ai-for-literature-review.github.io/Guide/part2/brainstorming.html#ai-assist-general-searches-on-your-topic" target=_blank>AI for Literature Review Guide</a>. 
 
 ```
 ```{tab-item} News, trade journals, books
