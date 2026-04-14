@@ -87,5 +87,5 @@ Do you want to do a more detailed mapping of academic literature? You could use 
 ## Practice
 Practice with a research scenario to test if you know how to do an exploration:
 
-<iframe src="https://tudelft.h5p.com/content/1292283223510100947/embed" aria-label="A.1 Exploring your research topic (Exercises)" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
-"<a href="https://tudelft.h5p.com/content/1292283223510100947/embed" target=_blank>Exercise - Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+<iframe src="https://tudelft.h5p.com/content/1292876174908460777/embed" aria-label="Exploring your research topic" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
+"<a href="https://tudelft.h5p.com/content/1292876174908460777/embed" target=_blank>Exercise - Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
