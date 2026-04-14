@@ -281,7 +281,7 @@ However, at the beginning of the project you do a more in-depth review and searc
 You stop searching and reading for your literature review when you either don't find any new literature anymore, or the literature you find doesn't have any new approaches, or your time has run out. Watch this video from Erasmus University, where Professor Liesbet van Zoonen explains approaches to evaluate how far you are in your literature review process:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" target=_blank>When to stop reading and start writing</a>" by <a href="https://www.eur.nl/en/library" target=_blank>Erasmus University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br>
+"<a href="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" target=_blank>When to stop reading and start writing</a>" by <a href="https://www.eur.nl/en/library" target=_blank>Erasmus University Library</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 Some practical guidelines you can take when you are reading to find out when you should either stop, or continue searching and reading:
 
