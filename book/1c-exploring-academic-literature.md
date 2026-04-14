@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Once you have done an initial orientation and have a preliminary search question to work with, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
+Once you have done an initial orientation and have a preliminary information search question to work with, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
 
 By doing an exploration of academic literature you can:
 - Find new knowledge gaps
@@ -16,7 +16,7 @@ Steps involved include first to create a good exploration question for an academ
 :gutter: 2
 
 :::{grid-item-card} Step 1<br>
-[Create an exploration question](#step-1-create-a-good-exploration-question)<br>
+[Create an Initial Exploration Strategy](#step-1-create-an-initial-exploration-strategy)<br>
 Formulate a question for your topic that is broad enough to search in a database
 
 :::
@@ -30,7 +30,7 @@ Look at key statistics like top authors, journals, subject areas and keywords to
 ::::
 
 
-## Step 1: Create a Good Exploration Question
+## Step 1: Create an Initial Exploration Strategy
 There are 4 steps involved in creating a good exploration strategy for an academic database:
 
 **1: Use a broad question:**
@@ -50,7 +50,7 @@ Because in an exploration your goal is to look broadly at the different research
 
 **4: Try to aim for around 2000 to 10000 results:**
 
-This number may seem dauting, but remember: The goal of an exploration is not to read all the sources you find, but to get an overview of your topic. 
+This number may seem like a lot, but remember: The goal of an exploration is not to read all the sources you find, but to get an overview of your topic. 
 
 Watch a guided research scenario on how to create a good question for an exploration:
 
@@ -70,7 +70,7 @@ Looking into the number of articles per year can give you an indication how much
 Subject areas, top journals and list of keywords indexed by the databases can give you some more information about what research is being done within your broader topic
 
 **3: Synonyms and alternative terms for your content search**<br>
-The keywords lists provided by Scopus or Dimensions, or sort your results by relevance and scan through the first 20 abstracts 
+The keywords lists provided by Scopus or Dimensions, or the first 20 abstracts of your exploration results sorted by relevance can provide you with synonyms and alternative terms that are commonly used within your topic of interest. Write these terms down somewhere, you will need them when you develop your keyword search (more about this in [Chapter 2: Search](2b-create-keyword-search.md). 
 
 Watch a guided research scenario on how to interpret the results of an exploration
 
