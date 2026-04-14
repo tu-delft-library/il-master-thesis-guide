@@ -11,7 +11,7 @@ Common activities during this phase of your information journey include:
 - [3c. Select Effectively](3c-select-effectively.md) - Select academic literature
 - [3d. Store Sources](3d-store-sources.md) - Use reference managers and tagging to store your sources
 
-## Test Your Knowledge
+## Test Your Current Knowledge
 Before studying the recap and additional skills useful for your MSc thesis; take this knowledge test to find out how much you already know:
 
 <iframe src="https://tudelft.h5p.com/content/1292840668329772227/embed" aria-label="3 - Evaluate - Knowledge Test" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
