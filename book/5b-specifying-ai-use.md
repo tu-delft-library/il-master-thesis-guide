@@ -111,5 +111,5 @@ You can consult the specific policies of the common citation styles here:
 
 
 ## References
-- American Psychological Association. (n.d.). _APA Journals policy on generative AI: Additional guidance_ <a href="https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai" target=_blank>https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai</a>
+- American Psychological Association. (n.d.). _APA Journals policy on generative AI: Additional guidance_. <a href="https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai" target=_blank>https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai</a>
 - TU Delft Library Education Support. (n.d). _APA 7th Citation Examples_. TUlib. <a href="https://www.tudelft.nl/tulib/apa-citation-examples" target=_blank>https://www.tudelft.nl/tulib/apa-citation-examples</a>
