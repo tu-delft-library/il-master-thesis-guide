@@ -100,5 +100,5 @@ If you have any specific questions about copyright, contact the <a href="https:/
 ## References
 - Creative Commons. (n.d.). _Share your work_. <a href="https://creativecommons.org/share-your-work/" target=_blank>https://creativecommons.org/share-your-work/</a>
 - TU Delft Copyright Information Point. (n.d.) _As a student, I want to re-use multimedia in my multimedia / student paper, thesis, etc._ <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751" target=_blank>https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751</a>
-- Wageningen University Library. (n.d.). _What is copyright?_ <a href="https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4" target=_blank>https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4</a>
+- Wageningen University Library. (n.d.). _What is copyright?_. <a href="https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4" target=_blank>https://library.wur.nl/infoboard/Copyright/?utm_source=edusources.nl&amp;utm_content=link#page4</a>
 
