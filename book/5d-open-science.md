@@ -76,5 +76,5 @@ Now that you know the principles of Open Science and have some examples, have a 
 - <a href="https://book.the-turing-way.org/" target=_blank>The Turing Way</a> - an online resource on how to practice open data science
 
 ## References
-- Open Life Science. (n.d.). Open Science. Retrieved March 2, 2026, from https://we-are-ols.org/open-science.html
-- Open Science: Sharing Your Research with the World. (n.d.). edX MOOC. Retrieved March 2, 2026, from https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world
+- Open Life Science. (n.d.). _Open Science_. <a href="https://we-are-ols.org/open-science.html" target=_blank>https://we-are-ols.org/open-science.html</a>
+- MOOC Open Science: Sharing Your Research with the World. (n.d.). _Module 1: Introduction to Open Science_. <a href="https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world" target=_blank>https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world</a>
