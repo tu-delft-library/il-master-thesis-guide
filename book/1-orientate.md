@@ -21,5 +21,5 @@ Before studying the recap and additional skills useful for your master thesis ta
 ## Exploration Template for Your Master Thesis 
 Want to get started with searching for your project right away? 
 
-- Use the [Exploration Template](1-handout-exploration.docx) to fill in as you go through the pages or to set up and store your finding for the orientation part of your MSc thesis
+- Use the [Exploration Template](1-handout-exploration.docx) to fill in as you go through the pages or to set up and store your findings for the orientation part of your master thesis.
 
