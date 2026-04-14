@@ -17,7 +17,7 @@ The learning goals of the guide are based on the five phases in your master thes
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your master thesis 
 2. **Search**: Set up and store a basic search strategy for scientific literature for your master thesis 
-3. **Selecting**: Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively
+3. **Evaluate**: Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively
 4. **Process**: Understand how to read, summarise and synthesise during your master thesis
 5. **Share**: Apply correct citation and copyright practices when handing in your master thesis. Know about open science principles when publishing your research. 
 
@@ -26,7 +26,7 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 :class: dropdown tip
 | Learning Goal | Learning Objectives |
 |---------------|----------------------|
-| **1: Explore**<br>Apply basic steps for orientation on the topic or question of your master thesis | 1a. Know how to brainstorm on your topic<br>1b. Understand how to formulate a question for an information search<br>1c. Know how to do an initial exploration of academic literature |
+| **1: Explore**<br>Apply basic steps for orientation on the topic or question of your master thesis | 1a. Know how to do a general orientation on your topic<br>1b. Understand how to formulate a question for an information search<br>1c. Know how to do an initial exploration of academic literature |
 | **2: Search**<br>Set up and store a basic search strategy for scientific literature for your master thesis | 2a. Know different types of academic databases and how to access them<br>2b. Set up a keyword search strategy for a search in an academic database<br>2c. Evaluate and improve an initial search strategy<br>2d. Know additional ways to find academic literature<br>2e. Use search alerts to stay informed about the latest research |
 | **3: Evaluate**<br>Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively | 3a. Become aware of limitations of AI and other information sources<br>3b. Use the CRAAP framework to assess relevance and reliability of a source<br>3c. Apply the title-abstract method to select academic literature<br>3d. Use relevant software and best practices to store information |
 | **4: Process**<br>Understand how to read, summarise and synthesise during your master thesis | 4a. Apply best practices when reading literature for your master thesis<br>4b. Know how to summarise a source<br>4c. Understand how the process of synthesising works and know how to get started |
@@ -38,7 +38,7 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 Each chapter includes a landing page. Here you will find:
 - An introduction and an explanation of the value of the topic 
 - An overview of the steps involved in each phase
-- A test your knowledge quiz to see how much you know/remember about the steps for the phase
+- A knowledge quiz that you can use to test how much you know/remember about the information provided by this step
 - A template you can use directly while working on your master thesis
 
 #### Subchapters
@@ -53,7 +53,7 @@ Want to learn from what previous students have done? In the <a href="https://rep
 ## Colophon
 
 ### About the authors
-The guide was created by the TU Delft Library, Education Support Team 
+This guide was created by the Education Support team from the TU Delft Library. The main author is Lisanne Walma.
 
 ### Acknowledgements
 Thank you to all the reviewers involved in reviewing this guide.
