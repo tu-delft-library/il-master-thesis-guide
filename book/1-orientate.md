@@ -8,7 +8,7 @@ When you begin your thesis you are also at the start of your information journey
 
 Common activities during this phase of the your information journey include:
 
-- [1a. Brainstorm](1a-brainstorming.md) - Know how to do a brainstorm on your topic 
+- [1a. General Orientation on a Topic](1a-brainstorming.md) - Know how to do a general orientation on your topic 
 - [1b. Formulate a Question](1b-formulate-research-question.md) - Know how to formulate an information search question 
 - [1c. Explore Academic Literature](1c-exploring-academic-literature.md) - Know how to do an initial exploration of academic literature 
 
