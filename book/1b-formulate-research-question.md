@@ -14,8 +14,8 @@ There are specific moments when relating to what others have written is necessar
 
 ![1b-information-search-question](1b-information-search-question.png)
 
-1. Beginning of your project: You conduct an in-depth review on what others have done (literature review), based on a preliminary research question or topic. These results help you formulate your final research question and methodology.
-2. Conducting your research: Throughout your project you should be reflecting on your findings and connect them to the literature you have already found. In addition, while conducting your own research, you should periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. 
+1. Beginning of your project: You conduct an in-depth review on what others have done (literature review), based on a preliminary research question or topic. These results help you formulate your final research question as well as what research methods you will use to do your research.
+2. Conducting your research: Throughout your project you should be reflecting on your findings and connect them to the literature you have already found. This can also help you if need to update your research or design methods. In addition, while conducting your own research, you should periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. 
 3. End of your project: When you finish your project and write your conclusion and discussion, you synthesise your findings with what others have done. This means looking once more at the sources you have processed throughout your project, and discussing how your findings connect to these sources. For example, how do your findings differ from what others have found before?
 
 ::::{grid}
@@ -53,7 +53,7 @@ Once you have gathered some information around your topic, you can use a concept
 
 From this concept map we have formulated the following information search question:
 
-- **“How can the print quality of inkless printing be improved by using optical technology?”**
+- **“How can the print quality of inkless printing be improved by using optical technology?”**<br>
 Another possible information search question could be:
 - **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
@@ -66,13 +66,13 @@ Once you have your initial question, you can look at its different components an
 
 <iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a>
+<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
 Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
 
-*note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.<br><br>
+Please note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.<br><br>
 
 ### Make Subquestions
-To further specify your question and make it more manageable, it can be helpful to divide it into sub-questions. In order to answer the information search question “How can the print quality of inkless printing be improved by using optical technology?”, you should formulate a number of sub-questions to further specify your search:
+To further specify your information search question and make it more manageable, it can be helpful to divide it into sub-questions. In order to answer the information search question “How can the print quality of inkless printing be improved by using optical technology?”, you should formulate a number of sub-questions to further specify your search:
 
 | Question | Explanation | Example |
 |----------|-------------|---------|
@@ -87,7 +87,7 @@ Very often, you won’t be able to answer all five types of sub-questions. The �
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-Once you have formulated an initial information search question, this is a great moment to get feedback from your supervisor. You can also try to explain your research idea to a fellow student, it will likely help to further shape your questions.
+Once you have formulated an initial information search question, this is a great moment to get feedback from your supervisor. You can also try to explain your information search question to a fellow student, it will likely help to further shape your questions.
 ```
 
 
