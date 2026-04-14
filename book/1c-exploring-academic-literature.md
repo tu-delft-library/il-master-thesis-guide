@@ -70,7 +70,7 @@ Looking into the number of articles per year can give you an indication how much
 Subject areas, top journals and list of keywords indexed by the databases can give you some more information about what research is being done within your broader topic
 
 **3: Synonyms and alternative terms for your content search**<br>
-The keywords lists provided by Scopus or Dimensions, or the first 20 abstracts of your exploration results sorted by relevance can provide you with synonyms and alternative terms that are commonly used within your topic of interest. Write these terms down somewhere, you will need them when you develop your keyword search (more about this in [Chapter 2: Search](2b-create-keyword-search.md). 
+The keywords lists provided by Scopus or Dimensions, or the first 20 abstracts of your exploration results sorted by relevance can provide you with synonyms and alternative terms that are commonly used within your topic of interest. Write these terms down somewhere, you will need them when you develop your keyword search (more about this in [Chapter 2b: Create a Keyword Search](2b-create-keyword-search.md)). 
 
 Watch a guided research scenario on how to interpret the results of an exploration
 
