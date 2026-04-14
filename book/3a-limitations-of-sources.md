@@ -46,7 +46,7 @@ GenAI use comes with a lot of considerations, and this means you should critical
 
 ```{tab-item} Privacy and Security
 
-It is often unclear how the input (prompts) from users are processed in GenAI tools. These could also be (and often are) used for training purposes. It is therefore important to never insert personal details or confidential information in GenAI tools. If you are allowed to use AI, and are handling confidential information, consider using a tool that wil run AI models locally on your laptop, like <a href="https://ollama.com/" targe=_blank>Ollama</a>.
+It is often unclear how the input (prompts) from users are processed in GenAI tools. These could also be (and often are) used for training purposes. It is therefore important to never insert personal details or confidential information in GenAI tools. If you are allowed to use AI, and are handling confidential information, consider using a tool that wil run AI models locally on your laptop, like <a href="https://ollama.com/" target=_blank>Ollama</a>.
 
 ```
 
