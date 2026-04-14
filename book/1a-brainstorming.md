@@ -1,4 +1,4 @@
-# 1a. Brainstorm
+# 1a. General Orientation on a Topic
 
 ## Introduction
 
@@ -31,13 +31,13 @@ Some suggestions from Maastricht University can help you to make this process ea
 - Look for a topic that builds on existing research rather than doing something completely new to avoid that your project becomes too big.
 - Look into current events for inspiration
 
-Once you have an initial topic you are interested in, you can write down what you already know about the topic. There are multiple techniques you could use for this. You can find some examples in the tab below. For more techniques, you can consult <a href="https://writingcenter.unc.edu/tips-and-tools/brainstorming/" target=_blank>this guide</a>  (the Writing Center of The University of North Carolina, n.d.)
+Once you have an initial topic you are interested in, you can write down what you already know about the topic. There are multiple brainstorming techniques you could use for this. You can find some examples in the tab below. For more techniques, you can consult <a href="https://writingcenter.unc.edu/tips-and-tools/brainstorming/" target=_blank>this guide</a>  (the Writing Center of The University of North Carolina, n.d.)
 
 ````{tab-set}
 
 ```{tab-item} Freewrite
 
-When you freewrite, you set a timer and just begin writing on your topic without stopping (for example for 15 minutes, or a specific number of pages). You can do this by hand or on a laptop, as you prefer. After you are done writing, re-read what you wrote and filter out any specific ideas or knowledge that strike you as relevant. You can place these in a new overview or list and develop your brainstorm further from this point. 
+When you freewrite, you set a timer and just begin writing on your topic without stopping (for example for 15 minutes, or a specific number of pages). You can do this by hand or on a laptop, as you prefer. After you are done writing, re-read what you wrote and filter out any specific ideas or knowledge that strike you as relevant. You can place these in a new overview or list and develop your orientation further from this point. 
 
 ```
 ```{tab-item} Mindmaps
@@ -77,7 +77,7 @@ Write them down and try to answer each one of these questions for your initial t
 ````
 
 ## Step 2: Perform General Searches on Your Topic
-Next, you can search online to find some additional sources to expand your knowledge on the topic and add to your initial brainstorm. In the tab below you can find some more information from <a href="https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>TUlib</a> on helpful resources to use to further supplement your initial brainstorming (TU Delft Library Education Support, n.d.).
+Next, you can search online to find some additional sources to expand your knowledge on the topic and add to your knowledge map. In the tab below you can find some more information from <a href="https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>TUlib</a> on helpful resources to use to further supplement your initial knowledge mapping (TU Delft Library Education Support, n.d.).
 
 
 ````{tab-set}
@@ -99,12 +99,12 @@ These information sources often provide information that is not too specific and
 ```
 
 ```{tab-item} Academic Databases
-To help brainstorm, you can search for your topic in a multidisciplinary academic database like <a href=https://www.scopus.com/ target=_blank>Scopus</a> or <a href=https://app.dimensions.ai/discover/publication target=_blank>Dimensions</a> and in subject-specific catalogues or databases for your research field. Don't start reading articles right away, but check the titles, abstracts and keywords of documents you find useful. You can add these terms to your concept map, list them somewhere or add them to your initial brainstorm to further shape your topic. 
+To help orientate further, you can search for your topic in a multidisciplinary academic database like <a href=https://www.scopus.com/ target=_blank>Scopus</a> or <a href=https://app.dimensions.ai/discover/publication target=_blank>Dimensions</a> and in subject-specific catalogues or databases for your research field. Don't start reading articles right away, but check the titles, abstracts and keywords of documents you find useful. You can add these terms to your concept map, or list them somewhere to further shape your orientation on the topic. 
 
 ```
 
 ```{tab-item} Scientific Review Articles
-While academic articles are too specific to use in a brainstorm phase, review articles, which can be found in academic databases, provide an overview of research done in a field and can help to uncover latest information in a field quickly. In <a href=https://www.scopus.com/ target=_blank>Scopus</a> and <a href=https://app.dimensions.ai/discover/publication target=_blank>Dimensions</a>, you can filter specifically for review articles.
+While academic articles are too specific to use in a general orientation, review articles, which can be found in academic databases, provide an overview of research done in a field and can help to uncover latest information in a field quickly. In <a href=https://www.scopus.com/ target=_blank>Scopus</a> and <a href=https://app.dimensions.ai/discover/publication target=_blank>Dimensions</a>, you can filter specifically for review articles.
 
 ```
 
