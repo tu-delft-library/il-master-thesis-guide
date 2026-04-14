@@ -12,7 +12,7 @@ Common activities during this phase of the your information journey include:
 - [4b. Summarise](4b-summarise.md) - summarise your findings
 - [4c. Synthesise](4c-synthesise.md) - comparing sources, or connecting the findings in the literature to your research results
 
-## Test Your Knowledge
+## Test Your Current Knowledge
 Before studying the recap and additional skills useful for your master thesis; take this knowledge test to find out how much you already know:
 
 <iframe src="https://tudelft.h5p.com/content/1292839990590939467/embed" aria-label="4 - Process - Knowledge Test" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
