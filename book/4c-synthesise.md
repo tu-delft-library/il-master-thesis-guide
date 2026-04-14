@@ -105,10 +105,10 @@ As explained, a synthesis is more than a summary of sources. In a synthesis you 
 
 ## References
 
-- College of Arts and Sciences. (n.d.). Literature Reviews. The Writing Center. Retrieved March 2, 2026, from https://writingcenter.unc.edu/tips-and-tools/literature-reviews/
-- Educability. (n.d.). Synthesize and present information. Information Literacy. Retrieved March 2, 2026, from https://vle-educability.uc3m.es/mod/page/view.php?id=3682
-- Leiden University ATC Academic reading & writing. (n.d.). Putting it all together. Retrieved March 2, 2026, from https://video.leidenuniv.nl/playlist/dedicated/220615623/1_c79ore0g/1_hs8cph9h
-- Lumen. (n.d.). Drafting a Research Essay: Synthesizing Ideas. College Reading and Writing. Retrieved March 2, 2026, from https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/planning-your-research-draft-synthesizing-ideas/
-- USU Libraries (Director). (2019, June 25). Research Synthesis [Video recording]. https://www.youtube.com/watch?v=ObK6J7vGnw8
-Victoria University of Wellington, New Zealand. (2022, September 14). Writing a thesis or research paper | Te Taiako / Student Learning | Te Herenga Waka. Victoria University of Wellington. Victoria University of Wellington. https://www.wgtn.ac.nz/student-learning/studyhub/postgraduate-students/post-graduate-writing/writing-a-thesis
+- College of Arts and Sciences. (n.d.). _Literature Reviews_. The Writing Center. <a href="https://writingcenter.unc.edu/tips-and-tools/literature-reviews/" target=_blank>https://writingcenter.unc.edu/tips-and-tools/literature-reviews/</a>
+- Educability. (n.d.). _Synthesize and present information. Information Literacy_. Information Literacy. <a href="https://vle-educability.uc3m.es/mod/page/view.php?id=3682" target=_blank>https://vle-educability.uc3m.es/mod/page/view.php?id=3682</a>
+- Leiden University ATC Academic reading & writing. (n.d.). _Putting it all together_. [Video]. Leiden University MediaSpace™ video portal. <a href="https://video.leidenuniv.nl/playlist/dedicated/220615623/1_c79ore0g/1_hs8cph9h" target=_blank>https://video.leidenuniv.nl/playlist/dedicated/220615623/1_c79ore0g/1_hs8cph9h</a>
+- Lumen. (n.d.). _Drafting a Research Essay: Synthesizing Ideas_. College Reading and Writing. <a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/planning-your-research-draft-synthesizing-ideas/" target=_blank>https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/planning-your-research-draft-synthesizing-ideas/</a>
+- USU Libraries. (2019, June 25). _Research Synthesis_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=ObK6J7vGnw8" target=_blank>https://www.youtube.com/watch?v=ObK6J7vGnw8</a>
+- Victoria University of Wellington, New Zealand. (2022, September 14). _Writing a thesis or research paper_ Te Taiako / Student Learning | Te Herenga Waka. <a href="https://www.wgtn.ac.nz/student-learning/studyhub/postgraduate-students/post-graduate-writing/writing-a-thesis" target=_blank>https://www.wgtn.ac.nz/student-learning/studyhub/postgraduate-students/post-graduate-writing/writing-a-thesis</a>
 
