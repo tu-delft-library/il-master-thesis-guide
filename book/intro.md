@@ -17,7 +17,7 @@ The learning goals of the guide are based on the five phases in your master thes
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your master thesis 
 2. **Search**: Set up and store a basic search strategy for scientific literature for your master thesis 
-3. **Selecting**: Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively
+3. **Evaluate**: Use basic ways to assess relevance and reliability of sources, select information for your master thesis and know how to store information effectively
 4. **Process**: Understand how to read, summarise and synthesise during your master thesis
 5. **Share**: Apply correct citation and copyright practices when handing in your master thesis. Know about open science principles when publishing your research. 
 
@@ -38,7 +38,7 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 Each chapter includes a landing page. Here you will find:
 - An introduction and an explanation of the value of the topic 
 - An overview of the steps involved in each phase
-- A test your knowledge quiz to see how much you know/remember about the steps for the phase
+- A knowledge quiz that you can use to test how much you know/remember about the information provided by this step
 - A template you can use directly while working on your master thesis
 
 #### Subchapters
@@ -53,7 +53,7 @@ Want to learn from what previous students have done? In the <a href="https://rep
 ## Colophon
 
 ### About the authors
-The guide was created by the TU Delft Library, Education Support Team 
+This guide was created by the Education Support team from the TU Delft Library. The main author is Lisanne Walma.
 
 ### Acknowledgements
 Thank you to all the reviewers involved in reviewing this guide.
