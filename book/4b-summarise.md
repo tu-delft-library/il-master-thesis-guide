@@ -65,7 +65,7 @@ It can be helpful to create a literature matrix while you are reading your sourc
 | Theme 3 (for example: main results) | relevant information from source 1 | ... | ... | ... |
 | Theme 4 (for example: limitations of the study) | relevant information from source 1 | ... | ... | ... |
 
-Want to learn more about how to create this type of summary? Have a look at <a href=" https://usi.libguides.com/literature-review-basics/tables" target=_blank>this guide</a> (Bernhardt, L, n.d.).
+Want to learn more about how to create this type of summary? Have a look at <a href=" https://usi.libguides.com/literature-review-basics/tables" target=_blank>this guide</a> (Bernhardt, n.d.).
 ```
 
 ```{tab-item} Short Summary
@@ -110,8 +110,8 @@ While AI can provide you with summaries, we recommend you do the summarising you
 
 
 ## References
-- Bernhardt, L. (n.d.). Research Guides: Literature Review Basics: Using Research & Synthesis Tables. Retrieved March 2, 2026, from https://usi.libguides.com/literature-review-basics/tables
-- Excelsior Online Writing Lab. (2025a). Annotated Bibliographies. Excelsior Online Writing Lab. https://owl.excelsior.edu/research/annotated-bibliographies/
-- Excelsior Online Writing Lab. (2025b). Tips on Writing an Annotated Bibliography. Excelsior OWL. https://owl.excelsior.edu/research/annotated-bibliographies/annotated-bibliography-tips/
-- Ontario Institute for Studies in Education. (n.d.). How to Summarize. OISE Academic Skills Hub. Retrieved March 2, 2026, from https://www.oise.utoronto.ca/skillshub/resources/how-summarize
-- Trent University. (n.d.). Writing Article Summaries. Academic Skills. Retrieved March 2, 2026, from https://www.trentu.ca/academicskills/how-guides/how-write-university/how-approach-any-assignment/writing-article-summaries
+- Bernhardt, L. (n.d.). _Research Guides: Literature Review Basics: Using Research & Synthesis Tables_. Rice Library. <a href="https://usi.libguides.com/literature-review-basics/tables" target=_blank>https://usi.libguides.com/literature-review-basics/tables</a>
+- Excelsior Online Writing Lab. (2025a). _Annotated Bibliographies_. Excelsior Online Writing Lab. <a href="https://owl.excelsior.edu/research/annotated-bibliographies/" target=_blank>https://owl.excelsior.edu/research/annotated-bibliographies/</a>
+- Excelsior Online Writing Lab. (2025b). _Tips on Writing an Annotated Bibliography_. Excelsior Online Writing Lab. <a href="https://owl.excelsior.edu/research/annotated-bibliographies/annotated-bibliography-tips/" target=_blank>https://owl.excelsior.edu/research/annotated-bibliographies/annotated-bibliography-tips/</a>
+- Ontario Institute for Studies in Education. (n.d.). _How to Summarize_. OISE Academic Skills Hub <a href="https://www.oise.utoronto.ca/skillshub/resources/how-summarize" target=_blank>https://www.oise.utoronto.ca/skillshub/resources/how-summarize</a>
+- Trent University. (n.d.). _Writing Article Summaries_. Academic Skills. <a href="https://www.trentu.ca/academicskills/how-guides/how-write-university/how-approach-any-assignment/writing-article-summaries" target=_blank>https://www.trentu.ca/academicskills/how-guides/how-write-university/how-approach-any-assignment/writing-article-summaries</a>
