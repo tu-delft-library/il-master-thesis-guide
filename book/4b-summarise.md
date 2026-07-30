@@ -4,11 +4,6 @@
 A summary is a condensed version of a text. It presents a short overview of a text including its main ideas, arguments and findings (Ontario Institute for Studies in Education. (n.d.)). 
 If you are reading a source that is highly relevant for your thesis, a summary can help you use the source in the future. While you may have already done some note-taking while close reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. Summarising a source can also help you understand and evaluate a source better. 
 
-```{admonition} Tip: On Using AI Tools
-:class: warning
-While AI can provide summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
-See our guide: <a href=https://ai-for-literature-review.github.io/Guide/part2/analyze-literature-reading-summarising.html target=_blank>AI for Literature Review: Reading and Summarising Sources</a>
-```
 The basic steps of this process include the following:
 
 ::::{grid}
@@ -110,6 +105,12 @@ Want to learn more about how to create this type of summary? Visit the website f
 ```
 
 ````
+
+```{admonition} Tip: On Using AI Tools
+:class: warning
+While AI can provide summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
+See our guide: <a href=https://ai-for-literature-review.github.io/Guide/part2/analyze-literature-reading-summarising.html target=_blank>AI for Literature Review: Reading and Summarising Sources</a>
+```
 
 If you have progressed with summarising, this might be a time to also start [synthesising](4c-synthesise.md) your findings.
 
