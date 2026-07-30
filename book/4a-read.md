@@ -2,15 +2,40 @@
 
 ## Introduction
 
-Reading is an important part of studying and an essential part of the research process. There are different types of reading you will use throughout your project, and it is important to be aware of which type of reading you should use for what purpose. 
-Have a look at <a href= "https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1" target=_blank>this video from Leiden University</a> for a detailed explanation about the different types of reading, or read the different steps below:
+Reading is an important part of studying and an essential part of the research process. The most important starting tip: don’t start reading randomly. This might take you a lot of time and not deliver the value you were hoping for. Instead, prepare your reading carefully by prioritising which sources to read first, using different types of reading effectively and knowing what you want to get out of it. 
+There are multiple types of reading you will encounter and use for different purposes as you are reading for research:
 
+````{tab-set}
+
+```{tab-item} Skimming & Scanning
+
+**What is it**: _Skimming_ is quickly glancing over a text to take in key text features that give clues about the context of the text, such as sub-headings, graphs and figures. This type of reading is really useful when you are still deciding whether a resource is relevant and reliable for your research project in a broad sense.
+When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it. 
+When to use it: 
+1.	During evaluation of sources
+2.	To prioritise which sources to read and in what order
+
+```
+```{tab-item} Close Reading
+**What is it**: _Close reading_, also called active reading, is a deliberate, focused and slow type of reading where you carefully examine a text to understand it - which includes actively asking yourself questions about the text, annotating/circling the text and taking notes while reading. It requires you to understand the authors’ thought sequence, how different parts of the text relate to each other, and what data and argumentation the conclusions are based on. 
+After you have close read a source you should be able to understand and summarise it. This may require multiple re-reads, and perhaps looking up  terminology or parts that you do not understand yet in other resources. 
+
+**When to use it**: To really understand a text (and as a start to summarise it and gather key bits such as quotes and findings, that will help you answer some of your specific information search questions). 
+
+```
+````
+
+```{admonition} Unfocused Reading
+:class: warning
+Warning: There is an additional type of reading: Unfocused reading. This is when you are reading a resource, but without actively processing it, maybe with drifting attention. This type of reading often serves more of a recreational purpose (for example, scrolling through social media, reading a book for fun), and it is not used when reading for research. Excessive unfocused reading might even create a temporary barrier to appreciate close reading.
+Now that you know about the different types of reading, let’s see how you can use them while reading for research. A good practice is to first skim and scan to decide your reading order, followed by close reading of your selected sources, and finally, also knowing when you should stop reading.
+```
 
 ::::{grid}
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Skimming and Scanning](#step-1-skimming-and-scanning)<br>
+[Decide Your Reading Order](#step-1-skimming-and-scanning)<br>
 Skim the article to get a feel for its structure and contents and scan specific sections
 :::
 
@@ -33,6 +58,13 @@ Evaluate if you have read and found enough information
 _Skimming_ is quickly glancing over a text to get a general idea of its structure and contents. This type of reading is really relevant when you are still deciding whether an article is relevant and reliable for your own research project in a broad sense. 
 
 When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it.
+
+Tab 1: Skimming & Scanning
+What is it: Skimming is quickly glancing over a text to take in key text features that give clues about the context of the text, such as sub-headings, graphs and figures. This type of reading is really useful when you are still deciding whether a resource is relevant and reliable for your research project in a broad sense.
+When you scan an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it. 
+When to use it: 
+1.	During evaluation of sources
+2.	To prioritise which sources to read and in what order
 
 ```{admonition} Tip: Decide Your Reading Order
 :class: tip
@@ -222,6 +254,11 @@ Does your topic require current information, or will older sources work as well?
 Adapted from "<a href="https://www.tudelft.nl/tulib/managing-your-information/reading-for-research" target=_blank>Reading for Research</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/ target=_blank>CC-BY-SA 4.0</a><br><br>
 
 ## Step 2: Close Reading, Note-taking and Updating Your Search
+What is it: Close reading, also called active reading, is a deliberate, focused and slow type of reading where you carefully examine a text to understand it - which includes actively asking yourself questions about the text, annotating/circling the text and taking notes while reading. It requires you to understand the authors’ thought sequence, how different parts of the text relate to each other, and what data and argumentation the conclusions are based on. 
+After you have close read a source you should be able to understand and summarise it. This may require multiple re-reads, and perhaps looking up  terminology or parts that you do not understand yet in other resources. 
+
+When to use it: To really understand a text (and as a start to summarise it and gather key bits such as quotes and findings, that will help you answer some of your specific information search questions). 
+
 Close reading is a more focused and slow type of reading which includes actively asking yourself questions about the text and taking notes while reading. Reserve this type of reading for articles you have selected, scanned and deemed highly relevant for your project. After you have close read a source you should be able to understand and summarise it.
 When you do close reading, you often combine active reading and asking questions with techniques like skimming and scanning. Before close reading the full article, make sure you have done an initial scan of all the relevant sections. Focus first on the abstract, discussion and conclusion before moving on to the rest of the article to make it easier to understand the contents and goals of the article before diving further into it.
 
