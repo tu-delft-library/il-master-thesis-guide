@@ -1,7 +1,15 @@
 # 4b. Summarise
 
 ## Introduction
-If you have decided to close read or are reading a source that is highly relevant for your project, a summary can help you use the source in the future. While you may have already done some note-taking while close reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. A summary can also help you understand and evaluate a source better. The basic steps of this process include the following:
+A summary is a condensed version of a text. It presents a short overview of a text including its main ideas, arguments and findings (Ontario Institute for Studies in Education. (n.d.)). 
+If you are reading a source that is highly relevant for your thesis, a summary can help you use the source in the future. While you may have already done some note-taking while close reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. Summarising a source can also help you understand and evaluate a source better. 
+
+```{admonition} Tip: On Using AI Tools
+:class: warning
+While AI can provide summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
+See our guide: <a href=https://ai-for-literature-review.github.io/Guide/part2/analyze-literature-reading-summarising.html target=_blank>AI for Literature Review: Reading and Summarising Sources</a>
+```
+The basic steps of this process include the following:
 
 ::::{grid}
 :gutter: 2
@@ -21,21 +29,21 @@ Choose a format that works for you
 ::::
 
 ## Step 1: Identify Basic Components
-A summary of a text helps you to process the source, as well as being able to relocate it later. There are many ways you can approach summarising a source, but there are elements you should always include:
+There are many ways you can approach summarising a source, but there are elements you should always include:
 
-- Bibliographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project.
-- Topic / Research Question
+- Bibliographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project. This can also help you when referencing.
+- Topic / Research Question of the source
 - Methods used
 - Main results
-- Connection to previous studies 
+- Connection to previous studies
 - Limitations of the study
 - Implications of the findings
-
 As you read through your article, underline and take note of these different parts. You can subsequently organise these initial parts in a format that works well for you to summarise. (Trent University, n.d.; Ontario Institute for Studies in Education, n.d.).
+
 
 ## Step 2: Choose a summary format
 
-Summaries can come in many formats. Depending on your purpose they can be more or less elaborate.  Watch this overview of different types of summaries you could use as you are processing a source
+Summaries can come in many formats. Depending on your purpose they can be more or less elaborate.  Look at this overview of different types of summaries you could use as you are processing a source
 
 ````{tab-set}
 ```{tab-item} Mindmaps
@@ -103,11 +111,7 @@ Want to learn more about how to create this type of summary? Visit the website f
 
 ````
 
-``` {admonition} About AI
-:class: warning
-While AI can provide you with summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
-```
-
+If you have progressed with summarising, this might be a time to also start [synthesising](4c-synthesise.md) your findings.
 
 ## References
 - Bernhardt, L. (n.d.). _Research Guides: Literature Review Basics: Using Research & Synthesis Tables_. Rice Library. <a href="https://usi.libguides.com/literature-review-basics/tables" target=_blank>https://usi.libguides.com/literature-review-basics/tables</a>
