@@ -52,13 +52,16 @@ Evaluate if you have read and found enough information
 ## Step 1: Deciding Your Reading Order
 After your initial search and evaluation of your sources, you might end up with 10 academic articles, a book, and a more popular source like a newspaper. Where to begin? How much time should you spend on what? To help you prioritise, do a skim and scan of your stack of sources, keeping in mind a couple of key questions to help you decide which ones to read first:
 
-1.	**How much do I already know about my topic?** If your knowledge is limited, first reading sources that have more foundational knowledge (for example, definitions of terms, context of the topic and basic explanations), or sources with more accessible language and sentence structures can help you build more understanding of a topic before going to dense sources with more complex language or more specific articles.
+1.	**How much do I already know about my topic?**
+If your knowledge is limited, first reading sources that have more foundational knowledge (for example, definitions of terms, context of the topic and basic explanations), or sources with more accessible language and sentence structures can help you build more understanding of a topic before going to dense sources with more complex language or more specific articles.
 
-2.	**Which sources seem the most relevant to my specific information search question?** You already checked for relevance when you were selecting these resources, but when prioritising check again the titles and abstracts and decide which resources are most likely to provide you with the information you are looking for. These can, for example, include resources that are recommended by your lecturer or peers, or other influential resources. 
+2.	**Which sources seem the most relevant to my specific information search question?**
+You already checked for relevance when you were selecting these resources, but when prioritising check again the titles and abstracts and decide which resources are most likely to provide you with the information you are looking for. These can, for example, include resources that are recommended by your lecturer or peers, or other influential resources. 
 
-3.	**How much time do I have?** There will often be more resources to read than you have time, so you must prioritise! Check the number of pages of the resources and their complexity and relevance to your information search question. How much time do you estimate it would take to go through each of them? Which ones seem worth your time? 
+3.	**How much time do I have?**
+There will often be more resources to read than you have time, so you must prioritise! Check the number of pages of the resources and their complexity and relevance to your information search question. How much time do you estimate it would take to go through each of them? Which ones seem worth your time? 
 
-When deciding your reading order, and also when close reading, continue examining if the sources you selected are relevant or reliable. A resource might have slipped through during your [previous CRAAP assessment](3b-evaluating sources) or your understanding of your topic might have changed, and a source that originally looked good might now seem less relevant or reliable. If so, drop it (record why in your reference manager or research notes) and move on. If you notice that a lot of your resources are not relevant, you may need to return to your search strategy and refine it to find more relevant resources.
+When deciding your reading order, and also when close reading, continue examining if the sources you selected are relevant or reliable. A resource might have slipped through during your [previous CRAAP assessment](3b-evaluating sources.md) or your understanding of your topic might have changed, and a source that originally looked good might now seem less relevant or reliable. If so, drop it (record why in your reference manager or research notes) and move on. If you notice that a lot of your resources are not relevant, you may need to return to your search strategy and refine it to find more relevant resources.
 
 ```{admonition} Tip: Be flexible
 :class: tip
@@ -70,53 +73,63 @@ After finalising your preparation, you are ready for the next step: close readin
 ## Step 2: Close Reading, Note-taking and Updating Your Search
 After you’ve decided on your reading order, it is time to actually start reading. You can use the following steps to support your close reading journey:
 
-1.	Set up an Optimal Reading Environment
-2.	Define With What Purpose You Read a Source
-3.	Read Specific Sections Before Reading the Entire Resource 
-4.	Use Critical Questions to Guide Your Reading
-5.	Take Notes
-6.	Do Multiple Rounds of Reading
-7.	Update Your Search
+1. Prepare Your Close Reading
+2. Close Reading & Notetaking
+3. Update Your Search Strategy
 
-### 1: Set up an Optimal Reading Environment
-Reading requires focus, and taking care of an optimal reading environment can help set you up for success. Some tips:
+### Prepare Your Close Reading
+
+**Set up an Optimal Reading Environment**
+
+Reading requires focus, and taking care of an optimal reading environment can help set you up for success. 
+```{admonition} Tips for an Optimal Reading Environment
+:class: dropdown tip
+
 -	Read when you have energy. Recognise during which parts of the day you personally can focus best, and at which parts you should relax or do something else.
 -	Choose a reading environment that works for your personal attention span. Do you need a quiet environment? Or can you focus best in noisier environments like a café or studying with fellow students?
 -	Minimise disturbances or distractions: Turn on Do Not Disturb mode on your phone and computer, put on focus music (white noise, instrumental, or whatever genre works for you).
 -	Take regular breaks: For example every 25 minutes (you could use a Pomodoro timer for this). Manage your energy and also recognise when you need to take a longer break or stop for the day.
 -	Reach out to fellow students: if you know they are reading the same articles to discuss. Hearing different perspectives on an article can often help deepen your understanding.
 -	Go in with a curious mindset: Be interested in discovering new perspectives that may not be yours or may be unclear at first. And be willing to examine perspectives that may be conflicting.
+```
 
-### 2: Define With What Purpose You Read a Source
-Establishing a clear purpose for reading a resource can help guide your reading. What are you hoping to get out of close reading the resource? What are you going to use it for and how exactly is it helping to answer your information search question? Some example purposes could be:
+**Define With What Purpose You Read a Source**
+
+Establishing a clear purpose for reading a resource can help guide your reading. What are you hoping to get out of close reading the resource? What are you going to use it for and how exactly is it helping to answer your information search question?
+Some example purposes could be:
 - You want to explore a topic and build your foundational knowledge
 - You are looking for an overview of what has been done before
 - You are looking for a specific method or argument
 - You want to broaden your perspectives and connect to what you already know
 - You found a very new resource and want to learn what it adds to what you have previously read
 
-### 3: Read Specific Sections Before Reading the Entire Resource
+**Read Specific Sections Before Reading the Entire Resource**
+
 Before close reading a resource, make sure you have done an initial readthrough of all the relevant sections. 
 
-For a scholarly source, reading the abstract, introduction, discussion and conclusion first makes it easier to understand the contents and goals of the source before you dive further into it.
+For a scholarly source, reading the _abstract_, _introduction_, _discussion_ and _conclusion_ first makes it easier to understand the contents and goals of the source before you dive further into it.
 
 Have a look at the video below from PittCCLibrary to learn more about the different sections of a scholarly article to focus on while reading:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 "<a href="https://www.youtube.com/embed/c3tV8g70YuU?si=knmV-72oCtDr8l1s&amp;controls=0" target=_blank>How to Read a Scholarly Article</a>" by <a href="https://www.youtube.com/@PittCCLibrary" target=_blank>PittCCLibrary</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
-### 4: Close Read with Critical Questions in Mind  
-When you close read a scholarly source, you should also critically evaluate the source. Having critical questions in mind as you read the source also promotes active reading. Below are some critical questions you can take with you as you read the different parts of the text:
-•	How does the author know this and do they give any scientific evidence?
-•	Is this in line with my knowledge or does it contradict any knowledge I already have?
-•	Is the method well explained and justified?
-•	Are the results, methods and conclusions consistent with each other?
-•	Does the author correctly explain any surprising results?
-•	What are my own thoughts and beliefs compared to the author’s findings?
+### Close Reading and Notetaking
 
-### 5: Take Notes
-As you close read the text, make sure you take notes. If you don’t, you may lose a lot of time finding back certain quotes or information later in your project.
-There is no one size fits all notetaking strategy. However, there are some general tips you can take into consideration:
+**Close Read with Critical Questions in Mind**:
+
+When you close read a scholarly source, you should also critically evaluate the source. Having critical questions in mind as you read the source also promotes active reading. Below are some critical questions you can take with you as you read the different parts of the text:
+- How does the author know this and do they give any scientific evidence?
+- Is this in line with my knowledge or does it contradict any knowledge I already have?
+- Is the method well explained and justified?
+- Are the results, methods and conclusions consistent with each other?
+- Does the author correctly explain any surprising results?
+- What are my own thoughts and beliefs compared to the author’s findings?
+
+**Take Notes**
+
+As you close read the text, make sure you take notes. If you don’t, you may lose a lot of time finding back certain quotes or information later in your project. There is no one size fits all notetaking strategy. However, there are some general tips you can take into consideration:
+
 1.	Be systematic and consistent with notes (location stored, types of notes)
 2.	Include citation of the source when note-taking, or take notes on the article itself
 3.	Tag if a note is a summary, quote, paraphrasing, own idea/question to help you reuse it later
@@ -124,14 +137,15 @@ There is no one size fits all notetaking strategy. However, there are some gener
 5.	Don’t overdo it. Your notes should be linked to your reading goals, your information search questions, important concepts and findings, or action items (for instance something you want to look up)
 6.	Create a glossary of terms (term, definition, link to resource), this allows you to manage your knowledge of frequently used terms, and might be helpful to include in your end-product.
 7.	Are there certain things, such as terms, concepts or arguments, that you do not understand yet? Make a note of this so you can come back to it.
+
 Tip: The choice of your preferred notetaking app and style of notetaking is based on your personal preference. There are a lot of tools available for you to use. Have a look at this video on notetaking styles to help you reflect on what type of notetaking tool might work best for you: (link out https://www.youtube.com/watch?v=f3dDVtJ2sec )
 
-### 6: Expect to Read a Source Multiple Times:
+**Expect to Read a Source Multiple Times:**
+
 You may need to go through (parts of) of a text multiple times to fully understand it, especially if you are dealing with more specialised information. After an initial scan and read-through, you might have already underlined important items or unclear concepts/terms. You can revisit these parts while you do additional note-taking and look up concepts you don’t understand yet. 
-It could happen that you still don’t understand certain parts of a text even after multiple rounds of reading. If this is the case, you can always come back to it later, for example when you have read more foundational articles and your understanding of the topic has increased. Note that you should keep in mind the amount time you have for reading and need to prioritise if you do not have too much time.
+It could happen that you still don’t understand certain parts of a text even after multiple rounds of reading. 
 
-Note: In the beginning, progress might feel slow when you start reading academic research on a topic that is new for you, but over time you will start to recognize recurring terms, concepts, theories and researchers, which will help you to speed up. 
-
+If this is the case, you can always come back to it later, for example when you have read more foundational articles and your understanding of the topic has increased. Note that you should keep in mind the amount time you have for reading and need to prioritise if you do not have too much time. In the beginning, progress might feel slow when you start reading academic research on a topic that is new for you, but over time you will start to recognize recurring terms, concepts, theories and researchers, which will help you to speed up. 
 
 ```{admonition} Tip to Support Reading: Text-to-speech software 
 :class: dropdown tip
@@ -139,7 +153,7 @@ Text-to-speech software
 If you have difficulty reading, for example because of dyslexia, you could try text-to-speech software (or TTS) to have your computer read aloud to you. TU Delft offers <a href="https://www.tudelft.nl/en/library/collections/literature-search/help-with-dyslexia" target=_blank>a TextAid license</a> free of charge for all students.
 ```
 
-### 7: Update Your Search Strategy
+### Update Your Search Strategy
 
 While you have made an initial search strategy using the knowledge you had at the time, as you close read relevant articles your ideas will likely evolve and you may need to adapt your search strategy to find more relevant articles. Some suggestions: 
 - When you are close reading through your sources, take notes of relevant keywords you come across and update your literature search. 
@@ -173,10 +187,11 @@ Below you can find three practical guidelines you can take into account when you
 Share your findings and ideas. They can help you figure out whether you have found enough literature, or if you should continue.
 3.	Check how much time you have and plan accordingly. 
 Dividing your time for a literature study can be done using the following rules of thumb from Erasmus University:
-o	1/3 of your time reading
-o	1/3 of your time searching
-o	1/3 of your time writing up your findings
-o	Take these guidelines into consideration and try to plan accordingly (Erasmus University Library, 2020)
+- 1/3 of your time reading
+- 1/3 of your time searching
+- 1/3 of your time writing up your findings
+
+Take these guidelines into consideration and try to plan accordingly (Erasmus University Library, 2020)
 
 4.	Keep a narrow focus on your information search question. 
 If you feel like after a significant time reading and searching you are still overflowing with research articles, maybe revisit your literature search question. Can you make it more specific? Sometimes this cannot be avoided, as on some topics a lot of research is available. In this case, consult with your lecturer if you can make some changes to your search and reading strategies.
