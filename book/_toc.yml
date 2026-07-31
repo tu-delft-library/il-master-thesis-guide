@@ -4,10 +4,9 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: About This Guide
+  - caption: Introduction
     chapters:
       - file: about
-      - file: feedback
   - caption: Information Steps During Your Thesis
     chapters: 
       - file: 1-orientate
@@ -39,3 +38,7 @@ parts:
           - file: 5b-specifying-ai-use
           - file: 5c-images-code
           - file: 5d-open-science
+  - caption: Conclusion
+    chapters:
+      - file: conclusion
+      - file: feedback
