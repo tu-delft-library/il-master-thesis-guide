@@ -7,7 +7,7 @@ When you are presented with a source, before you start reading and using it in y
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Evaluate Relevance](#step-1-evaluate-reliability)<br>
+[Evaluate Relevance](#step-1-evaluate-relevance)<br>
 Evaluate if a source connects to your project
 :::
 
