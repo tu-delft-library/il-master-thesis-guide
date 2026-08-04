@@ -80,3 +80,4 @@ While creating this guide, we used AI for:
 AI tools used: 
 - OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025) [Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
 - Microsoft. (2025). _Copilot_ (January 2026 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
+- EduGenAI Chat (2026). 
