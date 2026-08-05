@@ -44,6 +44,8 @@ When you have done an initial exploration of your sources, take your mind map or
 - Specific
 - Manageable within the time you have
 
+Note that not all theses follow the same  trajectory and have the same information need. You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you can look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
+
 ### Example Research scenario
 
 Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. In the concept map you visualise the relations and dependencies of a topic by connecting them with branches, which gives you a clearer overview of your subject. You can then use the concept map to formulate various information search questions by looking at the relations and dependencies of different branches of the concept map.
