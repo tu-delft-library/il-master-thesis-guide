@@ -1,7 +1,7 @@
 # 2a. Select Academic Databases
 
 ## Introduction
-When starting you search, a first step is to determine what databases you will use. There are a couple of different options available and you should choose which one is the most effective for your information needs. By the end of this chapter you should know what an academic database is, what the difference is between multidisciplinary and subject-specific databases and how to access the databases via TU Delft library.
+When starting your search, a first step is to determine what databases you will use. There are a couple of different options available and you should choose which one is the most effective for your information needs. By the end of this chapter you should know what an academic database is, what the difference is between multidisciplinary and subject-specific databases and how to access the databases via TU Delft library.
 
 ::::{grid}
 :gutter: 3
