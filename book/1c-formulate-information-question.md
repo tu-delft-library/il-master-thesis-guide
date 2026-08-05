@@ -1,8 +1,8 @@
-# 1b. Formulate an Information Search Question
+# 1c. Formulate an Information Search Question
 
 ## Introduction
 
-Once you have your topic, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project?
+Once you have done an initial academic and general orientation, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project?
 
 The terms research question and information search question are sometimes used interchangeably. In this guide we distinguish between information search questions and research questions. We define them as follows:
 
@@ -87,7 +87,7 @@ Very often, you wonâ€™t be able to answer all five types of sub-questions. The â
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-Once you have formulated an initial information search question, this is a great moment to get feedback from your supervisor. You can also try to explain your information search question to a fellow student, it will likely help to further shape your questions.
+Once you have formulated your initial information search question, this is a great moment to get feedback from your supervisor. You can also try to explain your information search question to a fellow student, it will likely help to further shape your questions.
 ```
 
 
