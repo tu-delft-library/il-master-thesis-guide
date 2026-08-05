@@ -9,11 +9,11 @@ parts:
       - file: about
   - caption: Information Steps During Your Thesis
     chapters: 
-      - file: 1-orientate
+      - file: 1-explore
         sections:
-          - file: 1a-brainstorming
-          - file: 1b-formulate-research-question
-          - file: 1c-exploring-academic-literature
+          - file: 1a-general-orientation
+          - file: 1b-exploring-academic-literature
+          - file: 1c-formulate-information-search-question
       - file: 2-search
         sections:
           - file: 2a-select-database
