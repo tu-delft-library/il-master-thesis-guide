@@ -1,11 +1,11 @@
-# 1c. Exploring Academic Literature
+# 1b. Exploring Academic Literature
 
 ## Introduction
 
-Once you have done an initial orientation and have a preliminary information search question to work with, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
+After you have done a general orientation and have defined your initial research topic, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
 
 By doing an exploration of academic literature you can:
-- Find new knowledge gaps
+- Find knowledge gaps
 - Discover new disciplines connected to your topic
 - Discover authors that are working on related research questions
 - Uncover keywords that are used within your topic to use for a content search
