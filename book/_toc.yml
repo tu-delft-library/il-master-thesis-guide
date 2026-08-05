@@ -13,7 +13,7 @@ parts:
         sections:
           - file: 1a-general-orientation
           - file: 1b-exploring-academic-literature
-          - file: 1c-formulate-information-search-question
+          - file: 1c-formulate-information-question
       - file: 2-search
         sections:
           - file: 2a-select-database
