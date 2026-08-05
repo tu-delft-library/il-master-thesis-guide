@@ -9,8 +9,8 @@ When you begin your thesis you are also at the start of your information journey
 Common activities during this phase of the your information journey include:
 
 - [1a. General Orientation on a Topic](1a-brainstorming.md) - Know how to do a general orientation on your topic 
-- [1b. Formulate a Question](1b-formulate-research-question.md) - Know how to formulate an information search question 
-- [1c. Explore Academic Literature](1c-exploring-academic-literature.md) - Know how to do an initial exploration of academic literature 
+- [1b. Explore Academic Literature](1b-exploring-academic-literature.md) - Know how to do an initial exploration of academic literature
+- [1c. Formulate a Question](1c-formulate-research-question.md) - Know how to formulate information search questions
 
 ## Test Your Current Knowledge
 Before studying the recap and additional skills useful for your master thesis take this knowledge test to find out how much you already know:
