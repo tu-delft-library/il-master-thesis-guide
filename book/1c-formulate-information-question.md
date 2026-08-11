@@ -44,6 +44,12 @@ When you have done an initial exploration of your sources, take your mind map or
 - Specific
 - Manageable within the time you have
 
+For your information search question, you should identify the who, what, where, why and how of what you want to study. 
+
+This example from Maastricht University provides some additional information about this:
+<iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=217" width="758" height="408" frameborder="0" allowfullscreen="allowfullscreen" title="RD13 - Focusing research topic"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"Focusing Your Topic"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
+
 Note that not all theses follow the same  trajectory and have the same information need. You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you can look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
 
 ### Example Research scenario
@@ -73,9 +79,6 @@ Once you have your initial question, you can look at its different components an
 | WHERE | Global | European higher education institutions | Classrooms at TU Delft |
 | WHY | Improving inkless printed materials | Improve readability and durability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts while reducing paper/ink waste |
 | HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in educational institutions? | How can optical technologies be used to improve the print quality of inkless printing for exams in programmes at TU Delft? |
-
-
-<iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Adapted from "From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
 Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
