@@ -89,3 +89,6 @@ Use the research-based scenario below to practice more with the skills discussed
 
 <iframe src="https://tudelft.h5p.com/content/1292799266045636277/embed" aria-label="2 - Practice - Evaluate Your Search" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
 "<a href="https://tudelft.h5p.com/content/1292799266045636277/embed" target=_blank>Evaluate Your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+
+## References
+Walma, L., & Looij, M. (2025). _AI Assist: Refining Your Draft Query._ AI for Literature Review. <a href="https://ai-for-literature-review.github.io/Guide/part2/keyword-search.html" target="_blank">https://ai-for-literature-review.github.io/Guide/part2/keyword-search.html
