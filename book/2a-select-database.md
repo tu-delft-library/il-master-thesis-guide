@@ -7,50 +7,40 @@ When starting your search, a first step is to determine what databases you will 
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
+[Academic Databases](#step-2-know-about-academic-databases)<br>
+Know about different types of academic databases
+
+:::
+
+:::{grid-item-card} Step 2<br>
 [Accessing the A-Z List](#step-1-use-the-a-z-list-from-tu-delft-to-access-the-databases)<br>
 Access the databases of TU Delft
 
 :::
 
-:::{grid-item-card} Step 2<br>
-[Academic Databases](#step-2-know-about-academic-databases)<br>
-Access different types of academic databases
-
-:::
-
 :::{grid-item-card} Step 3<br>
 [Select Databases](#step-3-selecting-your-databases)<br>
-Considerations for selecting a database
+Decide which databases are helpful for your question
 
 :::
 
 ::::
 
-## Step 1: Use the A-Z List from TU Delft to Access the Databases
+## Step 1: Know about Academic Databases
+In the world of research it is common that when scientific resources are shared (articles published in journals or in conference proceedings, scientific books), they become findable in one or more digital platforms, called academic databases. These platforms can have a very specific focus on a research field, or cover a broad set of scientific fields and scientific sources such as specific journals). Academic databases are a good starting point when you want to start searching for academic literature. Academic databases contain the latest research output, often published in the form of journal articles, conference papers or reviews.
 
-The [A-Z list from the TU Delft](https://databases.tudl.tudelft.nl/) is a good resource to find the topic-specific databases you need for your project. It includes all the information databases we have available for TU Delft students. 
+There are two types of academic databases: multidisciplinary databases and subject-specific databases.
 
-The screencast below shows how to access the list:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" target=_blank>Resources to use for your projects</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+### Multidisciplinary Databases
 
-```{admonition} Tip
-:class: Lean Library
-Sometimes you may run into a paywall, a message asking you to pay to read the document, especially if you’re off campus. To avoid this, always use the <a href="https://www.tudelft.nl/en/library/collections/borrow-and-access/off-campus-access" target=_blank>Lean Library Extension</a>. This tool tells databases that you’re a TU Delft student, so you can access content covered by the library’s subscriptions. 
-```
-
-## Step 2: Know about Academic Databases
-Academic databases are a good starting point when you want to start searching for academic literature. Academic databases contain the latest research data, often published in the form of journal articles, conference papers or reviews.
-
-There are two types of academic databases: multi-disciplinary databases and subject-specific databases.
-
-**Multi-disciplinary databases** contain a variety of subject areas, the topics included are very broad, ranging from Engineering to the Social Sciences. Examples of multi-disciplinary databases are Scopus and Dimensions. When you search these databases, not all information you find will be relevant to your topic, but you will be able to draw from a lot of different fields to find the information you need.
+**Multidisciplinary databases** contain a variety of subject areas, the topics included are very broad, ranging from Engineering to the Social Sciences. Examples of multidisciplinary databases are Scopus and Dimensions. When you search these databases, not all information you find will be relevant to your topic, but you will be able to draw from a lot of different fields to find the information you need.
 
 The main multidisciplinary databases available at TU Delft are Scopus and Dimensions. These databases both include millions of academic research articles from a variety of disciplines. They have extensive search options, and the quality of the information included is checked by a subject specialist or harvested from publication data. They are effective for finding high quality academic information, using extensive search functionalities.
 
 They differ slightly in how they select sources to include, and the options to search and filter information. When making your decision, you can visit the <a href="https://www.tudelft.nl/tulib/searching-resources/resources#c1036492" target=_blank>TUlib Guide</a>, which compares the functionalities of the two databases in more detail.
 
-### Google Scholar
+**About Google Scholar**
+
 Google Scholar is also a multidisciplinary database, freely available to use. It finds research articles by crawling the web and including findings in their database. As such, the reliability of the publications found can vary. 
 Moreover, for conducting an extensive literature search, the database only has limited tools available. Google Scholar can be a helpful multidisciplinary database because it includes also preprints and white papers, which are a bit newer than the peer-reviewed articles included in Scopus and Dimensions. 
 If you are working within a topic where research changes often, it can be helpful to add Google Scholar into your search strategy to stay updated (Lier, M. van, n.d.)
@@ -73,7 +63,8 @@ If you are working within a topic where research changes often, it can be helpfu
 Information adapted from "<a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>Google Scholar vs Library Databases</a>" from <a href="https://www.tilburguniversity.edu/" target=_blank>Tilburg University</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA 4.0</a> 
 ```
 
-**Subject-specific databases** only include research data from specific topics. For example a database that focuses specifically on Chemistry or Architecture. Examples are IEEE for Engineering, PubMed for Medicine and ERIC for education research. These databases often include less material than multi-disciplinary databases, but by searching these you might find research highly relevant to your topic not included in the multi-disciplinary databases.
+### Subject-specific databases
+only include research outputs on specific topics. For example a database that focuses specifically on Chemistry or Architecture. Examples are IEEE for Engineering, PubMed for Medicine and ERIC for education research. These databases often include less material than multidisciplinary databases, but by searching these you might find research highly relevant to your topic not included in the multidisciplinary databases.
 
 Below is an overview of the main differences:
 
@@ -84,11 +75,23 @@ Below is an overview of the main differences:
 | often offer enhanced search tools | often offer enhanced search tools |
 |Examples: Scopus, Dimensions, Google Scholar | PubMed, IEEE, ERIC
  
-To make sure you get the best results you can do a combination of one or more multi-disciplinary databases with at least one subject-specific database. 
+To make sure you get the best results you can do a combination of one or more multidisciplinary databases with at least one subject-specific database. 
 
+## Step 2: Use the A-Z List from TU Delft to Access the Databases
+
+The [A-Z list from the TU Delft](https://databases.tudl.tudelft.nl/) is a good resource to find the topic-specific databases you need for your project. It includes all the information databases we have available for TU Delft students. 
+
+The screencast below shows how to access the list:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+"<a href="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" target=_blank>Resources to use for your projects</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+
+```{admonition} Tip
+:class: Lean Library
+Sometimes you may run into a paywall, a message asking you to pay to read the document, especially if you’re off campus. To avoid this, always use the <a href="https://www.tudelft.nl/en/library/collections/borrow-and-access/off-campus-access" target=_blank>Lean Library Extension</a>. This tool tells databases that you’re a TU Delft student, so you can access content covered by the library’s subscriptions. 
+```
 
 ## Step 3: Selecting Your Databases
-For your search strategy, you should try to include at least 1 multidisciplinary and 1 topic-specific database. 
+While multidisciplinary databases often include a large variety of research articles, a topic-specific database can deliver some additional field-specific research outputs that are not included in the multidisciplinary database. Because of this, you should try to include at least 1 multidisciplinary and 1 topic-specific database in your search strategy.
 
 When you decide if you want to use a database in your search strategy, you can focus on the following five properties:
 
@@ -108,7 +111,7 @@ Visit the A-Z list of TU Delft and look at the resources suggested for your spec
 Reflect on the following questions:
 
 1. Which of these databases are academic?
-2. Are the academic databases included topic-specific or multi-disciplinary?
+2. Are the academic databases included topic-specific or multidisciplinary?
 3. Which databases would you include in your search strategy?
 
 Fill in the Database section in your MSc Thesis Search Strategy
