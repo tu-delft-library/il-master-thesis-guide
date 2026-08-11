@@ -55,7 +55,7 @@ Once you have gathered some information around your topic, you can use a concept
 
 From this concept map we have formulated the following information search question:
 
-- **“How can the print quality of inkless printing be improved by using optical technology?”**<br>
+- **“How can the print quality of inkless printing be improved by using optical technology?”**<br><br>
 Another possible information search question could be:
 - **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
@@ -64,11 +64,20 @@ Want to learn more about how to get started with conceptmapping? Have a look at 
 ## Step 2: Further Specifying Your Question
 
 ### Narrow or Broaden Specific Components
-Once you have your initial question, you can look at its different components and make them more or less specific. The example below from Maastricht University shows how you can narrow or broaden components of a specific question.<br><br>
+Once you have your initial question, you can look at its different components and make them more or less specific. The example below shows how you can narrow or broaden components of a specific question. The how brings all the components together in a new information search question: <br><br>
+
+|  | Broad | Narrower | Extremely narrow |
+| --- | --- | --- | --- |
+| WHO | Inkless printed materials | inkless printed teaching materials | diagrams and formulas on inkless printouts |
+| WHAT | Optical technology | Specific optical technology | More specific optical technology |
+| WHERE | Global | European higher education institutions | Classrooms at TU Delft |
+| WHY | Improving inkless printed materials | Improve readability and durability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts while reducing paper/ink waste |
+| HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in educational institutions? | How can optical technologies be used to improve the print quality of inkless printing for exams in programmes at TU Delft? |
+
 
 <iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
+<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Adapted from "From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
 Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
 
 Please note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.<br><br>
