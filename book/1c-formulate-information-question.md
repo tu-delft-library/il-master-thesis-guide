@@ -75,7 +75,7 @@ Once you have your initial question, you can look at its different components an
 |  | Broad | Narrower | Extremely narrow |
 | --- | --- | --- | --- |
 | WHO | Inkless printed materials | inkless printed teaching materials | diagrams and formulas on inkless printouts |
-| WHAT | Optical technology | Specific optical technology | More specific optical technology |
+| WHAT | Optical technology | UV-LED optical technology | UV-LED optical technology Method A |
 | WHERE | Global | European higher education institutions | Classrooms at TU Delft |
 | WHY | Improving inkless printed materials | Improve readability and durability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts while reducing paper/ink waste |
 | HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in educational institutions? | How can optical technologies be used to improve the print quality of inkless printing for exams in programmes at TU Delft? |
