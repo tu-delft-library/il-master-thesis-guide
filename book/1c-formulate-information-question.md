@@ -10,7 +10,7 @@ The terms research question and information search question are sometimes used i
 
 - Information search questions help you find out what _others_ have designed or researched about your topic or research question. They are directly related to your (draft) research question, but can be answered by conducting a literature search.
 
-As discussed in [0-information-skills](0-information-skills.md): there are multiple phases in a master thesis when you will need to search for information from others. For each of these phases, your information needs and resulting information search questions will likely differ.  You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you can look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
+As discussed in [this section](0-information-skills.md): there are multiple phases in a master thesis when you will need to search for information from others. For each of these phases, your information needs and resulting information search questions will likely differ.  You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you might want to look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
 
 ::::{grid}
 :gutter: 2
@@ -66,11 +66,11 @@ Once you have your initial question, you can look at its different components an
 
 |  | Broad | Narrower | Extremely narrow |
 | --- | --- | --- | --- |
-| WHO | Inkless printed materials | inkless printed teaching materials | diagrams and formulas on inkless printouts |
+| WHO | Inkless printed materials | Inkless printed teaching materials | Diagrams and formulas on inkless printed teaching materials |
 | WHAT | Optical technology | UV-LED optical technology | UV-LED optical technology Method A |
 | WHERE | Global | European higher education institutions | Classrooms at TU Delft |
-| WHY | Improving inkless printed materials | Improve readability and durability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts while reducing paper/ink waste |
-| HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in educational institutions? | How can optical technologies be used to improve the print quality of inkless printing for exams in programmes at TU Delft? |
+| WHY | Improving inkless printed materials | Improve readability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts |
+| HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in European higher education institutions by using UV-LED optical technology? | How can the readability of diagrams and formulas on inkless printed teaching materials at TU Delft be improved using method A of UV-LED optical technology? |
 
 <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Adapted from "From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
 Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
