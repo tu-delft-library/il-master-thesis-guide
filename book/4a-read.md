@@ -162,15 +162,7 @@ While you have made an initial search strategy using the knowledge you had at th
 
 ## Step 3: When to Stop Reading and Searching
 
-There are multiple moments during your thesis when you will need to search, evaluate and read information from others. The figure shows the different phases of the project and the information steps needed. 
-
-There are specific moments when relating to what others have written is necessary: 
-
-![1b-information-search-question](1b-information-search-question.png)
-
-1. Beginning of your project: You conduct an in-depth review on what others have done (literature review), based on a preliminary research question or topic. These results help you formulate your final research question and methodology.
-2. Conducting your research: Throughout your project you should be reflecting on your findings and connect them to the literature you have already found. In addition, while conducting your own research, you should periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. 
-3. End of your project: When you finish your project and write your conclusion and discussion, you synthesise your findings with what others have done. This means looking once more at the sources you have processed throughout your project, and discussing how your findings connect to these sources. For example, how do your findings differ from what others have found before?
+As discussed in [0-information-skills](0-information-skills.md), there are multiple moments during your thesis when you will need to search, evaluate and read information from others. In the beginning of your project you will conduct an in-depth review on what others have done, when conducting your project you might need to periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. Throughout your project you also synthesise your findings with what others have done.
 
 This means that you do not stop searching and reading entirely throughout your project.
 
