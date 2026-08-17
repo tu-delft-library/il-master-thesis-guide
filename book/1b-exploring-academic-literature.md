@@ -4,11 +4,19 @@
 
 After you have done a general orientation and have defined your initial research topic, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
 
+An academic exploration means doing a literature on a large amount of academic sources. The goal is not to select and read the sources you find, but to gather context around your topic. Example findings of an exploration include:
+- What are important journals in my topic?
+- Who are main authors or universities working in my field?
+- What topics are discussed within my filed?
+- How does the research I want to do connect to what other scholars are doing?
+
 By doing an exploration of academic literature you can:
 - Find knowledge gaps
 - Discover new disciplines connected to your topic
 - Discover authors that are working on related research questions
 - Uncover keywords that are used within your topic to use for a content search
+
+Because an exploration gives you a broad overview of what is going on in your topic, it can help you get a better understanding of your research field. This can help you identify knowledge gaps, and prepare you for your specific literature search.
 
 Steps involved include first to create a good exploration question for an academic database, followed by analysing the top terms, authors and keywords used in your field.
 
@@ -28,7 +36,6 @@ Look at key statistics like top authors, journals, subject areas and keywords to
 :::
 
 ::::
-
 
 ## Step 1: Create an Initial Exploration Strategy
 There are 4 steps involved in creating a good exploration strategy for an academic database:
