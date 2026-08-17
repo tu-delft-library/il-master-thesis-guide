@@ -7,7 +7,7 @@ parts:
   - caption: Introduction
     chapters:
       - file: about
-  - caption: Information Steps During Your Thesis
+  - caption: Information Skills for your Thesis
     chapters: 
       - file: 0-information-skills
       - file: 1-explore
