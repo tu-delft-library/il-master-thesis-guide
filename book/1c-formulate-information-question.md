@@ -2,13 +2,15 @@
 
 ## Introduction
 
-Once you have done an initial academic and general orientation, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project?
+Once you have your topic, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project? 
 
-The terms research question and information search question are sometimes used interchangeably. In this guide we distinguish between information search questions and research questions. We define them as follows:
+The terms research question and information search question are sometimes used interchangeably. In this guide we distinguish between information search questions and research questions. We define them as follows: 
 
 - A research question is the focus of you master thesis project, something _you_ want to design or research. The answer of a research question commonly cannot be found in literature, but by experimenting and prototyping.
 
 - Information search questions help you find out what _others_ have designed or researched about your topic or research question. They are directly related to your (draft) research question, but can be answered by conducting a literature search.
+
+As discussed in [0-information-skills](0-information-skills.md): there are multiple phases in a master thesis when you will need to search for information from others. For each of these phases, your information needs and resulting information search questions will likely differ.  You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you can look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
 
 ::::{grid}
 :gutter: 2
@@ -41,8 +43,6 @@ For your information search question, you should identify the who, what, where, 
 This example from Maastricht University provides some additional information about this:
 <iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=217" width="758" height="408" frameborder="0" allowfullscreen="allowfullscreen" title="RD13 - Focusing research topic"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"Focusing Your Topic"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
-
-Note that not all theses follow the same  trajectory and have the same information need. You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you can look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
 
 ### Example Research scenario
 
@@ -93,7 +93,7 @@ Very often, you wonâ€™t be able to answer all five types of sub-questions. The â
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-Once you have formulated your initial information search question, this is a great moment to get feedback from your supervisor. You can also try to explain your information search question to a fellow student, it will likely help to further shape your questions.
+Once you have formulated your initial information search questions, this is a great moment to get feedback from your supervisor. You can also try to explain your information search question to a fellow student, it will likely help to further shape your questions.
 ```
 
 
