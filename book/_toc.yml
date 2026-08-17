@@ -9,6 +9,7 @@ parts:
       - file: about
   - caption: Information Steps During Your Thesis
     chapters: 
+      - file: 0-information-skills
       - file: 1-explore
         sections:
           - file: 1a-general-orientation
