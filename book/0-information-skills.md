@@ -96,3 +96,7 @@ For effective and responsible GenAI use, keep the following five principles in m
 Adapted from "Summary Part 1: Effective and Responsible GenAI Use". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a> is licensed CC-BY
 
 ```
+
+## References
+- Meijer, E.-J. (2023). Visualisation learning trajectory information literacy. Subject Matter - Information Literacy. <a href=https://www.shb-online.nl/information-literacy-en/subject-matter/ target=_blank>https://www.shb-online.nl/information-literacy-en/subject-matter/</a>
+- Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a>
