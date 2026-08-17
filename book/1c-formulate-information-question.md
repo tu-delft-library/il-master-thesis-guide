@@ -10,14 +10,6 @@ The terms research question and information search question are sometimes used i
 
 - Information search questions help you find out what _others_ have designed or researched about your topic or research question. They are directly related to your (draft) research question, but can be answered by conducting a literature search.
 
-There are specific moments when relating to what others have written is necessary: 
-
-![1b-information-search-question](1b-information-search-question.png)
-
-1. Beginning of your project: You conduct an in-depth review on what others have done (literature review), based on a preliminary research question or topic. These results help you formulate your final research question as well as what research methods you will use to do your research.
-2. Conducting your research: Throughout your project you should be reflecting on your findings and connect them to the literature you have already found. This can also help you if need to update your research or design methods. In addition, while conducting your own research, you should periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. 
-3. End of your project: When you finish your project and write your conclusion and discussion, you synthesise your findings with what others have done. This means looking once more at the sources you have processed throughout your project, and discussing how your findings connect to these sources. For example, how do your findings differ from what others have found before?
-
 ::::{grid}
 :gutter: 2
 
