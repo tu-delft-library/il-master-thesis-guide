@@ -79,22 +79,3 @@ The environmental impact of GenAI use is significant: great amounts of water and
 
 ```
 ````
-
-
-```{admonition} Five principles for working with AI
-:class: dropdown tip
-
-For effective and responsible GenAI use, keep the following five principles in mind:
-
-1. Prompt: Effective GenAI use starts with an effective prompt. Make your prompt specific, using (relevant elements from) the format: clear task-description + persona + context + format + tone + exemplars
-
-2. Proof: Always check the output for inaccuracies and biases. Critically evaluate the quality of the output, using your own critical thinking skills.
-
-3. Privacy (and other considerations): There are many unknowns about how GenAI tools use your input. _Never_ feed personal details or confidential information to GenAI tools. Also consider the environmental impact of GenAI before using it.
-
-4. Presentation: The output from GenAI tools may include grammatically correct sentences, but it is often generic and flavourless. Don’t forget about your own voice when you are writing a text.
-
-5. Property: In the end, always remember that you are responsible for your work, also when you use GenAI.
-
-Adapted from "Summary Part 1: Effective and Responsible GenAI Use". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a> is licensed CC-BY
-```
