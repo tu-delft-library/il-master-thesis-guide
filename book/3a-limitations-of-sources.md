@@ -48,6 +48,8 @@ Two main concerns about using GenAI output are errors and bias, and this means y
 
 AI tools can produce incorrect or misleading information. The output of AI systems can, for example, include citations that look realistic, but don't really exist. Ask any AI to find you some academic sources on a topic and you are presented with a plausible list of seemingly high quality scientific sources. However, these references don’t always exist. For example; In July 2026, research from the Dutch magazine <a href=https://www.groene.nl/artikel/de-wetenschap-wordt-in-sneltempo-vervuild target=_blank>De Groene Amsterdammer</a> revealed that, since the release of ChatGPT, the proportion of scientific articles containing non-existing references has increased sevenfold (read about the research in English <a href=https://delta.tudelft.nl/en/article/number-of-ghost-references-in-scientific-articles-growing-rapidly target=_blank>here</a>). You should always verify the output of AI with reliable sources.
 
+```
+
 ```{tab-item} Biases 
 
 GenAI tools are trained with real-life data. The output can therefore reflect and amplify biases from human thinking. For example, research has shown that outputs of GenAI tools often include biases against women and people of colour. Other biases, for example confirmation bias (the tendency to search for and favour information that confirms your beliefs), can also affect the data that is used for training the GenAI tool, and therefore also affect the output. When you ask an AI tool to find you research, to summarise or synthesise information, these biases influence also your analysis.  
