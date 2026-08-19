@@ -37,7 +37,7 @@ parts:
         sections:
           - file: 5a-citing
           - file: 5b-reporting-ai-use
-          - file: 5c-images-code
+          - file: 5c-copyright
           - file: 5d-open-science
   - caption: Conclusion
     chapters:
