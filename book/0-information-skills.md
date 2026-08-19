@@ -39,6 +39,10 @@ It is strongly suggested that you discuss your planned AI use with your thesis s
 
 GenAI use comes with a lot of considerations, and this means you should critically evaluate the output of a tool, as well as the need to use a tool. We provide here some general considerations you should take into account, as well as five principles on working with AI in general. Where relevant, we provide additional considerations in related chapters.
 
+Texts below are adapted from:
+- "What is Generative AI?". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/what-is-genai.html target=_blank>AI for Literature Review</a> is licensed CC-BY
+- "AI Literacy for Lecturers" by Teaching and Learning Services, TU Delft is licensed CC-BY-NC-SA-4.0
+
 ````{tab-set}
 
 ```{tab-item} Privacy and Security
@@ -75,9 +79,9 @@ Be aware that your input may be used for training purposes. If you don’t want 
 
 Relying too much on AI limits the development of your critical thinking skills, as well as your mastering of your research subject.  
 
-While using AI during your thesis journey, for example to find information and synthesise your findings might seem like it saves you time, in the end overusing AI can limit the development of a set of skills you will need in your future career. In a recent interview with >a href="https://delta.tudelft.nl/en/article/can-tu-delft-students-continue-without-chatgpt-i-sometimes-feel-guilty-about-using-it" target=_blank>__Delta__</a> several TU Delft students said that while they found AI use was helpful, they worried that its use also limited the development of their critical thinking.
+While using AI during your thesis journey, for example to find information and synthesise your findings might seem like it saves you time, in the end overusing AI can limit the development of a set of skills you will need in your future career. In a recent interview with <a href="https://delta.tudelft.nl/en/article/can-tu-delft-students-continue-without-chatgpt-i-sometimes-feel-guilty-about-using-it" target=_blank>_Delta_</a> several TU Delft students said that while they found AI use was helpful, they worried that its use also limited the development of their critical thinking.
 
-One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction (adapted from "AI Literacy for Lecturers" by Teaching and Learning Services, TU Delft is licensed CC-BY-NC-SA-4.0) 
+One practical way to think about AI and learning is to distinguish between **useful friction** and **unnecessary friction** 
 
 Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges. If too much of that effort is taken over by AI, your thesis may still look well, but miss the learning process that gives the result its value.  
 
