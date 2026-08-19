@@ -97,6 +97,10 @@ What can be helpful when sharing your own work is choosing for a creative common
 If you have any specific questions about copyright, contact the <a href="https://www.tudelft.nl/library/support/copyright" target=_blank>Copyright Information Point</a>
 ```
 
+## Knowledge Check
+Take this short quiz to see if you understand the basics of copyright for your thesis
+<iframe src="https://tudelft.h5p.com/content/1292985838193873587/embed" aria-label="5c Copyright" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ## References
 - Creative Commons. (n.d.). _Share your work_. <a href="https://creativecommons.org/share-your-work/" target=_blank>https://creativecommons.org/share-your-work/</a>
 - TU Delft Copyright Information Point. (n.d.) _As a student, I want to re-use multimedia in my multimedia / student paper, thesis, etc._ <a href="https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751" target=_blank>https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118751</a>
