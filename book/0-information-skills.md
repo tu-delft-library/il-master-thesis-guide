@@ -61,18 +61,37 @@ GenAI tools are trained with real-life data. The output can therefore reflect an
 
 ```{tab-item} Copyright
 
-GenAI tools are trained with data that is publicly available. However, the authors of the texts that are used for training purposes did not give permission for this. Although GenAI output does not typically include directly copied passages, often it does include extracted patterns and styles from the works of others. This leads to a grey area of potential copyright infringement. 
+GenAI tools are trained with data that is publicly available. However, the authors of the texts that are used for training purposes did not give permission for this. Although GenAI tools do not typically copy exact passages, they do extract patterns, styles and ideas. This leads to a grey area of potential copyright infringement. In addition, it is often unclear how GenAI tools use the input (prompts) from users. These could also be (and often are) used for training purposes.
+
+It is therefore important to be careful with your GenAI input. Some guidelines include:
+1. never insert personal details
+2. never insert confidential information
+3. only insert work from others if you have their explicit consent (also to avoid copyright infringement).
+
+Be aware that your input may be used for training purposes. If you don’t want your research project to be used for these purposes (for example, because you are dealing with sensitive information or because you don’t want others to know what you are working on), it is advised not to use AI, or use a tool that will run AI models locally on your laptop, like <a href="https://ollama.com/" target=_blank>Ollama</a>.
 ```
 
 ```{tab-item} Deskilling
 
-Completely outsourcing tasks to GenAI tools is not smart, not only because of the possible inaccuracies and biases in the output, but also because it leads to overreliance on GenAI. Overreliance, in turn, can lead to loss of creativity and critical thinking skills. 
+Relying too much on AI limits the development of your critical thinking skills, as well as your mastering of your research subject.  
+
+While using AI during your thesis journey, for example to find information and synthesise your findings might seem like it saves you time, in the end overusing AI can limit the development of a set of skills you will need in your future career. In a recent interview with >a href="https://delta.tudelft.nl/en/article/can-tu-delft-students-continue-without-chatgpt-i-sometimes-feel-guilty-about-using-it" target=_blank>__Delta__</a> several TU Delft students said that while they found AI use was helpful, they worried that its use also limited the development of their critical thinking.
+
+One practical way to think about AI and learning is to distinguish between useful friction and unnecessary friction (adapted from "AI Literacy for Lecturers" by Teaching and Learning Services, TU Delft is licensed CC-BY-NC-SA-4.0) 
+
+Useful friction is effort that contributes to learning. Just as muscles develop through physical effort, you develop knowledge, skills and judgement by working through meaningful challenges. If too much of that effort is taken over by AI, your thesis may still look well, but miss the learning process that gives the result its value.  
+
+Useful friction during your information journey includes, among others, creating a search strategy, reading, and synthesizing your findings. As you are doing this you practice the thinking and decision-making skills for your future career. In addition, by working through this useful friction you learn more about your topic. In the end of your project you need to master your subject and explain how you arrived at your research conclusions or final product: you are the one who is standing on the spot and has to answer questions from your committee.  
+
+Unnecessary friction is effort that does not meaningfully contribute to the intended learning. This may include struggling with formatting, overcoming minor language barriers, converting notes into a clearer structure, or helping to get started with a topic. In these cases, AI may help reduce barriers without necessarily replacing the core learning, but you should consult with your supervisor what is helpful and allowed.  
 
 ```
 
 ```{tab-item} Environment
 
-The environmental impact of GenAI use is significant: great amounts of water and energy are necessary for running the models (i.e., responding to prompts) and training them. Although this is a personal consideration, you could take this into account when you are considering using GenAI tools.
+The <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117" target="_blank">environmental impact of GenAI</a> is significant: it uses great amounts of water and energy for running the models (i.e., responding to prompts) and training them. In addition, building data centers and servers that run these models requires great amounts of (raw) materials. Specifically, a <a href="https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about" target="_blank">United Nations Environment Programme report</a> shows that (1) making a 2 kg computer requires 800 kg of raw materials, (2) the microchips that power AI need rare earth elements, (3) data centers produce electronic waste, which often contains hazardous substances such as mercury and lead, (4) global AI-related infrastructure consumes six times more water than Denmark, a country of 6 million and (5) one request made through ChatGPT consumes 10 times the electricity of a Google search. For more information about the environmental impact, consult this <a href="https://www.greenpeace.org/international/story/82486/ai-energy-environment-democracy/" target="_blank">Greenpeace report</a>, which also highlights the dependency on Big Tech.
+
+Because of the significance of the environmental impact, it is advisable to take this into account when considering using a GenAI tool. For simple tasks, it might be better to do it without GenAI to limit the environmental impact.
 
 ```
 ````
