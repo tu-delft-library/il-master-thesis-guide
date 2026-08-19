@@ -1,6 +1,6 @@
 # 2. Search
 
-## Introduction
+![Search literature](2-search.png)
 
 Once you have selected a topic and an information search question and have done an initial exploration of the academic literature of your field, it is time to start searching for sources you want to use in your project. A good search strategy helps you to find quality sources that are relevant for your project. In this chapter we discuss step-by-step how to set up such a strategy.
 
@@ -9,8 +9,6 @@ Once you have selected a topic and an information search question and have done 
 
 This workflow works best for finding academic sources, but you could also apply the steps when looking for popular or grey literature.
 ```
-
-![Search literature](2-search.png)
 
 Common activities during this phase of your information journey include:
 
@@ -22,5 +20,3 @@ Common activities during this phase of your information journey include:
 
 ## Search Template for Your Master Thesis 
 Want to get started with searching for your project right away? Use the [Search Template](2-handout-search.docx) to fill in as you go through the pages or to set up and store a basic search strategy for scientific literature for your MSc thesis.
-
-
