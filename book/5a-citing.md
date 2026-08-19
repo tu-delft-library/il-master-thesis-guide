@@ -93,6 +93,8 @@ Note: regardless of what reference style you use, a source should always be refe
 ### Formatting image references 
 All reproduced images, photographs, tables and figures in your paper must be cited three times: in the text, in the caption beneath the image (including a copyright statement) and in the reference list. A copyright statement is not necessary if you have bought a stock photo or if the image is your own work. In that case use the words “own work” in the caption or add a note in your text stating that photos or drawings without reference are your own.
 
+For more information on how to write a copyright statement, look at this information from the <a href=https://www.tudelft.nl/library/support/copyright/student-copyright-answers#c1118740 target=_blank>Copyright Information Point</a>
+
 ### Reference list
 A reference list or literature list is a list of all publications (including figures, graphs, tables, datasets etc.) an author refers to (either quotes or paraphrases) in a document to:
 
