@@ -107,7 +107,7 @@ If you have used AI to create tables, figures or images you could list this in t
 
 You can consult the specific policies of the common citation styles here:
 - <a href= "https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai" target=_blank>APA</a>
-- <a href= "https://open.ieee.org/author-guidelines-for-artificial-intelligence-ai-generated-text/" target=_blank>IEEE</a>
+- <a href= "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/#ai-generated-content" target=_blank>IEEE</a>
 
 
 ## References
