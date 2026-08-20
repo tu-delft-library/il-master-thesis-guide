@@ -1,4 +1,4 @@
-# 2c. Evaluating Your Search Strategy
+# 2c. Check and Refine Your Keyword Search
 
 ## Introduction
 After setting up your basic search, you can further refine your keyword search strategy, as well as add additional search strategies. You can evaluate the quantity and relevance of your search results, and subsequently use techniques to either broaden or narrow your initial search.
@@ -10,13 +10,13 @@ After setting up your basic search, you can further refine your keyword search s
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Evaluating Your Keyword Search](#step-1-evaluating-your-keyword-search)<br>
+[Evaluating Your Keyword Search](#step-1-check-quantity-and-relevance)<br>
 Judging the Quantity and Relevance of Your Results
 
 :::
 
 :::{grid-item-card} Step 2<br>
-[Updating Your Keyword Search](#step-2-updating-your-keyword-search)<br>
+[Refine Your Keyword Search](#step-2-refine-your-keyword-search)<br>
 Use basic strategies to broaden or narrow your search
 
 :::
@@ -29,7 +29,7 @@ Use tools like Copilot to improve your search
 
 ::::
 
-## Step 1: Evaluating Your Keyword Search:
+## Step 1: Check Quantity and Relevance:
 Searching is a matter of trial and error, and you do not create a perfect search plan all at once. You create a search plan, try it out, evaluate your search results, edit your search plan, and keep repeating these steps until your search plan is the best you can make it. When you assess your query, you first look at the quantity of your results, followed by how relevant the results are to your question. 
 
 ### Quantity
@@ -40,7 +40,7 @@ Relevance  means that the results of your search are of significance for your re
 
 In a proper literature search about 80% of your search results should be relevant. If all the documents you found are relevant then there is a possibility you are missing important literature, and maybe you should broaden your search.
 
-## Step 2: Updating Your Keyword Search
+## Step 2: Refine Your Keyword Search
 
 ### Broadening Your Search
 When you have found too few results, common techniques to broaden your search include:
@@ -89,6 +89,3 @@ Use the research-based scenario below to practice more with the skills discussed
 
 <iframe src="https://tudelft.h5p.com/content/1292799266045636277/embed" aria-label="2 - Practice - Evaluate Your Search" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
 "<a href="https://tudelft.h5p.com/content/1292799266045636277/embed" target=_blank>Evaluate Your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
-
-## References
-Walma, L., & Looij, M. (2025). _AI Assist: Refining Your Draft Query._ AI for Literature Review. <a href="https://ai-for-literature-review.github.io/Guide/part2/keyword-search.html" target="_blank">https://ai-for-literature-review.github.io/Guide/part2/keyword-search.html
