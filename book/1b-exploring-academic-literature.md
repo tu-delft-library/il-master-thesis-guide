@@ -30,7 +30,7 @@ Formulate a question for your topic that is broad enough to search in a database
 :::
 
 :::{grid-item-card} Step 2<br>
-[Check Basic Information on Topic](#step-2-check-basic-information-on-your-topic)<br>
+[Check Basic Information on Topic](#step-2-find-and-analyse-basic-information-on-your-topic)<br>
 Look at key statistics like top authors, journals, subject areas and keywords to learn more
 
 :::
@@ -66,7 +66,7 @@ Watch a guided research scenario on how to create a good question for an explora
 
 _The video mentions that you should limit an exploration to articles, reviews and letters. If your field communicates a lot through conference papers, you should also include those in your exploration search._
 
-## Step 2: Check Basic Information on Your Topic
+## Step 2: Find and Analyse Basic Information on Your Topic
 
 Once you have formulated a broad question and are happy with the initial results of your exploration, you can use the analysis features of the academic databases Scopus or Dimensions to look up some helpful information about the context of your topic: 
 
