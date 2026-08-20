@@ -70,7 +70,7 @@ Watch the video below for a guided example on how to do this:
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-Please check with your supervisor if you are allowed to use AI in your thesis project
+Check with your supervisor if you are allowed to use AI in your thesis project. If yes, document the tools and prompts you used so you can report your AI use in your thesis.
 ```
 
 If you are allowed to use AI, you can use Copilot to support your keyword search. For example, you can ask it for additional synonyms as you are developing your draft keyword search.
