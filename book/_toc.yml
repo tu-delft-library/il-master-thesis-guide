@@ -19,7 +19,7 @@ parts:
         sections:
           - file: 2a-select-database
           - file: 2b-create-keyword-search
-          - file: 2c-evaluate-search-results
+          - file: 2c-check-refine-keyword-search
           - file: 2d-additional-search-methods
           - file: 2e-document-search
       - file: 3-evaluate-and-select
