@@ -2,7 +2,8 @@
 
 Thank you for consulting this guide! We hope you have all the information you need to get started on working with information throughout your master thesis journey.
 
-We would love to hear what you thought about the guide! You can fill out <a href=https://forms.cloud.microsoft/e/1qwXk7RsgN target=_blank>our survey</a>, or contact the project leader Lisanne Walma via l.w.b.walma@tudelft.nl.
+We would love to hear what you thought about the guide! For questions or comments, you can contact the project leader Lisanne Walma via l.w.b.walma@tudelft.nl. 
+You can also provide feedback via <a href=https://forms.cloud.microsoft/e/1qwXk7RsgN target=_blank>our survey</a> or use the GitHub button on top to open issues or suggest specific edits for a specific page.
 
 ## Additional Resources
 
