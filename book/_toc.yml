@@ -4,7 +4,6 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: Introduction
     chapters:
       - file: about
   - caption: Information Skills for your Thesis
@@ -44,4 +43,3 @@ parts:
       - file: conclusion
       - file: references
       - file: credits
-      - file: feedback
