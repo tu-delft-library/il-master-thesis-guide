@@ -12,4 +12,4 @@ Common activities during this phase of the your information journey include:
 - [5d. Open Science](5d-open-science.md) - Know about open science principles
 
 ## Template for Sharing
-Use the [Sharing Checklist](5-sharing-checklist.docx) to support you in accurately using and reusing the work of others and disclosing genAI use for your thesis.
+Use the [Sharing Template](5-template-share.docx) to support you in accurately using and reusing the work of others and disclosing genAI use for your thesis.
