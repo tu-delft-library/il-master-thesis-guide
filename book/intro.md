@@ -1,19 +1,23 @@
 # Introduction
 
-Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy steps involved during your master thesis process.
+Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy skills you need during your master thesis process.
 
+The guide has two goals:
+- Recapping basic information skills you will have learned during your bachelor (for TU Delft bachelor students; as part of the Information Literacy 1 and Information Literacy 2 courses)
+- Providing basic information, and templates specific for master-level information skills (i.e. advanced searching & source evaluation, synthesizing, exploring academic literature, publishing)
 
-This is a pilot version still under development. 
+This guide is not meant to provide highly detailed information, but provides basic strategies to get started and things to be aware of when working with information during your thesis journey. While basic information skills needed will be the same for any master program, specific details are program-dependent and should be discussed with your thesis supervisor. 
+
+This is a pilot version still under development.
 
 ## Structure of the Guide
 
-
-This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps below:
+This resource is divided into 5 chapters. Each chapter represents an information skill you will need during your master thesis journey. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of your project you are in and what information you need. You can see a detailed overview of the skills below:
 
 ![overview of thesis process](overview-lit-review.png)
 
 ### Learning Goals
-The learning goals of the guide are based on the five phases in your master thesis when you will be working with information. For the different phases, the following learning goals have been formulated: 
+The learning goals of the guide are based on the five information skills you need during your master thesis journey. For the different phases, the following learning goals have been formulated: 
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your master thesis 
 2. **Search**: Set up and store a basic search strategy for scientific literature for your master thesis 
@@ -37,12 +41,11 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 #### Landing Page
 Each chapter includes a landing page. Here you will find:
 - An introduction and an explanation of the value of the topic 
-- An overview of the steps involved in each phase
-- A knowledge quiz that you can use to test how much you know/remember about the information provided by this step
+- An overview of the detailed steps part of the skill
 - A template you can use directly while working on your master thesis
 
 #### Subchapters
-After the landing page, you can find more detailed information on all the steps that are part of each specific phase. When applicable, the chapters include additional guided activities to help you apply the information while working on your master thesis.
+After the landing page, you can find more detailed information on all the steps that are part of each specific skill. When applicable, the chapters include additional guided activities to help you apply the information while working on your master thesis.
 
 ```{admonition} Tip
 :class: tip
@@ -53,10 +56,12 @@ Want to learn from what previous students have done? In the <a href="https://rep
 ## Colophon
 
 ### About the authors
-This guide was created by the Education Support team from the TU Delft Library. The main author is Lisanne Walma.
+This guide was created by the Education Support team from the TU Delft Library. The main author is Lisanne Walma. You can cite the reference as follows:
 
 ### Acknowledgements
-Thank you to all the reviewers involved in reviewing this guide.
+This guide has been created based on input from lecturers at the TU Delft faculties of Aerospace; Industrial Design Engineering; Electrical Engineering, Mathematics & Computer Science and Mechanical Engineering. We would like to thank all the lecturers who made time to be interviewed on their views on information skills for master students and educational needs. 
+
+We would like to thank in particular the lecturers from AE and IDE and the Spice team for their support in co-creating the pilot version of the guide.
 
 ### Sources
 The sources that were used for this guide are referenced at the end of each section.
