@@ -12,7 +12,5 @@ Common activities during this phase of the your information journey include:
 - [1b. Explore Academic Literature](1b-exploring-academic-literature.md) - Know how to do an initial exploration of academic literature
 - [1c. Formulate an Information Search Question](1c-formulate-information-question.md) - Know how to formulate information search questions
 
-## Exploration Template for Your Master Thesis 
-Want to get started with searching for your project right away? 
-
-- Use the [Exploration Template](1-handout-exploration.docx) to fill in as you go through the pages or to set up and store your findings for the orientation part of your master thesis.
+## Exploration Template 
+You can use the [Exploration Template](1-template-explore.docx) to help you get started with this skill and to document your strategies and findings.
