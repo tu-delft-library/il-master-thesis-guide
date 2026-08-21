@@ -12,5 +12,4 @@ This is a pilot version still under development.
 
 For questions or feedback, please contact the project leader Lisanne Walma via l.w.b.walma@tudelft.nl. 
 
-We also invite you to fill out our feedback survey or use the GitHub button on top to open issues or suggest specific edits for each page.
-
+We also invite you to fill out our <a href=https://forms.cloud.microsoft/e/1qwXk7RsgN target=_blank>feedback survey</a> or use the GitHub button on top to open issues or suggest specific edits for a specific page.
