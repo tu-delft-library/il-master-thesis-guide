@@ -16,4 +16,4 @@ Common activities during this phase of the your information journey include:
 - [4c. Synthesise](4c-synthesise.md) - comparing sources, or connecting the findings in the literature to your research results
 
 ## Template for Process
-The template for Process is still under development. 
+You can use the [Process Template](4-template-process.docx) to support you as you start processing your selected sources.
