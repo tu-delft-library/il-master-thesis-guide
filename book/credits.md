@@ -1,53 +1,36 @@
-(credits)=
 # Credits and License
 
 You can refer to this book as:
 
-> `<editors>` from Delft University of Technology (`<year>`) _`<title>`_. `<url to book website>`. Source files at `<link to github repo`. CC BY 4.0.
+> Walma, L. (2026). _Information Skills Master Thesis Guide_. https://tu-delft-library.github.io/il-master-thesis-guide/dev/intro.html. Source files at https://github.com/tu-delft-library/il-master-thesis-guide. CC BY 4.0.
 
 You can refer to individual chapters or pages within this book as:
 
-> `<Title of Chapter or Page>`. In `<editors>` from Delft University of Technology (`<year>`) _`<title>`_. `<url to specific page on book website>`. Source files at `<link to specific commit / file in github repo`. CC BY 4.0.
+> **Title of Chapter or Page**. In Walma, L. (2026). _Information Skills Master Thesis Guide_. **url to specific page on book website**. Source files at https://github.com/tu-delft-library/il-master-thesis-guide. CC BY 4.0.
 
 We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location/commit within the book.
-
-## How the book is made
-This website is written in markdown and jupyter notebooks files, which are converted to html using tools from [TeachBooks](https://teachbooks.io/). The files are stored on a [public GitHub repository](`<link to GitHub repo>`). The website can be viewed at `<link to book website url>`.
-
-To recreate the website you have two options (more information in the [TeachBooks manual](https://teachbooks.io/manual/):
-- In the GitHub interface: fork this repository, enable Github Pages from the source GitHub actions (Settings - Code and automation - Pages - Build and deployment - Source - GitHub Actions), enable workflows (Actions - I understand my workflows, go ahead and enable them) and run the call-deploy-book workflow (Actions - call-deploy-book - Run workflow - Run workflow). The website is released on the URL as shown on the workflow summary when the workflow has finished (Actions - call-deploy-book - call-deploy-book - Summary).
-- On your own computer: clone this repository, install the required packages (`pip install -r requirements.txt`) and build the book (`teachbooks build book`). The website is stored locally in `book/_build/index.html`.
 
 ## License
 This book is [CC BY 4.0 licensed](https://creativecommons.org/licenses/by/4.0/) allowing you to share and adapt the material, as long as the source is named. External resources that are reused in this book are listed below.
 
-(external_resources)=
-### External resources
+### Sources
+The sources that were used for this guide are referenced at the end of each section.
 
-Parts of this book are taken from other external resources and reused in various ways. If an author is not listed on a particular page, it is by the Authors, except as follows:
+In addition to the sources referenced this guide reuses materials from:
 
-The following pages are included directly from an external resource and is not edited by `<Editor>`:
-- The following pages includes text from {cite:t}`template`. Original content licensed under CC BY 4.0 License:
-  - [](./exercises.md)
-  - [](./exercises/002.md)
-  - [](./exercises/003.md)
-  - [](./exercises/004.md)
-  - [](./exercises/005.md)
-  - [](./exercises/006.md)
-  - [](./syntax_exercises.md)
-  - [](./syntax_exercises/007.md)
-  - [](./syntax_exercises/008.md)
-  - [](./syntax_exercises/009.md)
-  - [](./syntax_exercises/010.md)
-  - [](./syntax_exercises/011.md)
-  - [](./exercises/summary.md) 
+- The Information Literacy 1 and Information Literacy 2 courses at TU Delft.
+- <a href="https://www.tudelft.nl/tulib" target=_blank>"TUlib"</a> by <a href="https://www.tudelft.nl/en/library/" target=_blank>TU Delft Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC BY-SA 4.0</a>
+- <a href="https://ai-for-literature-review.github.io/Guide/about.html" target=_blank>"AI for Literature Review"</a> by <a href="https://www.tudelft.nl/en/library/" target=_blank>TU Delft Library Education Support</a> & <a href="https://www.tudelft.nl/en/tpm/itav" target=_blank>Centre for Languages and Academic Skills</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target=_blank>CC BY 4.0</a>
 
-The following pages contain content written by others, part of has been reused and/or modified by `<Editor>`
-- Page [](./exercises/001.md) includes text from {cite:t}`template` and is edited to be made TU Delft-specific. Original content licensed under CC BY 4.0 License. 
-- Page [](./syntax_exercises/012.md) includes text from {cite:t}`template` and is edited to be made TU Delft-specific. Original content licensed under CC BY 4.0 License. 
+### Images
+Unless otherwise specified the images used on these pages are adapted from <a href="https://undraw.co/" target="_blank">unDraw</a>, licensed <a href="https://undraw.co/license" target="_blank">open-source</a> by Katerina Limpitsouni.
 
+### Disclosure of AI Use
+While creating this guide, we used AI for:
+- Brainstorming and refining guided activities
+- Drafting/brainstorming knowledge check questions
+- Cleaning up formatting
 
-(editor)=
-## About the Editors
-
-### Acknowledgements
+AI tools used: 
+- OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025) [Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
+- Microsoft. (2025). _Copilot_ (January 2026 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
