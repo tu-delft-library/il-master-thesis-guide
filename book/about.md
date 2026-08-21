@@ -1,19 +1,20 @@
 # Introduction
+Welcome to the _Information Skills Master Thesis Guide_. This guide was created to be used as a reference for all the information skills you need during your master thesis process.
 
-Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy steps involved during your master thesis process.
+The guide has two goals:
+- Recapping basic information skills you will have learned during your bachelor (for TU Delft bachelor students; as part of the Information Literacy 1 and Information Literacy 2 courses)
+- Providing basic information, and templates specific for master-level information skills (i.e. advanced searching & source evaluation, synthesizing, exploring academic literature, publishing)
 
-
-This is a pilot version still under development. 
+This guide is not meant to provide highly detailed information, but provides basic strategies to get started and things to be aware of when working with information during your thesis journey. While basic information skills needed will be the same for any master program, specific details are program-dependent and should be discussed with your thesis supervisor. 
 
 ## Structure of the Guide
 
-
-This resource is divided into 5 chapters. Each chapter represents a phase in your master thesis where you need to use information. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of the project you are in. You can see a detailed overview of the steps below:
+This resource is divided into 5 chapters. Each chapter represents an information skill you will need during your master thesis journey. The guide is not meant to be read front to back in one go. Instead, you can consult the different chapters depending on which phase of your project you are in and what information you need. You can see a detailed overview of the skills below:
 
 ![overview of thesis process](overview-lit-review.png)
 
 ### Learning Goals
-The learning goals of the guide are based on the five phases in your master thesis when you will be working with information. For the different phases, the following learning goals have been formulated: 
+The learning goals of the guide are based on the five information skills you need during your master thesis journey. For the different phases, the following learning goals have been formulated: 
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your master thesis 
 2. **Search**: Set up and store a basic search strategy for scientific literature for your master thesis 
@@ -37,12 +38,11 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 #### Landing Page
 Each chapter includes a landing page. Here you will find:
 - An introduction and an explanation of the value of the topic 
-- An overview of the steps involved in each phase
-- A knowledge quiz that you can use to test how much you know/remember about the information provided by this step
+- An overview of the detailed steps part of the skill
 - A template you can use directly while working on your master thesis
 
 #### Subchapters
-After the landing page, you can find more detailed information on all the steps that are part of each specific phase. When applicable, the chapters include additional guided activities to help you apply the information while working on your master thesis.
+After the landing page, you can find more detailed information on all the steps that are part of each specific skill. When applicable, the chapters include additional guided activities to help you apply the information while working on your master thesis.
 
 ```{admonition} Tip
 :class: tip
@@ -50,34 +50,13 @@ Want to learn from what previous students have done? In the <a href="https://rep
 
 ```
 
-## Colophon
+#### Templates & Handouts
+We have a document available with a short handout, and the combined templates for each of the chapters:
+- [Combined Templates](combined-templates-master-thesis-guide.docx)
 
-### About the authors
-This guide was created by the Education Support team from the TU Delft Library. The main author is Lisanne Walma.
-
-### Acknowledgements
-Thank you to all the reviewers involved in reviewing this guide.
-
-### Sources
-The sources that were used for this guide are referenced at the end of each section.
-
-In addition to the sources referenced this guide reuses materials from:
-
-- The Information Literacy 1 and Information Literacy 2 courses at TU Delft.
-- <a href="https://www.tudelft.nl/tulib" target=_blank>"TUlib"</a> by <a href="https://www.tudelft.nl/en/library/" target=_blank>TU Delft Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC BY-SA 4.0</a>
-- <a href="https://ai-for-literature-review.github.io/Guide/about.html" target=_blank>"AI for Literature Review"</a> by <a href="https://www.tudelft.nl/en/library/" target=_blank>TU Delft Library Education Support</a> & <a href="https://www.tudelft.nl/en/tpm/itav" target=_blank>Centre for Languages and Academic Skills</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target=_blank>CC BY 4.0</a>
-
-### Images
-Unless otherwise specified the images used on these pages are adapted from <a href="https://undraw.co/" target="_blank">unDraw</a>, licensed <a href="https://undraw.co/license" target="_blank">open-source</a> by Katerina Limpitsouni.
-
-
-### Disclosure of AI Use
-While creating this guide, we used AI for:
-- Brainstorming and refining guided activities
-- Drafting/brainstorming knowledge check questions
-- Cleaning up formatting
-
-AI tools used: 
-- OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025) [Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
-- Microsoft. (2025). _Copilot_ (January 2026 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
-- EduGenAI Chat (2026). 
+You can consult the individual templates for each of the chapters to apply the skills as you are working on your thesis:
+- [Chapter 1: Explore](1-template-explore.docx)
+- [Chapter 2: Search](2-template-search.docx)
+- [Chapter 3: Evaluate](3-template-evaluate.docx)
+- [Chapter 4: Process](4-template-process.docx)
+- [Chapter 5: Share](5-template-share.docx)
