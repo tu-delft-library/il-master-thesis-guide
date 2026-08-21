@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Information Literacy Master Thesis Guide. This guide was created to be used as a reference for all the information literacy skills you need during your master thesis process.
+Welcome to the Master Thesis Guide for Information Skills! This guide was created to be used as a reference for all the information skills you need during your master thesis process.
 
 The guide has two goals:
 - Recapping basic information skills you will have learned during your bachelor (for TU Delft bachelor students; as part of the Information Literacy 1 and Information Literacy 2 courses)
