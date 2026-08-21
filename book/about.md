@@ -1,4 +1,4 @@
-# Introduction
+# About this Guide
 Welcome to the _Information Literacy Master Thesis Guide_. This guide was created to be used as a reference for all the information skills you need during your master thesis process.
 
 The guide has two goals:
