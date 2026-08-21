@@ -42,4 +42,6 @@ parts:
   - caption: Conclusion
     chapters:
       - file: conclusion
+      - file: references
+      - file: credits
       - file: feedback
