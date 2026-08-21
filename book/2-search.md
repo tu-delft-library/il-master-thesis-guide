@@ -18,5 +18,5 @@ Common activities during this phase of your information journey include:
 - [2d. Additional Search Methods](2d-additional-search-methods.md) - Use additional strategies to find literature
 - [2e. Keeping Track of Your Search](2e-document-search.md) - Know how to document and update your search and use search alerts to stay up to date
 
-## Search Template for Your Master Thesis 
-Want to get started with searching for your project right away? Use the [Search Template](2-handout-search.docx) to fill in as you go through the pages or to set up and store a basic search strategy for scientific literature for your MSc thesis.
+## Search Template
+You can use the [Search Template](2-template-search.docx) to help you get started with this skill and to document your strategies and findings.
