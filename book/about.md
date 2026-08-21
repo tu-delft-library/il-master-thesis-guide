@@ -34,14 +34,14 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 | **5: Share**<br>Apply correct citation and copyright practices when sharing the results of your master thesis. Know about open science principles | 5a. Understand ways of citing, apply a correct referencing style and create a reference list for a variety of sources<br>5b. Know why and how you should acknowledge the use of AI in your work<br>5c. Correctly (re)use sources in accordance with their copyright licensing<br>5d. Know about open science principles |
 ```
 
-### Chapter Structures
-#### Landing Page
-Each chapter includes a landing page. Here you will find:
+### Book Structures
+The book starts with a chapter that provides an overview of all the information skills that you need during your master thesis, and how they relate to different phases in the research process. If you are new to the book, we recommend you start here.
+
+Following this are five chapters, related to the five skills. Each chapter includes a landing page. Here you will find:
 - An introduction and an explanation of the value of the topic 
 - An overview of the detailed steps part of the skill
 - A template you can use directly while working on your master thesis
 
-#### Subchapters
 After the landing page, you can find more detailed information on all the steps that are part of each specific skill. When applicable, the chapters include additional guided activities to help you apply the information while working on your master thesis.
 
 ```{admonition} Tip
