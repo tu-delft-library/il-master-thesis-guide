@@ -36,7 +36,7 @@ In _backward snowballing_, you take a very recent key article and find more rele
 
 Watch the first part of this brief explainer to learn in detail how to use these additional ways of searching:
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" target=_blank>Additional Ways of Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" target=_blank>Alternative Ways of Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ## Step 2: Similar Document Searching
 Using similar documents searching in Dimensions helps to find new relevant articles based on a relevant abstract or your thesis plan.
@@ -44,7 +44,7 @@ Using similar documents searching in Dimensions helps to find new relevant artic
 Watch the second part (starts at 2:44) of this brief explainer to learn in detail how to use this additional ways of searching:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" target=_blank>Additional Ways of Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" target=_blank>Alternative Ways of Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ## Step 3: AI Searching
 
