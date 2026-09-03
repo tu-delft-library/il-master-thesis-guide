@@ -51,7 +51,7 @@ When you have found too few results, common techniques to broaden your search in
 
 Watch the video below for a guided example on how to do this.
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" target=_blank>Broadening</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" target=_blank>Searching How-to Part 2: Broadening your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ### Narrowing Your Search
 When you have found too many results, common techniques to narrow down your search include:
@@ -63,7 +63,7 @@ When you have found too many results, common techniques to narrow down your sear
 Watch the video below for a guided example on how to do this:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" target=_blank>Narrowing</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" target=_blank>Searching How-to Part 3: Narrowing your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 
 ### Step 3: Use AI to Help Refine Your Draft Query
