@@ -121,5 +121,5 @@ Adapted from "Summary Part 1: Effective and Responsible GenAI Use". Walma, L., &
 ```
 
 ## References
-- Meijer, E.-J. (2023). Visualisation learning trajectory information literacy. Subject Matter - Information Literacy. <a href=https://www.shb-online.nl/information-literacy-en/subject-matter/ target=_blank>https://www.shb-online.nl/information-literacy-en/subject-matter/</a>
+- Meijer, E.-J. (2023). Visualisation learning trajectory information literacy. <a href=https://www.shb-online.nl/download/visualisation-overview-learning-trajectory-information-literacy-project-open-badges target=_blank>https://www.shb-online.nl/download/visualisation-overview-learning-trajectory-information-literacy-project-open-badges</a>
 - Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a>
