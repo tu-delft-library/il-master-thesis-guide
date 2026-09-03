@@ -10,7 +10,7 @@ The terms research question and information search question are sometimes used i
 
 - Information search questions help you find out what _others_ have designed or researched about your topic or research question. They are directly related to your (draft) research question, but can be answered by conducting a literature search.
 
-As discussed in [this section](0-information-skills.md): there are multiple phases in a master thesis when you will need to search for information from others. For each of these phases, your information needs and resulting information search questions will likely differ.  You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you might want to look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
+As discussed in [Overview of Information Skills](0-information-skills.md): there are multiple phases in a master thesis when you will need to search for information from others. For each of these phases, your information needs and resulting information search questions will likely differ.  You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you might want to look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
 
 ::::{grid}
 :gutter: 2
@@ -57,7 +57,10 @@ From this concept map we have formulated the following information search questi
 Another possible information search question could be:
 - **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
-Want to learn more about how to get started with conceptmapping? Have a look at <a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>this video about concept mapping</a>
+Want to learn more about how to get started with conceptmapping? Have a look at the video below about concept mapping from Appalachian State University Libraries
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_8rNiW4A9A?si=kTJJNRIj6Qe-k0KF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+"<a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>Concept Mapping for Developing your Research</a>" by <a href="https://www.youtube.com/@AppStateLib" target=_blank>Appalachian State University Libraries</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
 ## Step 2: Further Specifying Your Question
 
@@ -72,7 +75,7 @@ Once you have your initial question, you can look at its different components an
 | WHY | Improving inkless printed materials | Improve readability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts |
 | HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in European higher education institutions by using UV-LED optical technology? | How can the readability of diagrams and formulas on inkless printed teaching materials at TU Delft be improved using method A of UV-LED optical technology? |
 
-<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Adapted from "From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
+Adapted from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
 Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
 
 Please note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.<br><br>
