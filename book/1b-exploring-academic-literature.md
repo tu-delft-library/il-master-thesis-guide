@@ -62,7 +62,7 @@ This number may seem like a lot, but remember: The goal of an exploration is not
 Watch a guided research scenario on how to create a good question for an exploration:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/6b57e5d3ee414beba6c6f4b3b4379cce1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/6b57e5d3ee414beba6c6f4b3b4379cce1d" target=_blank>Setting up your Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/6b57e5d3ee414beba6c6f4b3b4379cce1d" target=_blank>Exploration How-to Part 1</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 _The video mentions that you should limit an exploration to articles, reviews and letters. If your field communicates a lot through conference papers, you should also include those in your exploration search._
 
@@ -82,7 +82,7 @@ The keywords lists provided by Scopus or Dimensions, or the first 20 abstracts o
 Watch a guided research scenario on how to interpret the results of an exploration
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/375db89ade9b4fb1bb3fa799df36fa181d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/375db89ade9b4fb1bb3fa799df36fa181d" target=_blank>Analyzing the Results from Your Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/375db89ade9b4fb1bb3fa799df36fa181d" target=_blank>Exploration How-to Part 2</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ```{admonition} Expert Software for Exploring Scientific Literature
 :class: dropdown tip
