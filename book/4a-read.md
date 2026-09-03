@@ -61,7 +61,7 @@ You already checked for relevance when you were selecting these resources, but w
 3.	**How much time do I have?**
 There will often be more resources to read than you have time, so you must prioritise! Check the number of pages of the resources and their complexity and relevance to your information search question. How much time do you estimate it would take to go through each of them? Which ones seem worth your time? 
 
-When deciding your reading order, and also when close reading, continue examining if the sources you selected are relevant or reliable. A resource might have slipped through during your [previous CRAAP assessment](3b-evaluating sources.md) or your understanding of your topic might have changed, and a source that originally looked good might now seem less relevant or reliable. If so, drop it (record why in your reference manager or research notes) and move on. If you notice that a lot of your resources are not relevant, you may need to return to your search strategy and refine it to find more relevant resources.
+When deciding your reading order, and also when close reading, continue examining if the sources you selected are relevant or reliable. A resource might have slipped through during your [previous CRAAP assessment](3b-evaluating-sources.md) or your understanding of your topic might have changed, and a source that originally looked good might now seem less relevant or reliable. If so, drop it (record why in your reference manager or research notes) and move on. If you notice that a lot of your resources are not relevant, you may need to return to your search strategy and refine it to find more relevant resources.
 
 ```{admonition} Tip: Be flexible
 :class: tip
