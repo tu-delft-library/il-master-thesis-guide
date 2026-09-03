@@ -7,13 +7,13 @@ When starting your search, a first step is to determine what databases you will 
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Academic Databases](#step-2-know-about-academic-databases)<br>
+[Know about Academic Databases](#step-1-know-about-academic-databases)<br>
 Know about different types of academic databases
 
 :::
 
 :::{grid-item-card} Step 2<br>
-[Accessing the A-Z List](#step-1-use-the-a-z-list-from-tu-delft-to-access-the-databases)<br>
+[Access Databases Through the A-Z List](#step-2-access-databases-through-the-a-z-list)<br>
 Access the databases of TU Delft
 
 :::
@@ -77,9 +77,9 @@ Below is an overview of the main differences:
  
 To make sure you get the best results you can do a combination of one or more multidisciplinary databases with at least one subject-specific database. 
 
-## Step 2: Use the A-Z List from TU Delft to Access the Databases
+## Step 2: Access Databases through the A-Z list
 
-The [A-Z list from the TU Delft](https://databases.tudl.tudelft.nl/) is a good resource to find the topic-specific databases you need for your project. It includes all the information databases we have available for TU Delft students. 
+The [A-Z list from the TU Delft library](https://databases.tudl.tudelft.nl/) is a good resource to find the topic-specific databases you need for your project. It includes all the information databases we have available for TU Delft students. 
 
 The screencast below shows how to access the list:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
