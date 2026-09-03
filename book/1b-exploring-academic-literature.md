@@ -51,7 +51,7 @@ an exploration question should be on a broader level, like:
 
 **2: Choose a multidisciplinary academic database:**
 
-Because in an exploration your goal is to look broadly at the different research that is being done on your topic, you should use a database that includes a wide variety of disciplines. For TU Delft students, the databases Dimensions and Scopus are a good starting point.
+Because in an exploration your goal is to look broadly at the different research that is being done on your topic, you should use a database that includes a wide variety of disciplines. For TU Delft students, the databases <a href="https://app.dimensions.ai/discover/publication" target="_blank">Dimensions</a> and <a href="https://www.scopus.com/" target="_blank">Scopus</a> are a good starting point.
 
 **3: Apply filters for articles, reviews, letters (and conference papers if relevant)**
 
