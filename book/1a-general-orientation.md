@@ -31,13 +31,13 @@ Some suggestions from Maastricht University can help you to make this process ea
 - Look for a topic that builds on existing research rather than doing something completely new to avoid that your project becomes too big.
 - Look into current events for inspiration
 
-Once you have an initial topic you are interested in, you can write down what you already know about the topic. There are multiple brainstorming techniques you could use for this. You can find some examples in the tab below. For more techniques, you can consult <a href="https://writingcenter.unc.edu/tips-and-tools/brainstorming/" target=_blank>this guide</a>  (the Writing Center of The University of North Carolina, n.d.)
+Once you have an initial topic you are interested in, you can write down what you already know about the topic. There are multiple brainstorming techniques you could use for this. You can find some examples in the tab below. For more techniques, you can consult <a href="https://writingcenter.unc.edu/tips-and-tools/brainstorming/" target=_blank>"Brainstorming"</a>, a guide from the Writing Center of The University of North Carolina.
 
 ````{tab-set}
 
 ```{tab-item} Freewrite
 
-When you freewrite, you set a timer and just begin writing on your topic without stopping (for example for 15 minutes, or a specific number of pages). You can do this by hand or on a laptop, as you prefer. After you are done writing, re-read what you wrote and filter out any specific ideas or knowledge that strike you as relevant. You can place these in a new overview or list and develop your orientation further from this point. 
+When you freewrite, you set a timer and just begin writing on your topic without stopping (for example for 15 minutes, or a specific number of pages). You can do this by hand or on a laptop, as you prefer. After you are done writing, re-read what you wrote and filter out any specific ideas or knowledge that strike you as relevant. You can place these in a new overview or list and develop your orientation further from this point (The Writing Center, University of North Carolina at Chapel Hill, n.d.).
 
 ```
 ```{tab-item} Mindmaps
@@ -71,7 +71,7 @@ These are:
 - Why?
 - How?
 
-Write them down and try to answer each one of these questions for your initial topic. By doing this you activate your own pre-existing knowledge about the topic, and you can then supplement your initial ideas with information from general searches.
+Write them down and try to answer each one of these questions for your initial topic. By doing this you activate your own pre-existing knowledge about the topic, and you can then supplement your initial ideas with information from general searches (The Writing Center, University of North Carolina at Chapel Hill, n.d.).
 
 ```
 ````
