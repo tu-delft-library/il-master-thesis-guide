@@ -1,8 +1,8 @@
-# Overview
+# Overview of Information Skills
 When doing your master thesis, there are multiple points where you will need information from others. For example, you need to find out what others have done so you can find out what would be a good research question to start working on. Perhaps you need to find out how others have designed a specific product so you can reuse or build further around this method. Or maybe you have done your research and need to see how your findings relate to what other researchers have found. To be able to do this effectively and responsibly during your master thesis, you will need the following information skills: <br><br>
 
 ![overview of thesis process](overview-lit-review.png)<br>
-Adapted from "<a href=https://www.shb-online.nl/information-literacy-en/subject-matter/ target=_blank>Visualisatie leerlijn Information Literacy</a>" by <a href=https://www.shb-online.nl/information-literacy-en/subject-matter/ target=_blank>Edo-Jan Meijer</a> is licensed under <a href=https://creativecommons.org/licenses/by-nc/4.0/deed.en target=_blank>CC-BY-NC</a>.<br>
+Adapted from "<a href=https://www.shb-online.nl/download/visualisation-overview-learning-trajectory-information-literacy-project-open-badges/ target=_blank>Visualisatie leerlijn Information Literacy</a>" by <a href=https://www.shb-online.nl/download/visualisation-overview-learning-trajectory-information-literacy-project-open-badges/ target=_blank>Edo-Jan Meijer</a> is licensed under <a href=https://creativecommons.org/licenses/by-nc/4.0/deed.en target=_blank>CC-BY-NC</a>.<br>
 
 1. **Explore**: Apply basic steps for orientation on the topic or question of your master thesis 
 2. **Search**: Set up and store a basic search strategy for scientific literature for your master thesis 
