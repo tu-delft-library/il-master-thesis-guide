@@ -10,14 +10,16 @@ There are multiple types of reading you will encounter and use for different pur
 ```{tab-item} Skimming & Scanning
 
 **What is it**: _Skimming_ is quickly glancing over a text to take in key text features that give clues about the context of the text, such as sub-headings, graphs and figures. This type of reading is really useful when you are still deciding whether a resource is relevant and reliable for your research project in a broad sense.
-When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it. 
-When to use it: 
+When you _scan_ an article, you are looking at specific parts of a text. Maybe you are looking for specific information on keywords or methodologies mentioned in a text, or maybe you want to first evaluate a source in more detail before you decide to read and process it (Leiden University ATC Academic reading & writing, n.d.).
+
+**When to use it**: 
 1.	During evaluation of sources
 2.	To prioritise which sources to read and in what order
 
 ```
 ```{tab-item} Close Reading
-**What is it**: _Close reading_, also called active reading, is a deliberate, focused and slow type of reading where you carefully examine a text to understand it - which includes actively asking yourself questions about the text, annotating/circling the text and taking notes while reading. It requires you to understand the authors’ thought sequence, how different parts of the text relate to each other, and what data and argumentation the conclusions are based on. 
+**What is it**: _Close reading_, also called active reading, is a deliberate, focused and slow type of reading where you carefully examine a text to understand it - which includes actively asking yourself questions about the text, annotating/circling the text and taking notes while reading. It requires you to understand the authors’ thought sequence, how different parts of the text relate to each other, and what data and argumentation the conclusions are based on (Leiden University ATC Academic reading & writing, n.d.).
+
 After you have close read a source you should be able to understand and summarise it. This may require multiple re-reads, and perhaps looking up  terminology or parts that you do not understand yet in other resources. 
 
 **When to use it**: To really understand a text (and as a start to summarise it and gather key bits such as quotes and findings, that will help you answer some of your specific information search questions). 
@@ -89,7 +91,7 @@ Reading requires focus, and taking care of an optimal reading environment can he
 -	Choose a reading environment that works for your personal attention span. Do you need a quiet environment? Or can you focus best in noisier environments like a café or studying with fellow students?
 -	Minimise disturbances or distractions: Turn on Do Not Disturb mode on your phone and computer, put on focus music (white noise, instrumental, or whatever genre works for you).
 -	Take regular breaks: For example every 25 minutes (you could use a Pomodoro timer for this). Manage your energy and also recognise when you need to take a longer break or stop for the day.
--	Reach out to fellow students: if you know they are reading the same articles to discuss. Hearing different perspectives on an article can often help deepen your understanding.
+-	Reach out to fellow students: if you know they are reading the same articles, you could discuss your initial findings with them. Hearing different perspectives on an article can often help deepen your understanding.
 -	Go in with a curious mindset: Be interested in discovering new perspectives that may not be yours or may be unclear at first. And be willing to examine perspectives that may be conflicting.
 ```
 
@@ -139,7 +141,7 @@ As you close read the text, make sure you take notes. If you don’t, you may lo
 6.	Create a glossary of terms (term, definition, link to resource), this allows you to manage your knowledge of frequently used terms, and might be helpful to include in your end-product.
 7.	Are there certain things, such as terms, concepts or arguments, that you do not understand yet? Make a note of this so you can come back to it.
 
-Tip: The choice of your preferred notetaking app and style of notetaking is based on your personal preference. There are a lot of tools available for you to use. Have a look at this video on notetaking styles to help you reflect on what type of notetaking tool might work best for you: (link out https://www.youtube.com/watch?v=f3dDVtJ2sec )
+Tip: The choice of your preferred notetaking app and style of notetaking is based on your personal preference. There are a lot of tools available for you to use. Have a look at the video <a href="https://www.youtube.com/watch?v=f3dDVtJ2sec" target=_blank>"Which Note App are You?"</a> from Tiago Forte to help you reflect on what type of notetaking tool might work best for you.
 
 **Expect to Read a Source Multiple Times:**
 
@@ -151,19 +153,19 @@ If this is the case, you can always come back to it later, for example when you 
 ```{admonition} Tip to Support Reading: Text-to-speech software 
 :class: dropdown tip
 Text-to-speech software
-If you have difficulty reading, for example because of dyslexia, you could try text-to-speech software (or TTS) to have your computer read aloud to you. TU Delft offers <a href="https://www.tudelft.nl/en/library/collections/literature-search/help-with-dyslexia" target=_blank>a TextAid license</a> free of charge for all students.
+If you have difficulty reading, for example because of dyslexia, you could try text-to-speech software (or TTS) to have your computer read aloud to you. TU Delft offers <a href="https://www.tudelft.nl/en/library/collections/literature-search/help-with-dyslexia" target=_blank>a free TextAid license</a> for all students.
 ```
 
 ### Update Your Search Strategy
 
 While you have made an initial search strategy using the knowledge you had at the time, as you close read relevant articles your ideas will likely evolve and you may need to adapt your search strategy to find more relevant articles. Some suggestions: 
 - When you are close reading through your sources, take notes of relevant keywords you come across and update your literature search. 
-- If an article is highly relevant, consider using this as a key article to do snowballing or similar document searching to find additional literature (see also: [2d - additional search methods](2d-additional-search-methods.md))
+- If an article is highly relevant, consider using this as a key article to do snowballing or similar document searching to find additional literature (see also: [2d: Additional Search Methods](2d-additional-search-methods.md))
 
 
 ## Step 3: When to Stop Reading and Searching
 
-As discussed in [0-information-skills](0-information-skills.md), there are multiple moments during your thesis when you will need to search, evaluate and read information from others. In the beginning of your project you will conduct an in-depth review on what others have done, when conducting your project you might need to periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. Throughout your project you also synthesise your findings with what others have done.
+As discussed in [Overview of Information Skills](0-information-skills.md), there are multiple moments during your thesis when you will need to search, evaluate and read information from others. In the beginning of your project you will conduct an in-depth review on what others have done, when conducting your project you might need to periodically search for sources, based on new concepts you encounter, the results you are finding, and to check if any new research has come out. Throughout your project you also synthesise your findings with what others have done.
 
 This means that you do not stop searching and reading entirely throughout your project.
 
@@ -194,4 +196,4 @@ If you feel like after a significant time reading and searching you are still ov
 - Leiden University ATC Academic reading & writing. (n.d.). _Reading well_ [Video]. Leiden University MediaSpace™ video portal. <a href="https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1" target=_blank>https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1</a>
 - Lumen. (n.d.). _Reading, Noting, & Synthesizing Sources_. College Reading and Writing. <a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/" target=_blank>https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/</a>
 - PittCCLibrary. (2016, January 6). _How to Read a Scholarly Article_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=c3tV8g70YuU" target=_blank>https://www.youtube.com/watch?v=c3tV8g70YuU</a>
-- **Source: Video: https://youtu.be/SKxm2HF_-k0 How To Read an Academic Paper, UBC iSchool**
+- UBC iSchool. (2013) _How to Read an Academic Paper_ [Video]. YouTube. <a href="https://youtu.be/SKxm2HF_-k0" target="_blank">https://youtu.be/SKxm2HF_-k0</a>
