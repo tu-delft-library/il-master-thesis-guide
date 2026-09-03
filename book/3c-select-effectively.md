@@ -2,14 +2,14 @@
 
 ## Introduction
 
-When conducting a search in academic databases, you might end up with a large amount of sources to select from. While a good content search might provide you with 200 - 300 academic articles to evaluate, you will likely not want to use all those articles in your master thesis. Moreover, you want to keep an overview of what you have selected and why. On this page walk through the process step-by-step. Keep in mind the ways for evaluating reliability and relevance as you go through this process
+When conducting a search in academic databases, you might end up with a large amount of sources to select from. While a good content search might provide you with 200 - 300 academic articles to evaluate, you will likely not want to use all those articles in your master thesis. Moreover, you want to keep an overview of what you have selected and why. On this page walk through the process step-by-step. Keep in mind the ways for evaluating reliability and relevance as you go through this process.
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
 The amount of academic sources that you can find will differ for each academic field. The workflow in this chapter is especially relevant if you are working on a topic with a lot of publications, and you should check with your supervisor how many sources you are expected to find and select in your specific situation.
 ```
 
-Now that you have done your initial search, analysed and refined your search results, it is time to select articles that you will read for your master thesis.
+Now that you have done your initial search, analysed and refined your search results, it is time to select articles that you will read for your master thesis. You can use the [template for Evaluating and Selecting](3-template-evaluate.docx) as you go through this process.
 
 You can watch a short video recap and see a research scenario here below:
 
