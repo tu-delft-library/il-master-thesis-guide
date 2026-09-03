@@ -12,9 +12,9 @@ This workflow works best for finding academic sources, but you could also apply 
 
 Common activities during this phase of your information journey include:
 
-- [2a. Select Databases](2a-select-database.md) - Know different types of academic databases and where to find them
+- [2a. Select Academic Databases](2a-select-database.md) - Know different types of academic databases and where to find them
 - [2b. Create a Keyword Search](2b-create-keyword-search.md) - Set up a keyword search strategy
-- [2c. Evaluating Your Search Strategy](2c-evaluate-search-results.md) - Check and improve an initial keyword search strategy
+- [2c. Check and Refine Your Keyword Search](2c-check-refine-keyword-search.md) - Check and improve an initial keyword search strategy
 - [2d. Additional Search Methods](2d-additional-search-methods.md) - Use additional strategies to find literature
 - [2e. Keeping Track of Your Search](2e-document-search.md) - Know how to document and update your search and use search alerts to stay up to date
 
