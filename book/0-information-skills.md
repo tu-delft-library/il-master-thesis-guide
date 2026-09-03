@@ -30,7 +30,7 @@ Don't wait until the end to write down all your observations: try to already
 When you finish your project and write your conclusion and discussion, you synthesise your observations, findings and notes with what others have done. This means looking once more at the sources you have processed throughout your project, and discussing how your findings connect to these sources. In addition, in this phase, citing and using copyright correctly as you reuse the work of others becomes even more important as you are sharing it with others.
 
 ## On AI and Information Skills
-Throughout the guide we will occasionally discuss the use of AI. GenAI tools can be helpful during the research process if they are used correctly. At the start of your project, you should check whether you are allowed to use these tools, and in what way. For more information on acknowledging your use of AI you can also have a look at [this section](5b-specifying-ai-use.md).
+Throughout the guide we will occasionally discuss the use of AI. GenAI tools can be helpful during the research process if they are used correctly. At the start of your project, you should check whether you are allowed to use these tools, and in what way. For more information on acknowledging your use of AI you can also have a look at [this section](5b-reporting-ai-use.md).
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
