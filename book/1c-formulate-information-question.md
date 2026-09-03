@@ -57,9 +57,9 @@ From this concept map we have formulated the following information search questi
 Another possible information search question could be:
 - **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
 
-Want to learn more about how to get started with conceptmapping? Have a look at the video below about concept mapping from Appalachian State University Libraries
+Want to learn more about how to get started with conceptmapping? Have a look at the video below about concept mapping from Appalachian State University Libraries:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v_8rNiW4A9A?si=kTJJNRIj6Qe-k0KF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_8rNiW4A9A?si=kTJJNRIj6Qe-k0KF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "<a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>Concept Mapping for Developing your Research</a>" by <a href="https://www.youtube.com/@AppStateLib" target=_blank>Appalachian State University Libraries</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
 ## Step 2: Further Specifying Your Question
