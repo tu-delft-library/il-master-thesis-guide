@@ -99,6 +99,7 @@ Establishing a clear purpose for reading a resource can help guide your reading.
 Some example purposes could be:
 - You want to explore a topic and build your foundational knowledge
 - You are looking for an overview of what has been done before
+- You want an answer to a specific information search question
 - You are looking for a specific method or argument
 - You want to broaden your perspectives and connect to what you already know
 - You found a very new resource and want to learn what it adds to what you have previously read
