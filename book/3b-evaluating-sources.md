@@ -1,7 +1,7 @@
 # 3b. Evaluate Sources Broadly
 
 ## Introduction
-When you are presented with a source, before you start reading and using it in your project, you need to make sure if it is worth your time. You do so by checking two aspects of the source: its relevance and its reliability. Once you have included a source in your project, the evaluation doesn't stop: critical reading is necessary to further check the source. This will be further discussed in the chapter on [Processing sources](4-process-sources). This part focuses on evaluating sources in a more broad manner.
+When you are presented with a source, before you start reading and using it in your project, you need to make sure if it is worth your time. You do so by checking two aspects of the source: its relevance and its reliability. Once you have included a source in your project, the evaluation doesn't stop: critical reading is necessary to further check the source. This will be further discussed in the chapter on [Processing sources](4-process-sources). This part focuses on evaluating sources in a more broad manner. You can use the [template for Evaluating and Selecting](3-template-evaluate.docx) as you go through this process.
 
 ::::{grid}
 :gutter: 3
