@@ -1,13 +1,14 @@
 # 4c. Synthesise
 
 ## Introduction
-You have read and summarized your articles. Now it is up to you to decide: Why are they important? Why should you include them in your research? To help you do this, a synthesis is an important tool.
+You have read and summarized your articles. You have found relevant information linking to your information search questions. Now it is up to you to decide: what information is relevant for my research, what information is helping me to answer my questions? And what will the answer be? To help you do this, a synthesis is an important tool.
 
-'Synthesis’ means 'the putting together of parts or elements to form a whole'. When synthesing you take relevant ides from the sources you read and summarised, and combine these ideas with existing knowledge to create new knowledge, connected to your information search questions (Tilburg University).
+'Synthesis’ means 'the putting together of parts or elements to form a whole'. When synthesing you take relevant ideas from the sources you read and summarised, and combine these ideas with existing knowledge to create new knowledge, connected to your information search questions (Tilburg University).
 
 ### Summarising vs synthesising
 
 <iframe src="https://tudelft.h5p.com/content/1292972769003746627/embed" aria-label="Synthesis vs Summary" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 While close reading, notetaking and summarising typically deal with one resource at a time, synthesis is about linking information from different resources to create a new, (_your!_) coherent understanding of a topic. The key question in a synthesis is often: how do the resources you found and read relate to one another, in your interpretation and what variety of answers have you found for your information search questions?
 
 Watch the video below to learn more about the process of synthesising:
@@ -89,7 +90,7 @@ Point-of-view can be a helpful format to build a synthesis around when you find 
 
 ``` {tab-item} Present a chronological progression of a topic
 
-These groupings can help you identify the main ideas within the literature and how they have developed over time (College of Arts and Sciences, n.d.). Rather than providing a timeline of all events surrounding a topic, keep your analysis of the sources critical. This means synthesising sources which came out around the same time and placing your own research within the development of the field. Is your research new? Or is it part of a longer tradition?
+These groupings can help you identify the main ideas within the literature and how they have developed over time (College of Arts and Sciences, n.d.). However, rather than providing a timeline of all events surrounding a topic, you should keep your analysis of the sources critical. This means critically reflecting on the different sources which came out around the same time, synthesising them to tell a story of the development of the field and placing your own research within this context. Is your research new? Or is it part of a longer tradition?
 
 ```
 ````
