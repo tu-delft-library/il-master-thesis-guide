@@ -1,15 +1,14 @@
-# 5c. Copyright
+# 5c. Re(use) Copyrighted Sources
 
 ## Introduction
-
-Your thesis is your work. If others want to reuse it, it is only logical that someone gives you credit for all the hard work you put in. On the other hand, if you reuse the work of others in your thesis, you should also credit them for the work they did. When you are reusing figures, data, images or other works by others you will have to make sure that you credit the creators accordingly.
-
-This is what copyright is about. It helps set the conditions under which others may reuse your work, or help you understand how you can reuse the work of others. It’s important that you know exactly how to do this correctly, and it’s also important to know how to protect your own published work.
+If someone (like you) creates a work, like a thesis, then they own the copyright. Other people can only reuse information if the author has given permission, or has licensed the work with an open license. Often this license requires others using information from the work to credit the author. This is what copyright is about. It helps set the conditions under which others may reuse your work, or help you understand how you can reuse the work of others. It’s important that you know exactly how to do this correctly, and it’s also important to know how to protect your own published work.
 
 Have a look at this video that explains copyright in more detail:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqFXYDrZt7c?si=mPe9nIo1zl8VBnIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "<a href=https://www.youtube.com/embed/ZqFXYDrZt7c?si=mPe9nIo1zl8VBnIo target=_blank>Copyright in 2 minutes</a>" by <a href= "https://www.auteursrecht.nl/" target=_blank>Auteursrecht.nl</a>. No further reuse is allowed<br><br>
+
+Your thesis is your work. Others can only reuse content from your thesis if you give permission or if you license your work open. On the other hand, if you want to reuse work of others in your thesis, you need permission from the author or the author should have used a copyright license on their work that allows for reuse. When you are reusing figures, data, images or other works by others you will have to make sure that you have permission from the creators, that the work has a license that permits you to do so (with proper crediting), or that you are appropriately using your right to quote. The steps involved include recognising copyrighted works, understanding your right to quote, and taking care of your own copyright.
 
 ::::{grid}
 :gutter: 3
