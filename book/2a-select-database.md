@@ -37,7 +37,7 @@ There are two types of academic databases: multidisciplinary databases and subje
 
 The main multidisciplinary databases available at TU Delft are Scopus and Dimensions. These databases both include millions of academic research articles from a variety of disciplines. They have extensive search options, and the quality of the information included is checked by a subject specialist or harvested from publication data. They are effective for finding high quality academic information, using extensive search functionalities.
 
-They differ slightly in how they select sources to include, and the options to search and filter information. When making your decision, you can visit the <a href="https://www.tudelft.nl/tulib/searching-resources/resources#c1036492" target=_blank>TUlib Guide</a>, which compares the functionalities of the two databases in more detail.
+They differ slightly in how they select sources to include, and the options to search and filter information. When making your decision, you can visit the section on journal articles and conference papers in our <a href="https://www.tudelft.nl/tulib/searching-resources/resources#c1036492" target=_blank>TUlib Guide</a>, which includes a more detailed comparison between the functionalities of the two databases.
 
 **About Google Scholar**
 
@@ -79,7 +79,7 @@ To make sure you get the best results you can do a combination of one or more mu
 
 ## Step 2: Access Databases through the A-Z list
 
-The [A-Z list from the TU Delft library](https://databases.tudl.tudelft.nl/) is a good resource to find the topic-specific databases you need for your project. It includes all the information databases we have available for TU Delft students. 
+The <a href="https://databases.tudl.tudelft.nl/" target="_blank">A-Z list from the TU Delft library</a> is a good resource to find the databases you need for your project. It is an overview of databases recommended for TU Delft users, allowing you to find and access a lot of information for your research. In addition to academic databases like Scopus and Dimensions, the list also includes databases for other types of information, like patents, standards, news articles and datasets.
 
 The screencast below shows how to access the list:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VmEUZD3B2aU?si=MVzh2rtuJ3LREwe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
