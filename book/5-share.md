@@ -8,7 +8,7 @@ Common activities during this phase of the your information journey include:
 
 - [5a. Citing Sources](5a-citing.md) - Understand ways of citing, apply a correct referencing style and create a reference list for a variety of sources
 - [5b. Reporting AI Use](5b-reporting-ai-use.md) - Know why and how you should acknowledge the use of AI in your work
-- [5c. Re(use) Copyrighted Sources](5c-images-code.md) - Correctly (re)use sources in accordance with their copyright licensing and know your own rights
+- [5c. Re(use) Copyrighted Sources](5c-copyright.md) - Correctly (re)use sources in accordance with their copyright licensing and know your own rights
 - [5d. Open Science](5d-open-science.md) - Know about open science principles
 
 ## Template for Sharing
