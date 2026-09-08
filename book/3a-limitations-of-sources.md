@@ -1,4 +1,4 @@
-# 3a. Limitations of AI and Other Sources
+# 3a. Importance of Evaluating AI and Other Sources
 
 ## Introduction
 In academic activity and industry, good decisions and solid designs depend on accurate, up-to-date, and trustworthy information. Throughout your thesis, you’ll rely on information from articles, websites, reports, and maybe even AI tools. But not all of these sources are equally reliable, and using weak or incorrect information can easily lead to poor results.
@@ -31,7 +31,7 @@ Evaluating information matters because:
 
 In short, evaluating information helps you build accurate, efficient, and credible work both in your studies and your future career.
 
-## Step 2: Considerations and Limitation of GenAI use
+## Step 2: Considerations and Limitations of GenAI use
 
 GenAI tools can be helpful during the research process if they are used correctly. At the start of your project, you should check whether you are allowed to use these tools, and in what way. For more information on acknowledging your use of AI you can also have a look at [this section](5b-reporting-ai-use.md).
 
@@ -40,7 +40,7 @@ GenAI tools can be helpful during the research process if they are used correctl
 It is strongly suggested that you discuss your planned AI use with your thesis supervisor and check what is allowed.
 ```
 
-Two main concerns about using GenAI output are errors and bias, and this means you should critically evaluate the output of a tool, as well as the need to use a tool.
+In the [Overview of Information Skills](0-information-skills.md) chapter, we briefly addressed general concerns about GenAI use during your thesis journey. When using GenAI output, you should keep in mind specifically that GenAI tools are prone to make mistakes and have biases embedded, which means you always should critically evaluate the output of a tool, as well as the need to use a tool. 
 
 ````{tab-set}
 
