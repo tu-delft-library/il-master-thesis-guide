@@ -50,6 +50,15 @@ Want to learn from what previous students have done? In the <a href="https://rep
 
 ```
 
+### About the TeachBook Format
+This book is a <a href="https://teachbooks.io/manual/intro/book.html" target="_blank">TeachBook</a>: a website build using <a href="https://jupyterbook.org/v1/" target=_blank>Jupyter Books</a> and <a href="https://www.sphinx-doc.org/" target=_blank>Sphinx</a>. The book includes several helpful features. Using the menu on the top right you can:
+- Access Accessibility features (switching to OpenDyslexic font and high contrast)
+- Open/close all dropdowns on a page
+- Connect to the repository of the book to make comments and suggest edits
+- Download individual pages of the book
+- Switch to full screen
+- Switch between Dark / Colour Mode
+
 #### Templates & Handouts
 We have a document available with a short handout, and the combined templates for each of the chapters:
 - [Combined Templates](combined-templates-master-thesis-guide.docx)
