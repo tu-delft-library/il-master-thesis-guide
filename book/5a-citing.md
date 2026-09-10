@@ -58,8 +58,8 @@ Quoted texts must not be too long. Your text should mostly be your own, not a co
 - In fact, “a flexible mind is a healthy mind” (Palladino & Wade, 2010, p. 147).
 - “A flexible mind is a healthy mind”, according to Palladino and Wade’s (2010, p. 147) longitudinal study.
 - Palladino and Wade’s (2010) results indicate that “a flexible mind is a healthy mind” (p. 147).
+Source: "Quote, paraphrase or summarize?" in <a href="https://www.tudelft.nl/tulib/writing-publishing/how-to-cite#c1036704" target=_blank>TUlib</a>
 
-Source: McAdoo, T. (2010). How to cite direct quotations
 ```
 
 ### Paraphrasing
@@ -117,11 +117,10 @@ Reference styles can be divided into two main groups: author-date styles and num
 | **Disadvantage**               | Longer in-text references (for example, references with multiple authors or more than one reference in the same place) can make a text more difficult to read. | In-text references do not contain any useful information themselves. |
 | **Examples**                   | APA, Chicago, Harvard | Nature, Vancouver, IEEE |
 
-Common reference styles you might have encountered in your program are IEEE and APA. You should consult with your supervisor which reference style you should use for your thesis and format your references accordingly.
-- For examples in APA style look at the <a href="https://www.tudelft.nl/tulib/apa-citation-examples" target=_blank>APA 7th Citation Examples</a>.
-- You can find more information about IEEE
-
-
+Common reference styles you might have encountered in your program are APA, IEEE and AIAA. You should consult with your supervisor which reference style you should use for your thesis and format your references accordingly. You can consult the specific websites listed below for more information:
+- <a href="https://www.tudelft.nl/tulib/apa-citation-examples" target=_blank>APA</a>
+- <a href="https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/IEEE" target=_blank>IEEE</a> 
+- <a href="https://www.aiaa.org/publications/journals/reference-style-and-format" target=_blank>AIAA</a>
 
 ``` {admonition} Use Reference Managers
 :class: tip
