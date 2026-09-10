@@ -43,7 +43,7 @@ They differ slightly in how they select sources to include, and the options to s
 
 Google Scholar is also a multidisciplinary database, freely available to use. It finds research articles by crawling the web and including findings in their database. As such, the reliability of the publications found can vary. 
 Moreover, for conducting an extensive literature search, the database only has limited tools available. Google Scholar can be a helpful multidisciplinary database because it includes also preprints and white papers, which are a bit newer than the peer-reviewed articles included in Scopus and Dimensions. 
-If you are working within a topic where research changes often, it can be helpful to add Google Scholar into your search strategy to stay updated (Lier, M. van, n.d.)
+If you are working within a topic where research changes often, it can be helpful to add Google Scholar into your search strategy to stay updated (Tilburg University, n.d.)
 
 ```{admonition} Detailed Comparison Google Scholar versus Library-provided databases
 :class: dropdown note
@@ -119,5 +119,5 @@ Fill in the Database section in your MSc Thesis Search Strategy
 ```
 
 ## References
-- Van Lier, M. (n.d.). _Google Scholar vs. library databases_. LibGuides: InfoSkills for Humanities and Digital Sciences. <a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>https://libguides.uvt.nl/humanities/scholar-vs-databases</a>
+- Tilburg University. (n.d.). _Google Scholar vs. library databases_. LibGuides: InfoSkills for Humanities and Digital Sciences. <a href="https://libguides.uvt.nl/humanities/scholar-vs-databases" target=_blank>https://libguides.uvt.nl/humanities/scholar-vs-databases</a>
 - TU Delft Library Education Support. (n.d.). _Resources_. TUlib. <a href="https://www.tudelft.nl/tulib/searching-resources/resources" target=_blank>https://www.tudelft.nl/tulib/searching-resources/resources</a>
