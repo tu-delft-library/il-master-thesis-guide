@@ -3,7 +3,7 @@
 ## Introduction
 You have read and summarized your articles. You have found relevant information linking to your information search questions. Now it is up to you to decide: what information is relevant for my research, what information is helping me to answer my questions? And what will the answer be? To help you do this, a synthesis is an important tool.
 
-'Synthesis’ means 'the putting together of parts or elements to form a whole'. When synthesing you take relevant ideas from the sources you read and summarised, and combine these ideas with existing knowledge to create new knowledge, connected to your information search questions (Tilburg University).
+'Synthesis’ means 'the putting together of parts or elements to form a whole'. When synthesing you take relevant ideas from the sources you read and summarised, and combine these ideas with existing knowledge to create new knowledge, connected to your information search questions (Tilburg University, n.d.).
 
 ### Summarising vs synthesising
 
@@ -118,6 +118,6 @@ As explained, a synthesis is more than a summary of sources. In a synthesis you 
 - Leiden University ATC Academic reading & writing. (n.d.). _Putting it all together_. [Video]. Leiden University MediaSpace™ video portal. <a href="https://video.leidenuniv.nl/playlist/dedicated/220615623/1_c79ore0g/1_hs8cph9h" target=_blank>https://video.leidenuniv.nl/playlist/dedicated/220615623/1_c79ore0g/1_hs8cph9h</a>
 - Lumen. (n.d.). _Drafting a Research Essay: Synthesizing Ideas_. College Reading and Writing. <a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/planning-your-research-draft-synthesizing-ideas/" target=_blank>https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/planning-your-research-draft-synthesizing-ideas/</a>
 - USU Libraries. (2019, June 25). _Research Synthesis_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=ObK6J7vGnw8" target=_blank>https://www.youtube.com/watch?v=ObK6J7vGnw8</a>
--  Van Lier, M. (n.d.). _LibGuides: Tackling Information Problems (TIP): Synthesize information._ Tackling Information Problems (TIP). <a href="https://libguides.uvt.nl/tip-tutorial/synthesize-information" target=_blank>https://libguides.uvt.nl/tip-tutorial/synthesize-information</a>
+- Tilburg University. (n.d.) _LibGuides: Tackling Information Problems (TIP): Synthesize information._ Tackling Information Problems (TIP). <a href="https://libguides.uvt.nl/tip-tutorial/synthesize-information" target=_blank>https://libguides.uvt.nl/tip-tutorial/synthesize-information</a>
 
 
