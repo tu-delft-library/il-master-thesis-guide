@@ -50,4 +50,4 @@ Just like making a search plan it is good to take some time to set-up an alert p
 
 When checking your alerts, get into the habit of immediately storing interesting new references in your reference manager database. You can learn more about reference managers in chapter [3d - Storing Sources](3d-store-sources.md). 
 
-Follow the guides from from <a href="https://www.tudelft.nl/tulib/searching-resources/setting-up-alerts" target="_blank">TUlib</a> to learn in more detail how to set up search alerts.
+Follow the guides from <a href="https://www.tudelft.nl/tulib/searching-resources/setting-up-alerts" target="_blank">TUlib</a> to learn in more detail how to set up search alerts.
