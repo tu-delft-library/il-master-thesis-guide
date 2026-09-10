@@ -39,9 +39,9 @@ It is strongly suggested that you discuss your planned AI use with your thesis s
 
 GenAI use comes with a lot of considerations, and this means you should critically evaluate the output of a tool, as well as the need to use a tool. We provide here some general considerations you should take into account, as well as five principles on working with AI in general. Where relevant, we provide additional considerations in related chapters.
 
-Texts below are adapted from:
-- "What is Generative AI?". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/what-is-genai.html target=_blank>AI for Literature Review</a> is licensed CC-BY
-- "AI Literacy for Lecturers" by Teaching and Learning Services, TU Delft is licensed CC-BY-NC-SA-4.0
+The texts below are adapted from:
+- "What is Generative AI?". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/what-is-genai.html target=_blank>AI for Literature Review</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY-4.0</a>
+- <a href="https://www.tudelft.nl/teaching-support/educational-training/continuing-professional-development/ai-literacy-for-lecturers" target=_blank>AI Literacy for Lecturers</a> by Teaching and Learning Services, TU Delft is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target=_blank>CC-BY-NC-SA-4.0</a>
 
 ````{tab-set}
 
@@ -116,10 +116,7 @@ For effective and responsible GenAI use, keep the following five principles in m
 
 5. Property: In the end, always remember that you are responsible for your work, also when you use GenAI.
 
-Adapted from "Summary Part 1: Effective and Responsible GenAI Use". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a> is licensed CC-BY
+Adapted from "Summary Part 1: Effective and Responsible GenAI Use". Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY-4.0</a>
 
 ```
 
-## References
-- Meijer, E.-J. (2023). Visualisation learning trajectory information literacy. <a href=https://www.shb-online.nl/download/visualisation-overview-learning-trajectory-information-literacy-project-open-badges target=_blank>https://www.shb-online.nl/download/visualisation-overview-learning-trajectory-information-literacy-project-open-badges</a>
-- Walma, L., & Looij, M. <a href=https://ai-for-literature-review.github.io/Guide/part1/evaluating-output.html target=_blank>AI for Literature Review</a>
