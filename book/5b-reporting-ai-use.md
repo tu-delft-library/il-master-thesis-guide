@@ -59,7 +59,7 @@ It depends on your program how detailed your reporting should be, and you should
 ```{admonition} Example Statement
 :class: note
 
-For example, Elsevier has a page on<a href="https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals" target="_blank">Generative AI policies for journals</a>, which uses the following template for the AI disclosure statement that authors who publish with Elsevier should include:
+For example, Elsevier has a page on <a href="https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals" target="_blank">Generative AI policies for journals</a>, which uses the following template for the AI disclosure statement that authors who publish with Elsevier should include:
 
 During the preparation of this work, the author(s) used **[NAME OF TOOL / SERVICE]** in order to **[REASON]**. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
 ```
