@@ -29,7 +29,7 @@ Storing, organizing, sharing and citing literature is an important part of resea
 Reference management software (also called RMS) and tools help you to manage all the literature you find during your research, so that you can easily use them when writing a paper. They also make it easier to change the formatting of your reference list and to keep in-text citations and reference lists consistent.
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/e7b388c4c74c485c84190c2f09a7ba3e1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/e7b388c4c74c485c84190c2f09a7ba3e1d" target=_blank>Use a Reference Manager</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/e7b388c4c74c485c84190c2f09a7ba3e1d" target=_blank>Storing References - Using a Reference Management Software (RMS)</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ``` {admonition} Guided activity: Get Started with a Reference Manager
 :class: dropdown tip
@@ -67,7 +67,7 @@ Add one or more references for other document types than articles and books to y
 A good tagging or folder system can help you throughout your master thesis. You will likely be working with more sources than in regular classes, and also for a longer period of time. Have a look at this video on how to approach tagging
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/c15485c840b445bcada4d1bd1e664a4c1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c15485c840b445bcada4d1bd1e664a4c1d" target=_blank>Tagging References</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c15485c840b445bcada4d1bd1e664a4c1d" target=_blank>Organizing your literature - Tagging</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
 
 ``` {admonition} Course on Files and Folders
 :class: dropdown tip

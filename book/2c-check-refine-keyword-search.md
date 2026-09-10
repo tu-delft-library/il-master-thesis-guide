@@ -1,4 +1,4 @@
-# 2c. Evaluating Your Search Strategy
+# 2c. Check and Refine Your Keyword Search
 
 ## Introduction
 After setting up your basic search, you can further refine your keyword search strategy, as well as add additional search strategies. You can evaluate the quantity and relevance of your search results, and subsequently use techniques to either broaden or narrow your initial search.
@@ -10,13 +10,13 @@ After setting up your basic search, you can further refine your keyword search s
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Evaluating Your Keyword Search](#step-1-evaluating-your-keyword-search)<br>
+[Evaluating Your Keyword Search](#step-1-check-quantity-and-relevance)<br>
 Judging the Quantity and Relevance of Your Results
 
 :::
 
 :::{grid-item-card} Step 2<br>
-[Updating Your Keyword Search](#step-2-updating-your-keyword-search)<br>
+[Refine Your Keyword Search](#step-2-refine-your-keyword-search)<br>
 Use basic strategies to broaden or narrow your search
 
 :::
@@ -29,7 +29,7 @@ Use tools like Copilot to improve your search
 
 ::::
 
-## Step 1: Evaluating Your Keyword Search:
+## Step 1: Check Quantity and Relevance:
 Searching is a matter of trial and error, and you do not create a perfect search plan all at once. You create a search plan, try it out, evaluate your search results, edit your search plan, and keep repeating these steps until your search plan is the best you can make it. When you assess your query, you first look at the quantity of your results, followed by how relevant the results are to your question. 
 
 ### Quantity
@@ -40,7 +40,7 @@ Relevance  means that the results of your search are of significance for your re
 
 In a proper literature search about 80% of your search results should be relevant. If all the documents you found are relevant then there is a possibility you are missing important literature, and maybe you should broaden your search.
 
-## Step 2: Updating Your Keyword Search
+## Step 2: Refine Your Keyword Search
 
 ### Broadening Your Search
 When you have found too few results, common techniques to broaden your search include:
@@ -51,7 +51,7 @@ When you have found too few results, common techniques to broaden your search in
 
 Watch the video below for a guided example on how to do this.
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" target=_blank>Broadening</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/15d3b09c9d1b4cf7a7d7294c6ed5a26e1d" target=_blank>Searching How-to Part 2: Broadening your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ### Narrowing Your Search
 When you have found too many results, common techniques to narrow down your search include:
@@ -63,14 +63,14 @@ When you have found too many results, common techniques to narrow down your sear
 Watch the video below for a guided example on how to do this:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" target=_blank>Narrowing</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/0fb4feea68f94923805511df3943d2cd1d" target=_blank>Searching How-to Part 3: Narrowing your Search</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 
 ### Step 3: Use AI to Help Refine Your Draft Query
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-Please check with your supervisor if you are allowed to use AI in your thesis project
+Check with your supervisor if you are allowed to use AI in your thesis project. If yes, document the tools and prompts you used so you can report your AI use in your thesis.
 ```
 
 If you are allowed to use AI, you can use Copilot to support your keyword search. For example, you can ask it for additional synonyms as you are developing your draft keyword search.

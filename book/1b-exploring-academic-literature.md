@@ -1,14 +1,22 @@
-# 1c. Exploring Academic Literature
+# 1b. Exploring Academic Literature
 
 ## Introduction
 
-Once you have done an initial orientation and have a preliminary information search question to work with, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
+After you have done a general orientation and have defined your initial research topic, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
+
+An academic exploration means doing a literature on a large amount of academic sources. The goal is not to select and read the sources you find, but to gather context around your topic. Example findings of an exploration include:
+- What are important journals in my topic?
+- Who are main authors or universities working in my field?
+- What topics are discussed within my filed?
+- How does the research I want to do connect to what other scholars are doing?
 
 By doing an exploration of academic literature you can:
-- Find new knowledge gaps
+- Find knowledge gaps
 - Discover new disciplines connected to your topic
 - Discover authors that are working on related research questions
 - Uncover keywords that are used within your topic to use for a content search
+
+Because an exploration gives you a broad overview of what is going on in your topic, it can help you get a better understanding of your research field. This can help you identify knowledge gaps, and prepare you for your specific literature search.
 
 Steps involved include first to create a good exploration question for an academic database, followed by analysing the top terms, authors and keywords used in your field.
 
@@ -22,13 +30,12 @@ Formulate a question for your topic that is broad enough to search in a database
 :::
 
 :::{grid-item-card} Step 2<br>
-[Check Basic Information on Topic](#step-2-check-basic-information-on-your-topic)<br>
+[Check Basic Information on Topic](#step-2-find-and-analyse-basic-information-on-your-topic)<br>
 Look at key statistics like top authors, journals, subject areas and keywords to learn more
 
 :::
 
 ::::
-
 
 ## Step 1: Create an Initial Exploration Strategy
 There are 4 steps involved in creating a good exploration strategy for an academic database:
@@ -44,7 +51,7 @@ an exploration question should be on a broader level, like:
 
 **2: Choose a multidisciplinary academic database:**
 
-Because in an exploration your goal is to look broadly at the different research that is being done on your topic, you should use a database that includes a wide variety of disciplines. For TU Delft students, the databases Dimensions and Scopus are a good starting point.
+Because in an exploration your goal is to look broadly at the different research that is being done on your topic, you should use a database that includes a wide variety of disciplines. For TU Delft students, the databases <a href="https://app.dimensions.ai/discover/publication" target="_blank">Dimensions</a> and <a href="https://www.scopus.com/" target="_blank">Scopus</a> are a good starting point.
 
 **3: Apply filters for articles, reviews, letters (and conference papers if relevant)**
 
@@ -55,11 +62,11 @@ This number may seem like a lot, but remember: The goal of an exploration is not
 Watch a guided research scenario on how to create a good question for an exploration:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/6b57e5d3ee414beba6c6f4b3b4379cce1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/6b57e5d3ee414beba6c6f4b3b4379cce1d" target=_blank>Setting up your Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/6b57e5d3ee414beba6c6f4b3b4379cce1d" target=_blank>Exploration How-to Part 1 - Setting up your Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 _The video mentions that you should limit an exploration to articles, reviews and letters. If your field communicates a lot through conference papers, you should also include those in your exploration search._
 
-## Step 2: Check Basic Information on Your Topic
+## Step 2: Find and Analyse Basic Information on Your Topic
 
 Once you have formulated a broad question and are happy with the initial results of your exploration, you can use the analysis features of the academic databases Scopus or Dimensions to look up some helpful information about the context of your topic: 
 
@@ -75,7 +82,7 @@ The keywords lists provided by Scopus or Dimensions, or the first 20 abstracts o
 Watch a guided research scenario on how to interpret the results of an exploration
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/375db89ade9b4fb1bb3fa799df36fa181d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"<a href="https://collegerama.tudelft.nl/Mediasite/Play/375db89ade9b4fb1bb3fa799df36fa181d" target=_blank>Analyzing the Results from Your Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/375db89ade9b4fb1bb3fa799df36fa181d" target=_blank>Exploration How-to Part 2 - Analyzing the Results from Exploration</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ```{admonition} Expert Software for Exploring Scientific Literature
 :class: dropdown tip

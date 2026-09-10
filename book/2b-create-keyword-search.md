@@ -15,7 +15,7 @@ Watch this short recap of the keyword search process:
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Identify Concepts](#1-breaking-research-question-down-into-concepts)<br>
+[Identify Concepts](#step-1-breaking-research-question-down-into-concepts)<br>
 Break down your information search question into concepts
 :::
 

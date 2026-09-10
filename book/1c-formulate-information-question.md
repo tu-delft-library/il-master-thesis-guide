@@ -1,0 +1,105 @@
+# 1c. Formulate an Information Search Question
+
+## Introduction
+
+Once you have your topic, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project? 
+
+The terms research question and information search question are sometimes used interchangeably. In this guide we distinguish between information search questions and research questions. We define them as follows: 
+
+- A research question is the focus of you master thesis project, something _you_ want to design or research. The answer of a research question commonly cannot be found in literature, but by experimenting and prototyping.
+
+- Information search questions help you find out what _others_ have designed or researched about your topic or research question. They are directly related to your (draft) research question, but can be answered by conducting a literature search.
+
+As discussed in [Overview of Information Skills](0-information-skills.md): there are multiple phases in a master thesis when you will need to search for information from others. For each of these phases, your information needs and resulting information search questions will likely differ.  You should define clearly what information you need before starting searching and processing your sources. If you are at the start of your thesis, you will likely need some more information to refine your research question, to find a knowledge gap or look for a research methodologies or design methods to use. If you are already in the middle of your project, you might want to look for additional information to connect to your research results to what others have done, to adapt your methods, or to check if any new research has come out. 
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item-card} Step 1<br>
+[Define Components](#step-1-defining-components-of-an-information-question)<br>
+Define the initial building blocks of your question
+
+:::
+
+:::{grid-item-card} Step 2<br>
+[Specify Further](#step-2-further-specifying-your-question)<br>
+Break your question down into broader or more narrow components
+
+:::
+
+::::
+
+## Step 1: Defining Components of an Information Question
+
+When you have done an initial exploration of your sources, take your mind map or summaries and try to formulate an information search question. You should define the what, how, why, who and where you are going to study. 
+
+<a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>Tilburg University</a> has some good considerations on formulating a relevant question for an information search (Tilburg University, n.d.). It should be: 
+- Clear
+- Specific
+- Manageable within the time you have
+
+For your information search question, you should identify the who, what, where, why and how of what you want to study. 
+
+This example from Maastricht University provides some additional information about this:
+<iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=217" width="758" height="408" frameborder="0" allowfullscreen="allowfullscreen" title="RD13 - Focusing research topic"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"Focusing Your Topic"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
+
+### Example Research scenario
+
+Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. In the concept map you visualise the relations and dependencies of a topic by connecting them with branches, which gives you a clearer overview of your subject. You can then use the concept map to formulate various information search questions by looking at the relations and dependencies of different branches of the concept map.
+
+![Concept Map](1a-conceptmap.jpg)<br>
+<a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>"Concept Map"</a> from <a href= "https://www.tudelft.nl/tulib" target=_blank>TUlib</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA</a><br>
+
+From this concept map we have formulated the following information search question:
+
+- **“How can the print quality of inkless printing be improved by using optical technology?”**<br><br>
+Another possible information search question could be:
+- **“How does inkless printing by optical technology influence the energy consumption of the printing industry?”**
+
+Want to learn more about how to get started with conceptmapping? Have a look at the video below about concept mapping from Appalachian State University Libraries:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_8rNiW4A9A?si=kTJJNRIj6Qe-k0KF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+"<a href="https://www.youtube.com/watch?v=v_8rNiW4A9A" target=_blank>Concept Mapping for Developing your Research</a>" by <a href="https://www.youtube.com/@AppStateLib" target=_blank>Appalachian State University Libraries</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a>
+
+## Step 2: Further Specifying Your Question
+
+### Narrow or Broaden Specific Components
+Once you have your initial question, you can look at its different components and make them more or less specific. The example below shows how you can narrow or broaden components of a specific question. The how brings all the components together in a new information search question: <br><br>
+
+|  | Broad | Narrower | Extremely narrow |
+| --- | --- | --- | --- |
+| WHO | Inkless printed materials | Inkless printed teaching materials | Diagrams and formulas on inkless printed teaching materials |
+| WHAT | Optical technology | UV-LED optical technology | UV-LED optical technology Method A |
+| WHERE | Global | European higher education institutions | Classrooms at TU Delft |
+| WHY | Improving inkless printed materials | Improve readability of inkless printed teaching materials | Improve readability of diagrams and formulas on inkless printouts |
+| HOW | How can the print quality of inkless printing be improved by using optical technology? | How can the print quality of inkless printing be improved by using optical technology in European higher education institutions by using UV-LED optical technology? | How can the readability of diagrams and formulas on inkless printed teaching materials at TU Delft be improved using method A of UV-LED optical technology? |
+
+Adapted from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a><br><br>
+Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
+
+Please note: not all components in your information search question need to be as specific as in this example. Think about what information you need exactly. For example, if you are looking for specific methodologies, the components of your question might not need to be highly detailed about the _where_ or the _who_, but more about _what_ others have done and _why_.<br><br>
+
+### Make Subquestions
+To further specify your information search question and make it more manageable, it can be helpful to divide it into sub-questions. In order to answer the information search question “How can the print quality of inkless printing be improved by using optical technology?”, you should formulate a number of sub-questions to further specify your search:
+
+| Question | Explanation | Example |
+|----------|-------------|---------|
+| **What?** | Definitions of terms | What is the definition of print quality?<br>What kinds of optical technology are used in printing? |
+| **How?** | Relations between terms | How can optics technology influence the print quality? |
+| **Why?** |  Benefits of Research | Why would you improve inkless printing technology? |
+| **Who?** | Target Group | Who would benefit of wider use of inkless printing technology? |
+| **Where?** | Geographical Demarcation | Where would the improved inkless printing technology be most of use? |
+
+A research topic can consist of multiple terms. The ‘What’ and ‘How’ sub-questions can therefore be posed multiple times.
+Very often, you won’t be able to answer all five types of sub-questions. The ‘What’ and ‘How” sub-questions must always be posed, but the why, who and where questions depend on how specific your research topic is.
+
+```{admonition} THESIS SUPERVISOR
+:class: important
+Once you have formulated your initial information search questions, this is a great moment to get feedback from your supervisor. You can also try to explain your information search question to a fellow student, it will likely help to further shape your questions.
+```
+
+
+## References
+- Tilburg University. (n.d.). _LibGuides: Tackling Information Problems (TIP): Formulate your research question._ Tackling Information Problems (TIP). <a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>https://libguides.uvt.nl/tip-tutorial/research-question</a>
+

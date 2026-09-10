@@ -1,7 +1,10 @@
 # 4b. Summarise
 
 ## Introduction
-If you have decided to close read or are reading a source that is highly relevant for your project, a summary can help you use the source in the future. While you may have already done some note-taking while close reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. A summary can also help you understand and evaluate a source better. The basic steps of this process include the following:
+A summary is a condensed version of a text. It presents a short overview of a text including its main ideas, arguments and findings (Ontario Institute for Studies in Education. (n.d.)). 
+If you are reading a source that is highly relevant for your thesis, a summary can help you use the source in the future. While you may have already done some note-taking while close reading your sources, a summary differs in that it is usually a bit more structured and helps you recognise the key points of a source later. Summarising a source can also help you understand and evaluate a source better. 
+
+The basic steps of this process include the following:
 
 ::::{grid}
 :gutter: 2
@@ -21,21 +24,26 @@ Choose a format that works for you
 ::::
 
 ## Step 1: Identify Basic Components
-A summary of a text helps you to process the source, as well as being able to relocate it later. There are many ways you can approach summarising a source, but there are elements you should always include:
+There are many ways you can approach summarising a source, but there are elements you should always include:
 
-- Bibliographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project.
-- Topic / Research Question
+- Bibliographical information. For example, author, publication, year. All the details you need to include to relocate the source later in your project. This can also help you when referencing.
+- Topic / Research Question of the source
 - Methods used
 - Main results
-- Connection to previous studies 
+- Connection to previous studies
 - Limitations of the study
 - Implications of the findings
-
+  
 As you read through your article, underline and take note of these different parts. You can subsequently organise these initial parts in a format that works well for you to summarise. (Trent University, n.d.; Ontario Institute for Studies in Education, n.d.).
+
+```{admonition} Tip: Reach out to your peers
+:class: tip
+When working on your summaries, and trying to fully comprehend an article, reach out to fellow students if you know they are reading the same articles to discuss. Hearing different perspectives on an article can often help deepen your understanding.
+```
 
 ## Step 2: Choose a summary format
 
-Summaries can come in many formats. Depending on your purpose they can be more or less elaborate.  Watch this overview of different types of summaries you could use as you are processing a source
+Summaries can come in many formats. Depending on your purpose they can be more or less elaborate.  Look at this overview of different types of summaries you could use as you are processing a source
 
 ````{tab-set}
 ```{tab-item} Mindmaps
@@ -50,7 +58,7 @@ Use visual elements like drawings or symbols to replace text. Use arrows to conn
 6. It is important to get a complete picture of the essence of your research topic. Ask yourself a few questions: does the mind map gives a complete overview? Do the keywords make sense? Make some changes if necessary.
 7. If you want to find out you made a clear mind map,  look at it at a later time and see how much of the articles you can recall. If you do not remember that much, maybe you didn’t use the right keywords or some connections are missing. Try to find out what went wrong, so you won’t make the same mistakes again next time you make a mind map.
 
-see also: <a href="https://www.youtube.com/watch?v=u5Y4pIsXTV0" target=_blank>How to Mind Map with Tony Buzan</a>
+See also: <a href="https://www.youtube.com/watch?v=u5Y4pIsXTV0" target=_blank>How to Mind Map with Tony Buzan</a>
 
 ```
 
@@ -65,7 +73,7 @@ It can be helpful to create a literature matrix while you are reading your sourc
 | Theme 3 (for example: main results) | relevant information from source 1 | ... | ... | ... |
 | Theme 4 (for example: limitations of the study) | relevant information from source 1 | ... | ... | ... |
 
-Want to learn more about how to create this type of summary? Have a look at <a href=" https://usi.libguides.com/literature-review-basics/tables" target=_blank>this guide</a> (Bernhardt, n.d.).
+Want to learn more about how to create this type of summary? Have a look at the guide <a href="https://usi.libguides.com/literature-review-basics/tables" target=_blank>"Using Research & Synthesis Tables"</a> by Rice Library (Bernhardt, n.d.).
 ```
 
 ```{tab-item} Short Summary
@@ -80,7 +88,7 @@ A short summary is the most common way to summarise your sources. This should at
 - Things that are still unclear for you (specific terms, concepts). Useful for additional reading of other sources
 (Trent University, n.d.)
 
-If you want to read more about how to write this type of summary, consult <a href="https://www.trentu.ca/academicskills/how-guides/how-write-university/how-approach-any-assignment/writing-article-summaries" target=_blank>this guide from Trent University</a> for further reading
+If you want to read more about how to write this type of summary, consult the guide "<a href="https://www.trentu.ca/academicskills/how-guides/how-write-university/how-approach-any-assignment/writing-article-summaries" target=_blank>Writing Article Summaries</a>" from Trent University</a> for further reading.
 
 ```
 
@@ -103,11 +111,13 @@ Want to learn more about how to create this type of summary? Visit the website f
 
 ````
 
-``` {admonition} About AI
+```{admonition} Tip: On Using AI Tools
 :class: warning
-While AI can provide you with summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
+While AI can provide summaries, we recommend you do the summarising yourself. It helps you to understand and process your sources better. Moreover, AI tools are prone to errors when analysing and summarising texts.
+See our guide: <a href=https://ai-for-literature-review.github.io/Guide/part2/analyze-literature-reading-summarising.html target=_blank>AI for Literature Review: Reading and Summarising Sources</a>
 ```
 
+If you have progressed with summarising, this might be a time to also start [synthesising](4c-synthesise.md) your findings.
 
 ## References
 - Bernhardt, L. (n.d.). _Research Guides: Literature Review Basics: Using Research & Synthesis Tables_. Rice Library. <a href="https://usi.libguides.com/literature-review-basics/tables" target=_blank>https://usi.libguides.com/literature-review-basics/tables</a>

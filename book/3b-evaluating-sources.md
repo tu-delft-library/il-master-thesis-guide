@@ -1,13 +1,13 @@
 # 3b. Evaluate Sources Broadly
 
 ## Introduction
-When you are presented with a source, before you start reading and using it in your project, you need to make sure if it is worth your time. You do so by checking two aspects of the source: its relevance and its reliability. Once you have included a source in your project, the evaluation doesn't stop: critical reading is necessary to further check the source. This will be further discussed in the chapter on [Processing sources](4-process-sources). This part focuses on evaluating sources in a more broad manner.
+When you are presented with a source, before you start reading and using it in your project, you need to make sure if it is worth your time. You do so by checking two aspects of the source: its relevance and its reliability. Once you have included a source in your project, the evaluation doesn't stop: critical reading is necessary to further check the source. This will be further discussed in the chapter on [Processing sources](4-process-sources). This part focuses on evaluating sources in a more broad manner. You can use the [template for Evaluating and Selecting](3-template-evaluate.docx) as you go through this process.
 
 ::::{grid}
 :gutter: 3
 
 :::{grid-item-card} Step 1<br>
-[Evaluate Relevance](#step-1-evaluate-reliability)<br>
+[Evaluate Relevance](#step-1-evaluate-relevance)<br>
 Evaluate if a source connects to your project
 :::
 
@@ -47,7 +47,7 @@ A source doesn’t need to cover every single part of your research question to 
 ```
 
 ## Step 2: Evaluate Reliability
-Reliability is a characteristic of the information itself. Information found online ranges from online scientific journal articles to personal blogs, and from open access research data to sponsored reviews. The information may be completely reliable or very unreliable. It is not always obvious to which category it belongs, so you need to look at certain criteria to decide whether the information is reliable before you use it. Can you trust it? Is it based on scientific research or is it someone’s personal opinion? Decide if a search result from a certain information type is reliable by examining the:
+Reliability is a characteristic of the information itself. Information found online ranges from online scientific journal articles to personal blogs, and from open access research data to sponsored reviews. The information may be completely reliable or very unreliable. It is not always obvious to which category it belongs, so you need to look at certain criteria to decide whether the information is reliable before you use it. Can you trust it? Was it written with an objective scientific intention, or were there certain stakes or stakeholders influencing the author's content? Decide if a search result from a certain information type is reliable by examining the:
 
 - background information on the author(s).
 - audience for which the information is intended.
