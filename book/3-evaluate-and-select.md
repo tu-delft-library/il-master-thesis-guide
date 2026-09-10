@@ -6,9 +6,9 @@ Now that you have done your initial search, analysed and refined your search res
 
 Common activities during this phase of your information journey include:
 
-- [3a. Importance of Evaluating AI and Other Sources](3a-limitations-of-sources.md) - Understand the limitations of genAI and other Sources
-- [3b. Evaluate Sources Broadly](3b-evaluating-sources.md) - Assess the relevance and reliability of sources
-- [3c. Select Effectively](3c-select-effectively.md) - Select academic literature
+- [3a. Importance of Evaluating GenAI and Other Sources](3a-limitations-of-sources.md) - Understand the importance of evaluating genAI and other Sources
+- [3b. Evaluate Sources Broadly](3b-evaluating-sources.md) - Assess the relevance and reliability of sources and use the CRAAP test
+- [3c. Select Effectively](3c-select-effectively.md) - Apply the title-abstract method to select academic literature
 - [3d. Store Sources](3d-store-sources.md) - Use reference managers and tagging to store your sources
 
 ## Template for Evaluating and Selecting
