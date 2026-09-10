@@ -12,7 +12,7 @@ What are main reasons to evaluate sources?
 :::
 
 :::{grid-item-card} Step 2<br>
-[Considerations for GenAI Output](#step-2-limitations-of-genai-output)<br>
+[Limitations of GenAI Output](#step-2-limitations-of-genai-output)<br>
 What are some major concerns for GenAI output?
 
 :::
