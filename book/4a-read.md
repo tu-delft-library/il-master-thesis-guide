@@ -135,13 +135,18 @@ As you close read the text, make sure you take notes. If you don’t, you may lo
 
 1.	Be systematic and consistent with notes (location stored, types of notes)
 2.	Include citation of the source when note-taking, or take notes on the article itself
-3.	Tag if a note is a summary, quote, paraphrasing, own idea/question to help you reuse it later
+3.	Tag if a note is a summary, quote, paraphrasing, own idea/question to help you reuse it later (Lumen, n.d.).
 4.	Connect your notes to your reference manager, either by creating note files as part of the reference record in your reference manager library, or by using plugins to cite sources from the reference manager as you do your notetaking in Word or other note-taking apps.
 5.	Don’t overdo it. Your notes should be linked to your reading goals, your information search questions, important concepts and findings, or action items (for instance something you want to look up)
 6.	Create a glossary of terms (term, definition, link to resource), this allows you to manage your knowledge of frequently used terms, and might be helpful to include in your end-product.
 7.	Are there certain things, such as terms, concepts or arguments, that you do not understand yet? Make a note of this so you can come back to it.
 
+For more tips and specific strategies for notetaking, have a look at the chapter "<a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/" target=_blank>Reading, Noting, & Synthesizing Sources</a>" by Lumen Learning.
+
+```{admonition} Tip: Notetaking Tools 
+:class: tip
 Tip: The choice of your preferred notetaking app and style of notetaking is based on your personal preference. There are a lot of tools available for you to use. Have a look at the video <a href="https://www.youtube.com/watch?v=f3dDVtJ2sec" target=_blank>"Which Note App are You?"</a> from Tiago Forte to help you reflect on what type of notetaking tool might work best for you.
+```
 
 **Expect to Read a Source Multiple Times:**
 
@@ -196,4 +201,3 @@ If you feel like after a significant time reading and searching you are still ov
 - Leiden University ATC Academic reading & writing. (n.d.). _Reading well_ [Video]. Leiden University MediaSpace™ video portal. <a href="https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1" target=_blank>https://video.leidenuniv.nl/media/t/1_6ggi9g46?utm_source=edusources.nl&utm_content=link&kalturaSeekFrom=2&kalturaClipTo=526&kalturaStartTime=1</a>
 - Lumen. (n.d.). _Reading, Noting, & Synthesizing Sources_. College Reading and Writing. <a href="https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/" target=_blank>https://courses.lumenlearning.com/suny-esc-introtocollegereadingandwriting/chapter/research-writing-synthesizing-information-from-multiple-texts/</a>
 - PittCCLibrary. (2016, January 6). _How to Read a Scholarly Article_ [Video]. YouTube. <a href="https://www.youtube.com/watch?v=c3tV8g70YuU" target=_blank>https://www.youtube.com/watch?v=c3tV8g70YuU</a>
-- UBC iSchool. (2013) _How to Read an Academic Paper_ [Video]. YouTube. <a href="https://youtu.be/SKxm2HF_-k0" target="_blank">https://youtu.be/SKxm2HF_-k0</a>
