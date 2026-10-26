@@ -2,7 +2,7 @@
 
 You can refer to this book as:
 
-> Walma, L. (2026). _Information Literacy Master Thesis Guide_. https://tu-delft-library.github.io/il-master-thesis-guide/dev/intro.html. Source files at https://github.com/tu-delft-library/il-master-thesis-guide. CC-BY-4.0.
+> Walma, L. (2026). _Information Literacy Master Thesis Guide_. https://tu-delft-library.github.io/il-master-thesis-guide/main/intro.html. Source files at https://github.com/tu-delft-library/il-master-thesis-guide. CC-BY-4.0.
 
 You can refer to individual chapters or pages within this book as:
 
